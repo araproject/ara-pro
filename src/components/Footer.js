@@ -5,7 +5,7 @@ export default class Footer extends Component {
   render() {
     return (
       <footer className="footer container">
-        <a href="#" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.aradechoco.com/me/" target="_blank" rel="noopener noreferrer">
           About
         </a>
         <Link to="/contact">Contact</Link>
