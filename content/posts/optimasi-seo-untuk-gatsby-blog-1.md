@@ -147,7 +147,7 @@ Host: https://www.aradechoco.com
 
 Bahkan, ini mungkin bahkan tidak otomatis. 😅
 
-Sejauh ini, Anda telah melihat optimasi mesin pencari dasar menggunakan 'sitemap.xml' dan 'robots.txt', dan cara mengotomatiskannya dengan plugin untuk situs yang dibuat dengan Gatsby. Dalam artikel berikutnya, Anda akan menemukan pengoptimalan yang lebih spesifik dan cara meningkatkan peringkat blog di mesin pencarian. Mari belajar.
+Sejauh ini, Anda telah melihat optimasi mesin pencari dasar menggunakan 'sitemap.xml' dan 'robots.txt', dan cara mengotomatiskannya dengan plugin untuk situs yang dibuat dengan Gatsby. Dalam [artikel Optimasi SEO untuk Gatsby Blog #2](https://www.aradechoco.com/optimasi-seo-untuk-gatsby-blog-part-2/), Anda akan menemukan pengoptimalan yang lebih spesifik dan cara meningkatkan peringkat blog di mesin pencarian. Mari belajar.
 
 ## referensi 
 
