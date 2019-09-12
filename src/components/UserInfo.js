@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import aradechoco from '../../content/images/aradechoco.png'
-import patreon from '../../content/thumbnails/patreon.png'
+import patreon from '../../content/thumbnails/youtube.png'
 import kofi from '../../content/thumbnails/kofi.png'
 
 export default class UserInfo extends Component {
@@ -19,7 +19,7 @@ export default class UserInfo extends Component {
 
               <div className="flex">
                 <a
-                  href="https://ko-fi.com/"
+                  href="https://ko-fi.com/aradechoco"
                   className="donate-button"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -29,11 +29,11 @@ export default class UserInfo extends Component {
                 </a>
                 <a
                   className="patreon-button"
-                  href="https://www.patreon.com/"
+                  href="https://www.youtube.com/c/aradechoco/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <img src={patreon} height="50" width="50" /> Patreon
+                  <img src={patreon} height="50" width="50" /> Subscribe
                 </a>
               </div>
             </div>
