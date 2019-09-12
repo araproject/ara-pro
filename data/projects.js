@@ -1,13 +1,13 @@
 export default [
   {
-        icon: '🗂',
+        icon: '🗂️',
     title: 'asnonepage',
     path: 'https://www.asnonepage.com/',
     source: 'https://www.asnonepage.com/',
     description: 'Blog yang membahas teknologi,bisnis, tutorial dll..',
   },
   {
-      icon: '🏖',
+      icon: '🏖️',
     title: 'matakaki',
     path: 'https://www.matakaki.com',
     source: 'https://www.matakaki.com',
