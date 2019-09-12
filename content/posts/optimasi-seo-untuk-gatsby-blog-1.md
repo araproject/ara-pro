@@ -1,9 +1,9 @@
 ---
 date: 2019-10-13
-title: 'Optimasi SEO untuk Gatsby Blog #1'
+title: 'Optimasi SEO untuk Gatsby Blog Bagian 1'
 template: post
 thumbnail: '../thumbnails/google.png'
-slug: optimasi-seo-untuk-gatsby-blog-part-1
+slug: optimasi-seo-untuk-gatsby-blog-1
 categories:
   - SEO
   - Code
