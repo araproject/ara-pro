@@ -15,7 +15,7 @@ tags:
 
 Jika membuat sebuah situs web atau blog, pasti menginginkan blog Anda muncul di halaman pertama untuk hasil pencarian google. Saya sudah menulis blog untuk beberapa waktu, tetapi saya baru tahu dan mulai menerapkannya di blog saya.
 
-![](../thumbnails/searchconsolegoogle.png)
+![](../images/searchconsolegoogle.png)
 
 Apakah Anda berada di halaman pertama atau halaman keempat, Anda harus bisa membuat Blog Anda agar di kenali oleh hasil pencarian google. Apa yang perlu Anda lakukan untuk melakukan ini? Sebelum kita sampai di sana, kita perlu memahami cara kerja Search Engine Optimization atau mesin pencari.
 
