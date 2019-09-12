@@ -62,7 +62,7 @@ export default class Navigation extends Component {
               className="kofi-button"
               target="_blank"
               rel="noopener noreferrer"
-              href="https://ko-fi.com/"
+              href="https://ko-fi.com/aradechoco"
               aria-label="Buy me a coffee!"
               title="Buy me a coffee!"
             >
