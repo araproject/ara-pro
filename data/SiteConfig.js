@@ -9,7 +9,7 @@ const config = {
   dateFromFormat: 'YYYY-MM-DD',
   dateFormat: 'MMMM Do, YYYY',
   siteDescription:
-    'aradechoco is a web developer and writer specializing in modern JavaScript.',
+    'Seorang blogger & freelancer amatiran. Situs web ini dibuat untuk tempat mendokumentasikan apa saja.',
   siteRss: '/rss.xml',
   googleAnalyticsID: '#',
   postDefaultCategoryID: 'Tech',
