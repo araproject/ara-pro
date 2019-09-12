@@ -5,12 +5,8 @@ export default class Footer extends Component {
   render() {
     return (
       <footer className="footer container">
-        <a href="https://www.aradechoco.com/me/" target="_blank" rel="noopener noreferrer">
-          About
-        </a>
-        <a href="https://www.aradechoco.com/privacy/" target="_blank" rel="noopener noreferrer">
-          Privacy Policy
-        </a>
+        <Link to="/me">About</Link>
+        <Link to="/privacy">Privacy Policy</Link>
         <Link to="/contact">Contact</Link>
         <a href="https://aradechoco.com/rss.xml" target="_blank" rel="noopener noreferrer">
           RSS
