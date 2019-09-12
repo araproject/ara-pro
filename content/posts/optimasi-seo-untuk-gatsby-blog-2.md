@@ -1,6 +1,6 @@
 ---
 date: 2019-10-13
-title: 'Optimasi SEO untuk Gatsby Blog #2'
+title: 'Optimasi SEO untuk Gatsby Blog Bagian 2'
 template: post
 thumbnail: '../thumbnails/google.png'
 slug: optimasi-seo-untuk-gatsby-blog-part-2
@@ -99,6 +99,6 @@ Ketika saya menulis artikel ini, saya pikir saya harus belajar lebih banyak tent
 
 referensi ##
 
-- <a href="https://www.aradechoco.com/optimasi-seo-untuk-gatsby-blog-part-1/" target="_blank"> Optimasi SEO untuk Gatsby Blog #1 </a>
+- <a href="https://www.aradechoco.com/optimasi-seo-untuk-gatsby-blog-part-1/" target="_blank"> Optimasi SEO untuk Gatsby Blog Bagian 1 </a>
 - <a href="https://support.google.com/webmasters/answer/7451184?hl=id" target="_blank"> Panduan SEO Google </a>
 - <a href="https://webmasters.googleblog.com/2007/09/improve-snippets-with-meta-description.html" target="_blank"> Enhance the snippet with the meta description makeover </a>
