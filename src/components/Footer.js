@@ -8,6 +8,9 @@ export default class Footer extends Component {
         <a href="https://www.aradechoco.com/me/" target="_blank" rel="noopener noreferrer">
           About
         </a>
+        <a href="https://www.aradechoco.com/privacy/" target="_blank" rel="noopener noreferrer">
+          Privacy Policy
+        </a>
         <Link to="/contact">Contact</Link>
         <a href="https://aradechoco.com/rss.xml" target="_blank" rel="noopener noreferrer">
           RSS
