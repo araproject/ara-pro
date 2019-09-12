@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-slug: resume
+slug: privacy
 template: page
 ---
 
