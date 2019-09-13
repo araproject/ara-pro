@@ -29,11 +29,11 @@ export default class UserInfo extends Component {
                 </a>
                 <a
                   className="patreon-button"
-                  href="https://www.youtube.com/c/aradechoco/"
+                  href="https://feedburner.google.com/fb/a/mailverify?uri=web/vfZZ"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <img src={patreon} height="50" width="50" /> Subscribe
+                  🔥 Subscribe
                 </a>
               </div>
             </div>
