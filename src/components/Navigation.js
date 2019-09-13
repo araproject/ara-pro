@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import floppy from '../images/aradechoco.png'
 import sun from '../images/sun.svg'
 import moon from '../images/moon.svg'
-import kofi from '../../content/thumbnails/kofi.png'
+import kofi from '../../content/thumbnails/spotify.png'
 import ThemeContext from '../context/ThemeContext'
 
 export default class Navigation extends Component {
@@ -62,9 +62,9 @@ export default class Navigation extends Component {
               className="kofi-button"
               target="_blank"
               rel="noopener noreferrer"
-              href="https://ko-fi.com/aradechoco"
-              aria-label="Buy me a coffee!"
-              title="Buy me a coffee!"
+              href="https://open.spotify.com/user/31vxf6kac6qnwjhgfh3or2qg57zy?si=g_OrxnbUQve5_U4X_WF2dw"
+              aria-label="Follow Spotify!"
+              title="Fav Song"
             >
               <img src={kofi} alt="Kofi" className="kofi" />
             </a>
