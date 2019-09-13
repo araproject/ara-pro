@@ -13,6 +13,7 @@ export default class UserInfo extends Component {
               <img className="avatar" src={aradechoco} alt="aradechoco" />
             </div>
             <div>
+              <h3>aradechoco</h3>
               <p>
               Personal blog berbahasa Indonesia yang saya dedikasikan untuk mendokumentasikan segala hal yang saya pelajari.
               </p>
