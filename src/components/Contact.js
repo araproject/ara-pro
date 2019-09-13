@@ -7,7 +7,7 @@ export default class Contact extends Component {
       <>
         <h1>Contact</h1>
         
-        <NewsletterForm />
+        
         <p>Butuh sesuatu?</p>
         <ul>
         <li>
