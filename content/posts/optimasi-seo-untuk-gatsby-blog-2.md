@@ -97,7 +97,7 @@ Bahkan, bahkan jika Anda menyimpan semua SEO di atas, jika kualitas kontennya ti
 
 Ketika saya menulis artikel ini, saya pikir saya harus belajar lebih banyak tentang SEO, dan saya akan terus memperbarui apa yang telah saya pelajari. Juga, sekali lagi, saya memiliki kesempatan untuk memikirkan kembali kualitas tulisan saya. Di masa depan, saya akan mencoba yang terbaik untuk melihat apakah tulisan saya benar-benar membantu orang lain dan membuatnya lebih mudah untuk dipahami, untuk mendapatkan feedback, dan untuk membuat blog yang lebih baik.
 
-referensi ##
+## referensi 
 
 - <a href="https://www.aradechoco.com/optimasi-seo-untuk-gatsby-blog-part-1/" target="_blank"> Optimasi SEO untuk Gatsby Blog Bagian 1 </a>
 - <a href="https://support.google.com/webmasters/answer/7451184?hl=id" target="_blank"> Panduan SEO Google </a>
