@@ -33,7 +33,7 @@ Oleh karena itu kami menggunakan iklan sebagai salah satu cara untuk bertahan hi
 Semua iklan yang tampil di Aradechoco.com disediakan oleh pihak ketiga (dalam hal ini Google AdSense). Kami tidak bertanggung jawab dengan semua isi iklan yang tampil dari Google AdSense.
 
 ### Akurasi Artikel
-Dunia traveling berkembang dengan sangat cepat, bahkan lebih cepat dari waktu yang kamu butuhkan untuk move on dari mantan terindah.
+Dunia teknologi berkembang dengan sangat cepat, bahkan lebih cepat dari waktu yang kamu butuhkan untuk move on dari mantan terindah.
 
 Karenanya, artikel-artikel yang ada di Aradechoco.com belum tentu akurat. Jika ada kesalahan, kekeliruan, atau ada sesuatu yang tidak tepat pada artikel, anda dapat mengirimkan email ke kami. Kami akan tinjau kembali artikel tersebut secepatnya.
 
