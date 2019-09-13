@@ -21,15 +21,15 @@ const config = {
   userTwitter: 'aradechoco',
   menuLinks: [
     {
-      name: 'About',
+      name: '🤷 About',
       link: '/me/',
     },
     {
-      name: 'Articles',
+      name: '📝 Articles',
       link: '/blog/',
     },
     {
-      name: 'Contact',
+      name: '🤙 Contact',
       link: '/contact/',
     },
   ],
