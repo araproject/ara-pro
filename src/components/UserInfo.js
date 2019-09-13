@@ -14,7 +14,7 @@ export default class UserInfo extends Component {
             </div>
             <div>
               <p>
-              I’m aradechoco, Seorang blogger amatiran. Tadinya mau jadi playboy, tapi masih kurang ganteng. Kalo blogger nggak ada syarat ganteng.
+              Personal blog berbahasa Indonesia yang saya dedikasikan untuk mendokumentasikan segala hal yang saya pelajari.
               </p>
 
               <div className="flex">
