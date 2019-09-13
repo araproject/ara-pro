@@ -11,9 +11,9 @@ const config = {
   siteDescription:
     'Seorang blogger & freelancer amatiran. Situs web ini dibuat untuk tempat mendokumentasikan apa saja.',
   siteRss: '/rss.xml',
-  googleAnalyticsID: '#',
+  googleAnalyticsID: 'UA-78807055-1',
   postDefaultCategoryID: 'Tech',
-  commentsApi: 'https://tania-comments-api.herokuapp.com/comments',
+  commentsApi: '#',
   newsletter: 'https://aradechoco.substack.com',
   newsletterEmbed: 'https://aradechoco.substack.com/embed',
   userName: 'aradechoco',
@@ -21,15 +21,15 @@ const config = {
   userTwitter: 'aradechoco',
   menuLinks: [
     {
-      name: '🤷 About',
+      name: 'About',
       link: '/me/',
     },
     {
-      name: '📝 Articles',
+      name: 'Articles',
       link: '/blog/',
     },
     {
-      name: '🤙 Contact',
+      name: 'Contact',
       link: '/contact/',
     },
   ],
