@@ -1,5 +1,5 @@
 ---
-title: Me
+title: Me 👨‍💻
 slug: me
 template: page
 ---
@@ -18,23 +18,24 @@ Saya membuat situs web ini untuk tempat mendokumentasikan apa saja.☕
 
 ## Web Project
 
-- cooming soon
-- cooming soon
+- cooming soon..
+- cooming soon..
 
-## Music
+## Music 🎧
 
-- Radiohead 🎧 
-- Lo-fi 🎧
-- Cigarettes After Sex 🎧
-- Alternatif Rock 🎧
+- Radiohead  ( band )
+- Cigarettes After Sex ( band )
+- Lo-fi ( genre )
+- Alternatif Rock ( genre )
 
 
 ## Currently Using
 
-- ** 🖥 Komputer: ** Pc i5 9400f VGA Gtx 980ti Ram 16Gb 
-- ** 🔗 Hosting: ** [Netlify](https://netlify.com) (blog)
-- ** 🔗 Editor: ** [Visual Studio Code](https://code.visualstudio.com/)
-- ** 🔗 Code Syntax Theme: ** [New Moon](https://taniarascia.github.io/new-moon)
-- ** 🔗 Generator Situs Statis: ** [Gatsby](https://gatsbyjs.org)
-- ** 🔗 Sintaks Highlighting: ** [PrismJS](http://prismjs.com/)
-- ** 🔗 Theme: ** Fork of [Tania](https://github.com/taniarascia/taniarascia.com) Dev by [Tania Rascia](https://www.taniarascia.com/) 
+-  🖥 PC:  Procie i5 9400f - VGA Gtx 980ti - Ram 16Gb 
+-  🔗 Editor:  [Visual Studio Code](https://code.visualstudio.com/)
+-  🔗 Code Syntax Theme:  [New Moon](https://taniarascia.github.io/new-moon)
+-  🔗 Sintaks Highlighting:  [PrismJS](http://prismjs.com/)
+-  🔗 Theme:  Fork of [Tania](https://github.com/taniarascia/taniarascia.com) Dev by [Tania Rascia](https://www.taniarascia.com/) 
+-  🔗 Generator Situs Statis:  [Gatsby](https://gatsbyjs.org)
+-  🔗 Hosting:  [Netlify](https://netlify.com) (blog)
+
