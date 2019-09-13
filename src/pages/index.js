@@ -46,11 +46,11 @@ export default class Index extends Component {
               </div>
             </div>
             <div className="newsletter-section">
-              <img src={aradechoco} className="newsletter-avatar" alt="Tania" />
+              <img src={aradechoco} className="newsletter-avatar" alt="aradechoco" />
               <div>
-                <h3>Get updates</h3>
+                <h3>🔥feedburner</h3>
                 <p>Subscribe untuk mendapatkan update baru</p>
-                <a className="button" href="https://aradechoco.substack.com">
+                <a className="button" href="https://feedburner.google.com/fb/a/mailverify?uri=web/vfZZ">
                   Subscribe
                 </a>
               </div>
