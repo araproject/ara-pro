@@ -58,7 +58,7 @@ export default class PostTemplate extends Component {
     const date = formatDate(post.date)
     const twitterShare = `http://twitter.com/share?text=${encodeURIComponent(post.title)}&url=${
       config.siteUrl
-    }/${post.slug}/&via=taniarascia`
+    }/${post.slug}/&via=aradechoco`
 
     const commentTitle = commentLength => {
       if (commentLength < 1) {
