@@ -18,7 +18,7 @@ Git adalah version control system dimana bisa mengingat setiap perubahan file. G
 Sebelumnya dalam contoh berikut saya akan menggunakan Windows 10 pro dan penginstalannya dengan download file installernya (Installer latest version bisa Anda dapatkan disini). Untuk penggunaanya dengan cara Bash atau command line seperti yang dijudul.
 Berikut adalah langkah-langkahnya:
 
-Pertama Install Git download di [sini](https://git-scm.com)
+Pertama Install Git. Download di [sini](https://git-scm.com)
 
 # Referensi perintah Git.
 
@@ -229,9 +229,9 @@ git subtree push --prefix dist origin gh-pages
 ## Subtree within repo
 
 ```bash
-git subtree add --prefix <local-dir> https://github.com/taniarascia/<repo> master --squash
-git subtree pull --prefix <local-dir> https://github.com/taniarascia/<repo> master --squash
-git subtree push --prefix <local-dir> https://github.com/taniarascia/<repo> master --squash
+git subtree add --prefix <local-dir> https://github.com/aradechoco/<repo> master --squash
+git subtree pull --prefix <local-dir> https://github.com/aradechoco/<repo> master --squash
+git subtree push --prefix <local-dir> https://github.com/aradechoco/<repo> master --squash
 ```
 
 ## Exiting VIM
@@ -244,3 +244,9 @@ Bagi mereka yang baru ke baris perintah, berakhir di layar pesan komit (sering k
 
 
 Dan tekan enter, maka kamu akan kembali ke tempat sebelumnya.
+
+Terima kasih sudah membaca dan Semoga bisa bermanfaat bagi kita semua.
+
+## Referensi
+
+[Git-scm](https://git-scm.com/book/en/v1/Getting-Started)
