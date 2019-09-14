@@ -15,10 +15,8 @@ tags:
 ## Apa itu git?
 
 Git adalah version control system dimana bisa mengingat setiap perubahan file. Git sangat efektif dan cepat untuk membantu kita khusunya dalam pembuatan projek yang besar dan dengan harga sangat murah yaitu gratis.
-Sebelumnya dalam contoh berikut saya akan menggunakan Windows 10 pro dan penginstalannya dengan download file installernya (Installer latest version bisa Anda dapatkan disini). Untuk penggunaanya dengan cara Bash atau command line seperti yang dijudul.
-Berikut adalah langkah-langkahnya:
 
-Pertama Install Git. Download di [sini](https://git-scm.com)
+Sebelumnya dalam contoh berikut saya akan menggunakan Windows 10 pro dan penginstalannya dengan download file installernya (Installer latest version bisa kamu download di [sini](https://git-scm.com) ).
 
 # Referensi perintah Git.
 
