@@ -45,7 +45,7 @@ Ketiga, Anda harus menambahkan komponen dalam template posting blog Anda (yaitu 
 
 ```jsx
 // blog-post.js
-import Disqus from 'disqus-react'
+import { DiscussionEmbed } from 'disqus-react'
 
 ```
 
