@@ -1,5 +1,5 @@
 ---
-date: 2019-10-11
+date: 2019-09-21
 title: 'Membuat blog dengan Gatsby dan Netlify'
 template: post
 thumbnail: '../thumbnails/gatsby.png'
