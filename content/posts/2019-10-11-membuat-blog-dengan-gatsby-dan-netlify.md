@@ -6,6 +6,7 @@ thumbnail: '../thumbnails/gatsby.png'
 slug: membuat-blog-dengan-gatsby-dan-netlify
 categories:
   - Code
+  - Popular
 tags:
   - gatsby
   - react
