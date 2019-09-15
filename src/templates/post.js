@@ -10,6 +10,7 @@ import config from '../../data/SiteConfig'
 import { formatDate, editOnGithub } from '../utils/global'
 import Comments from '../components/Comments'
 import NewsletterForm from '../components/NewsletterForm'
+import Disqus from 'disqus-react';
 
 export default class PostTemplate extends Component {
   constructor(props) {
@@ -69,6 +70,13 @@ export default class PostTemplate extends Component {
         return `${commentLength} comments`
       }
     }
+    const baseUrl = 'https://www.aradechoco.com'
+    const disqusShortname = 'aradechoco-com';
+        const disqusConfig = {
+            url: baseUrl + this.props.pageContext.slug,
+            identifier: post.id,
+            title: post.title,
+        }
 
     return (
       <Layout>
@@ -112,6 +120,7 @@ export default class PostTemplate extends Component {
         <UserInfo config={config} />
         <div className="container">
           {!error && <Comments commentsList={comments} slug={commentSlug} />}
+          <Disqus.DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
         </div>
       </Layout>
     )
