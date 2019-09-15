@@ -44,9 +44,9 @@ Suatu program yang memperoleh data dari database yang beroperasi dengan pemroses
 Thread meningkatkan efisiensi konsumsi memori (alasan komputasi kecil) Awalnya, ketika beberapa akses dibuat ke server, memori dialokasikan dan dieksekusi untuk masing-masing (multi-thread). Namun, efisiensi menjadi lebih buruk karena batas atas. Node.js meningkatkan efisiensi memori dengan mengambil metode pemrosesan akses satu per satu dengan satu memori.
 Sekilas, tampaknya pemrosesan bisa lambat karena hanya satu proses yang dapat dilakukan dengan satu memori, tetapi berkat pemrosesan asinkron yang dijelaskan di atas, pemrosesan dapat dijalankan tanpa menunggu pemrosesan dalam memori. Akses dapat diproses dengan kecepatan tinggi.
 
-Situs web resmi Node.js: (https://nodejs.org)
-Node.js di github: (https://github.com/nodejs/node)
-Node.js community conference (Node.js http://nodeconf.com)
+- Situs web resmi Node.js: (https://nodejs.org)
+- Node.js di github: (https://github.com/nodejs/node)
+- Node.js community conference (Node.js http://nodeconf.com)
 
 ## Referensi 
 
