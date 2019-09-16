@@ -70,7 +70,7 @@ export default class Index extends Component {
           </section>
 
           <section className="section">
-            <h2>Web Projects</h2>
+            <h2>Project</h2>
             <ProjectListing projects={projects} />
           </section>
         </div>
