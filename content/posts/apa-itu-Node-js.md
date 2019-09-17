@@ -1,5 +1,5 @@
 ---
-date: 2019-10-16
+date: 2019-09-14
 title: 'Apa itu Node.js?'
 template: post
 thumbnail: '../thumbnails/node.png'
