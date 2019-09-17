@@ -1,5 +1,5 @@
 ---
-date: 2019-10-14
+date: 2019-09-14
 title: 'Mengenal Command Git dasar'
 template: post
 thumbnail: '../thumbnails/git.png'
