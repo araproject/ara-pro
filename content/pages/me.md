@@ -35,7 +35,7 @@ template: page
 -  🔗 **Editor**:  [Visual Studio Code](https://code.visualstudio.com/)
 -  🔗 **Code Syntax Theme**:  [New Moon](https://taniarascia.github.io/new-moon)
 -  🔗 **Sintaks Highlighting**:  [PrismJS](http://prismjs.com/)
--  🔗 **Theme**:  Fork of [Tania](https://github.com/taniarascia/taniarascia.com) Dev by [Tania Rascia](https://www.taniarascia.com/) 
+-  🔗 ** Fork of**:  [Tania](https://github.com/taniarascia/taniarascia.com) Dev by [Tania Rascia](https://www.taniarascia.com/) 
 -  🔗 **Generator Situs Statis**:  [Gatsby](https://gatsbyjs.org)
 -  🔗 **Hosting**:  [Netlify](https://netlify.com) (blog)
 
