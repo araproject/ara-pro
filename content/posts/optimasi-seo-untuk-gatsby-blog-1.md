@@ -1,5 +1,5 @@
 ---
-date: 2019-09-13
+date: 2019-08-13
 title: 'Optimasi SEO untuk Gatsby Blog Bagian 1'
 template: post
 thumbnail: '../thumbnails/google.png'
