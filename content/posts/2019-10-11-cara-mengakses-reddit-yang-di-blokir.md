@@ -1,5 +1,5 @@
 ---
-date: 2019-10-11
+date: 2019-09-11
 title: 'Cara mengakses reddit yang di blokir'
 template: post
 thumbnail: '../thumbnails/redditicon.png'
