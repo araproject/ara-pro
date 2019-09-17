@@ -61,7 +61,7 @@ export default class BlogPage extends Component {
 
     return (
       <Layout>
-        <Helmet title={`Articles – ${config.siteTitle}`} />
+        <Helmet title={`Blog – ${config.siteTitle}`} />
         <SEO />
         <div className="container">
           <h1>Articles</h1>
