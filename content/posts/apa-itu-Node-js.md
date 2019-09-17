@@ -6,7 +6,6 @@ thumbnail: '../thumbnails/node.png'
 slug: apa-itu-Node-js
 categories:
   - Code
-  - Popular
 tags:
   - Node.js
   - Javascript
