@@ -12,23 +12,23 @@ tags:
   - search engine
 ---
 
-Tahun demi tahun, algoritma pencarian Google menjadi semakin kompleks. Akibatnya, spesialis optimisasi SEO berfokus pada keyword utama yang efektif dalam mempertahankan dan meningkatkan lalu lintas situs web. Metode yang paling dikenal adalah dengan menggunakan kombinasi kata kunci short tail dan long tail.
+Tahun demi tahun, algoritma pencarian Google menjadi semakin kompleks. Akibatnya, spesialis [optimisasi SEO](https://www.aradechoco.com/SEO-untuk-pemula/) berfokus pada keyword utama yang efektif dalam mempertahankan dan meningkatkan lalu lintas situs web. Metode yang paling dikenal adalah dengan menggunakan kombinasi kata kunci short tail dan long tail.
 
-Dalam posting ini, saya akan menunjukkan kepada Anda apa arti kata kunci pendek / panjang.
+Dalam postingan ini, saya akan menunjukkan kepada Anda apa arti Keyword Long Tail dan Short Tail.
 
-## Apa itu kata kunci Long Tail?
+## Apa itu Keyword Long Tail?
 
 Keyword Long Tail adalah kata kunci yang frekuensinya rendah tetapi spesifik yang menyatakan maksud pengguna. Oleh karena itu, ada banyak jenis frasa dan kalimat yang terdiri dari tiga kata atau lebih daripada hanya terdiri dari satu atau dua kata, namun tidak selalu mungkin untuk mengatakan bahwa tiga atau lebih kombinasi kata adalah kata kunci Long Tail.
 
-### Contoh kata kunci Long Tail
+### Contoh Keyword Long Tail
 
 ![](../images/long-tail.png)
 
 Keyword di paling kanan grafik adalah kata kunci Long Tail. Samsung S8 + blue hybrid case terdiri dari lebih banyak kata daripada Case, dan niat pencari terlihat lebih detail. Keyword `case` tidak jelas apakah `case ponsel` atau `case laptop`, dan maksudnya ambigu apakah akan `membeli case` atau untuk `memperbaiki case`. Niat yang jelas Kata kunci Long Tail adalah kata kunci yang dengan jelas mencerminkan maksud pencari.
 
-### Mengapa Kata Kunci Long Tail?
+### Mengapa Keyword Long Tail?
 
-Kata kunci Long Tail biasanya rendah dalam volume pencarian. Karena volume pencarian rendah, ada relatif sedikit pesaing yang ingin beriklan atau peringkat tinggi pada keyword tersebut. `Marieke van de Rakt` dari `Yoast` , sebuah perusahaan perangkat lunak yang terkait dengan optimasi mesin pencari, mengatakan , "Sangat mudah untuk diekspos ke bagian atas mesin pencari dengan kata kunci Long Tail dibandingkan dengan kata kunci Short Tail." (Ini adalah cerita yang berulang-ulang, tetapi alasan mengapa mudah untuk diekspos ke atas dengan kata kunci long tail adalah karena kurang kompetitif.)
+Keyword Long Tail biasanya rendah dalam volume pencarian. Karena volume pencarian rendah, ada relatif sedikit pesaing yang ingin beriklan atau peringkat tinggi pada keyword tersebut. `Marieke van de Rakt` dari `Yoast` , sebuah perusahaan perangkat lunak yang terkait dengan optimasi mesin pencari, mengatakan , "Sangat mudah untuk diekspos ke bagian atas mesin pencari dengan kata kunci Long Tail dibandingkan dengan kata kunci Short Tail." (Ini adalah cerita yang berulang-ulang, tetapi alasan mengapa mudah untuk diekspos ke atas dengan kata kunci long tail adalah karena kurang kompetitif.)
 Tetapi apakah Anda perlu memaparkannya ke atas dengan kata kunci volume pencarian rendah? Jawabannya adalah ya.
 Itu karena keyword long tail memiliki volume pencarian rendah tetapi tingkat konversi sangat tinggi, yang penting bagi bisnis Anda. Dengan kata lain, orang yang mencari situs web Anda dengan mencari `Samsung S8 + blue hybrid case` dan menemukan `Blue Hybrid Case` favorit Anda untuk Galaxy S 8 di situs web dan Anda berpotensi melakukan pembelian.
 
@@ -46,7 +46,7 @@ Dalam grafik di atas,  keyword short tail adalah kata kunci utama yang biasanya 
 
 Kata kunci short tail adalah kata kunci yang banyak dicari orang, jadi jika situs web Anda digolongkan sebagai kata kunci short tail yang relevan dengan bisnis Anda, Anda bisa mendapatkan banyak trafik ke situs web Anda. Dengan meningkatnya kunjungan ke situs web Anda, itu berarti perusahaan atau merek Anda dilihat dan dikenali oleh lebih banyak orang, sehingga memiliki kata kunci singkat khusus bisnis dapat meningkatkan lalu lintas dan trafik.
 
-## Pencarian Kata Kunci Short Tail / Long Tail
+## Pencarian Keyword Short Tail / Long Tail
 
 Jika Anda mencari keyword Short Tail atau Long Tail yang terkait dengan bisnis Anda, berikut adalah tiga tools yang dapat Anda gunakan.
 
