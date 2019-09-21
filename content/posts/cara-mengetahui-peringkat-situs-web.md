@@ -37,11 +37,11 @@ Skor DA dan PA domain berguna untuk menentukan seberapa terkenal atau tepercaya 
 
 ### 3. Lihat peringkat situs web dengan kata kunci yang ditargetkan
 
-Cara menentukan peringkat situs web dengan cara memberi peringkat hasil pencarian tidak hanya dapat memeriksa kinerja situs web target, tetapi juga kinerja dan status real time dari situs web pesaing. Anda hanya perlu memilih kata kunci yang ingin Anda peringkat.
+Cara menentukan peringkat situs web dengan cara memberi peringkat hasil pencarian tidak hanya dapat memeriksa kinerja situs web target, tetapi juga kinerja dan status real time dari situs web pesaing. Anda hanya perlu memilih kata kunci yang ingin Anda peringkat. Sebagai contoh saya mencoba mencari kata kunci yang saya targetkan untuk web ini yaitu [Membuat blog dengan Gatsby](https://www.aradechoco.com/membuat-blog-dengan-gatsby-dan-netlify/)
  
 ![](../images/rank-kata-kunci.png)
  
-Gambar diatas menunjukkan cara melihat peringkat situs web Anda berdasarkan kata kunci yang di bidik.
+Hasil diatas menunjukkan cara melihat peringkat situs web Anda berdasarkan kata kunci yang di bidik.
 Trafik mungkin merupakan posisi yang paling mudah untuk dipahami, yang dapat membantu menentukan seberapa sukses situs web Anda. Anda juga dapat mengidentifikasi posisi Anda dalam persaingan.
 Skor domain tidak intuitif dan sepertinya tidak terlalu berguna. Anda hanya perlu tahu seberapa handal situs web yang Anda bangun.
 Metode menggunakan hasil pencarian ini memang sangat praktis, tetapi tidak nyaman untuk memilih keyword dengan baik dan membandingkannya dengan mencari kata kunci yang lain beberapa kali. Namun, memungkinkan untuk memahami kinerja situs web yang Anda target dibandingkan dengan pesaing saat ini.
