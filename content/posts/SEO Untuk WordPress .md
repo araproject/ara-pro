@@ -35,7 +35,7 @@ Default permalink dari WP sebaiknya diganti dengan mengubah setting dengan menu 
 
 ### Optimize Keywords yang Anda ingin bidik
 
-Ada  beberapa tools populer berikut ini untuk mendapatkan ide  keywords apa yang sebaiknya dibidik (yang berhubungan dengan bisnis/website Anda) sebelum memilih judul untuk  posting terbaru Anda.
+Ada  beberapa tools populer berikut ini untuk mendapatkan [ide keywords](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) apa yang sebaiknya dibidik (yang berhubungan dengan bisnis/website Anda) sebelum memilih judul untuk  posting terbaru Anda.
 
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) 
 - [Keywordtool](https://keywordtool.io/) 
@@ -59,6 +59,10 @@ Social Media seperti `Facebook`, `Twitter`, `Pinterest`, dll, terlalu penting un
 Dengan melakukan teknik SEO sederhana diatas, kemungkinan besar Google akan semakin cinta dengan blog Anda dan lebih besar kemungkinan naik peringkat.
 
 Sebenarnya masih banyak lagi langkah-langkah untuk Optimasi SEO di blog atau website Anda, tapi akan kita lanjutkan lagi dengan lebih detail di posting yang akan datang. Happy posting 😁
+
+### Terkait 
+
+[Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
 
 
 
