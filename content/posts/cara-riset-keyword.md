@@ -6,8 +6,8 @@ thumbnail: '../images/riset-keyword.png'
 slug: cara-riset-keyword-untuk-pemula
 categories:
   - SEO
+  - Tutorial
 tags:
-  - tutorial
   - riset
   - search engine
 ---
