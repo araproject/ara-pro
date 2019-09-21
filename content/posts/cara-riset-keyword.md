@@ -7,6 +7,7 @@ slug: cara-riset-keyword-untuk-pemula
 categories:
   - SEO
 tags:
+  - tutorial
   - riset
   - search engine
 ---
@@ -58,17 +59,18 @@ Google Keyword Planner menunjukkan berbagai keyword long tail, seperti Sreenshoo
 
 ### 2. Google Related Search
 
-![](../images/google-related-search.png
+Tidak punya waktu untuk menggunakan Google Keyword Planner karena Anda menjalankan blog perusahaan dan perlu membuat beberapa posting blog setiap hari? Jangan khawatir. Ini tips yang ampuh. Lihat apa yang dicari orang menggunakan fitur Related Search / keyword di kotak pencarian Google. Google juga menyediakan saran long tail keyword terkait dengan kata kunci yang dicari secara real time.
 
-Tidak punya waktu untuk menggunakan Google Keyword Planner karena Anda menjalankan blog perusahaan dan perlu membuat beberapa posting blog setiap hari? Jangan khawatir. Ini tips yang ampuh. Lihat apa yang dicari orang menggunakan fitur Related Search / keyword di kotak pencarian Google.
-Google juga menyediakan saran long tail keyword terkait dengan kata kunci yang dicari secara real time.
 Misalnya, kami mencoba mencari kata kunci “menghasilkan uang” dan hasil saran long tail keyword yang diberikan Google adalah sebagai berikut:
+
+![](../images/google-related-search.png)
 
 ### 3. Keyword Everywhere 
 
-![](../images/keyword-everywhere.png
+[Keyword Everywhere](https://keywordseverywhere.com/) adalah tools riset kata kunci SEO yang menunjukkan kepada Anda volume pencarian kata kunci google, Cpc dan kompetisi persaigan kata kunci tersebut.
 
-]Keyword Everywhere](https://keywordseverywhere.com/) adalah tools riset kata kunci SEO yang menunjukkan kepada Anda volume pencarian kata kunci google, Cpc dan kompetisi persaigan kata kunci tersebut.
+![](../images/keyword-everywhere.png)
+
 Keyword Tool gratis ini bіѕа dі gunakan kараn ѕаја tаnра harus membuka web utamannya. Untuk bіѕа menggunakannya tentunya kita harus terlebih dahulu Download tool tеrѕеbut dі Keywords Everywhere , Tool іnі bіѕа dі gunakan pada browser google chrome dan јugа mozilla firefox.
 
 ## Kesimpulan
