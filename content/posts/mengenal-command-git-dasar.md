@@ -5,7 +5,7 @@ template: post
 thumbnail: '../thumbnails/git.png'
 slug: mengenal-command-git-dasar
 categories:
-  - Tutorial
+  - Code
 tags:
   - Git
   - Github
