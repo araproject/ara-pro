@@ -81,4 +81,6 @@ Tidak berlebihan untuk mengatakan bahwa keberhasilan pemasaran digital, seperti 
 ## Terkait
 
 - [SEO Untuk Pemula](https://www.aradechoco.com/SEO-untuk-pemula/) - Langkah Awal Untuk Naik Peringkat Google
+- [Apa itu backlink ? Mengapa penting untuk SEO ?](https://www.aradechoco.com/apa-itu-backlink/)
+- [Cara mengetahui peringkat situs web](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/)
 
