@@ -52,7 +52,11 @@ Pencarian organik adalah hasil pencarian mesin pencari, bukan hasil pencarian ka
 `Link Juice` : Istilah ini digunakan untuk merujuk pada nilai hyperlink atau backlink ke situs web atau halaman tertentu. Ketika tautan dari situs web atau post apa pun ke situs kami dipostkan, tautan itu akan menghasilkan 'link juice', yang membantu mendapatkan peringkat yang lebih tinggi pada mesin pencari. Misalnya, jika halaman A memposting link ke kata kunci ganda, link itu akan memberikan link juice, yang akan membantu keyword kembar dan meningkatkan peringkat di mesin pencari.
  
 
-`Nofollow` : Tautan ini tidak memberikan link juice di situs web atau halaman, juga tidak berkontribusi pada peringkat mesin pencari. Jika Anda tidak ingin meningkatkan peringkat situs web yang Anda rujuk dengan backlinking, Anda dapat menggunakan tautan nofollow, yaitu <a href="http://www.website.com" rel="nofollow"> Teks... </a>.
+`Nofollow` : Tautan ini tidak memberikan link juice di situs web atau halaman, juga tidak berkontribusi pada peringkat mesin pencari. Jika Anda tidak ingin meningkatkan peringkat situs web yang Anda rujuk dengan backlinking, Anda dapat menggunakan tautan nofollow, yaitu 
+
+```
+<a href="http://www.website.com" rel="nofollow"> Teks... </a>.
+```
  
 
 `Sponsored link` : Penjualan link untuk iklan atau biaya. Google tidak mengumpulkan tautan itu. Cukup terapkan sebagai berikut:
