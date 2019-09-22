@@ -14,7 +14,8 @@ tags:
 
 ## Apa itu backlink?
 
-Backlink adalah link yang ditautkan dengan situs web dan merujuk ke situs web lain. Namun, tidak semua link dikenali sebagai backlink oleh mesin pencari sperti Google. Backlink yang dapat dikenali oleh mesin pencari haruslah hyperlink yang dapat diklik. Contohnya, “https://www.aradechoco.com” dengan link yang dihapus tidak dianggap sebagai tautan balik, tetapi “ https://www.aradechoco.com ” dengan link yang hidup tersebut Ini dianggap sebagai backlink.
+Backlink adalah link yang ditautkan dengan situs web dan merujuk ke situs web lain. Namun, tidak semua link dikenali sebagai backlink oleh mesin pencari sperti Google. Backlink yang dapat dikenali oleh mesin pencari haruslah hyperlink yang dapat diklik. Contohnya, `https://www.aradechoco.com` dengan link yang dihapus tidak dianggap sebagai tautan balik, tetapi https://www.aradechoco.com dengan link
+Ini dianggap sebagai backlink.
 
 Apakah dengan banyak backlink itu bagus untuk SEO ? Jawabannya adalah `"tidak selalu"`. Tentu saja jumlah backlink dapat membantu web anda lebih cepat terindex oleh search engine, tetapi jika backlink situs web Anda sebagian besar adalah backlink berkualitas yang rendah, maka dapat berdampak negatif terhadap `Serp` atau `Rank` web Anda.
 
@@ -54,10 +55,18 @@ Pencarian organik adalah hasil pencarian mesin pencari, bukan hasil pencarian ka
 `Nofollow` : Tautan ini tidak memberikan link juice di situs web atau halaman, juga tidak berkontribusi pada peringkat mesin pencari. Jika Anda tidak ingin meningkatkan peringkat situs web yang Anda rujuk dengan backlinking, Anda dapat menggunakan tautan nofollow, yaitu <a href="http://www.website.com" rel="nofollow"> Teks... </a>.
  
 
-`Sponsored link` : Penjualan link untuk iklan atau biaya. Google tidak mengumpulkan tautan itu. Cukup terapkan sebagai <a href="http://www.website.com" rel="sponsored"> Teks </a> dalam HTML.
+`Sponsored link` : Penjualan link untuk iklan atau biaya. Google tidak mengumpulkan tautan itu. Cukup terapkan sebagai berikut:
+
+```
+<a href="http://www.website.com" rel="sponsored"> Teks </a> dalam HTML.
+```
  
 
-`User generated content link (tautan UGC)` : link di dalam konten yang mirip dengan komentar yang dibuat pengguna. Itu tidak dikumpulkan oleh robot pencarian dan dapat diterapkan sebagai <a href="http://www.website.com" rel="ugc"> Teks </a> dalam HTML.
+`User generated content link (tautan UGC)` : link di dalam konten yang mirip dengan komentar yang dibuat pengguna. Itu tidak dikumpulkan oleh robot pencarian dan dapat diterapkan sebagai berikut:
+
+```
+<a href="http://www.website.com" rel="ugc"> Teks </a> dalam HTML.
+```
  
 
 `Follow the link` : Secara default, semua tautan diikuti, jadi link juice akan dikirim kecuali Anda menyetelnya sebagai tidak ada tautan ikuti.
@@ -84,7 +93,7 @@ Anda dapat menulis artikel yang berisi kata kunci populer yang terkait dengan si
 
 Broken link artinya link dari suatu halaman website ke website lain yang sudah mati. Ketika di-klik, halamannya sudah tidak ada. Karena domainnya kadaluarsa, salah tulis, artikelnya dihapus, atau alasan lain.
 
-Nah, dalam broken link building, kita akan mencari broken link dari website lain. Kemudian kita akan membantu mereka memperbaiki broken link tersebut dengan memberikan website kita sebagai alternatifnya.
+> **Note:** Nah, dalam broken link building, kita akan mencari broken link dari website lain. Kemudian kita akan membantu mereka memperbaiki broken link tersebut dengan memberikan website kita sebagai alternatifnya.
 
 ### 3. Guest Blogging atau jadi penulis tamu
 
