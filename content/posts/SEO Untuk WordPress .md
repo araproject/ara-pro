@@ -27,7 +27,7 @@ Setelah itu setiap Anda selesai memposting artikel jangan lupa Submit URL artike
 
 ### Meta Tags
 
-Gunakan plugin `Yoast SEO`, `Rank Math` atau `All-in-One SEO Pack` untuk menambahkan meta keyword dan meta description untuk setiap artikel yang Anda post. Selain itu Anda juga dapat menggunakan setting di plugin ini untuk Title tag.
+Gunakan plugin `Yoast SEO`, `Rank Math` atau `All-in-One SEO Pack` untuk menambahkan meta keyword dan meta description untuk setiap artikel yang Anda post. Selain itu Anda juga dapat menggunakan setting di plugin ini untuk `title tag` dan `sitemap.xml`.
 
 ### Permalinks
 
@@ -44,9 +44,9 @@ Ada  beberapa tools populer berikut ini untuk mendapatkan [ide keywords](https:/
 - [KWFinder](https://kwfinder.com/) 
 
 
-### Backlink yang berkualitas
+### [Backlink](https://www.aradechoco.com/apa-itu-backlink/) yang berkualitas
 
-Pastikan blog Anda mendapatkan sebanyak-banyaknya link dari website lain yang berkualitas, relevan dan memiliki PR dan DA , PA yang tinggi.  Hal ini dapat Anda lakukan dengan melakukan melakukan Guest Post Ke blog yang  mempunyai PA DA yang tinggi dan yang lebih baik lagi jika ada artikel yang berbobot mengenai blog Anda dan ada link ke blog Anda.
+Pastikan blog Anda mendapatkan sebanyak-banyaknya link dari website lain yang berkualitas, relevan dan memiliki PR dan DA , PA yang tinggi.  Hal ini dapat Anda lakukan dengan melakukan melakukan Guest Post Ke blog yang mempunyai Rank PA DA yang tinggi dan yang lebih baik lagi jika ada artikel yang berbobot mengenai blog Anda dan ada link ke blog Anda. 
 
 ### Konten yang berkualitas dan relevan dengan niche blog Anda
 
@@ -56,13 +56,15 @@ Jika blog Anda banyak konten yang berbobot ( 300 - 1000 kata) yang relevan denga
 
 Social Media seperti `Facebook`, `Twitter`, `Pinterest`, dll, terlalu penting untuk Anda lupakan begitu saja. Gunakan kekuatan social media yang rata-rata sangat dipandang oleh Google dan memiliki PR sangat tinggi ini untuk meningkatkan kredibilitas blog Anda di mata Google.
 
-Dengan melakukan teknik SEO sederhana diatas, kemungkinan besar Google akan semakin cinta dengan blog Anda dan lebih besar kemungkinan naik peringkat.
+Dengan melakukan teknik SEO sederhana diatas, kemungkinan besar Google akan semakin cinta dengan blog Anda dan lebih besar kemungkinan naik [peringkat](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/).
 
 Sebenarnya masih banyak lagi langkah-langkah untuk Optimasi SEO di blog atau website Anda, tapi akan kita lanjutkan lagi dengan lebih detail di posting yang akan datang. Happy posting 😁
 
 ### Terkait 
 
-[Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
+- [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
+- [Apa itu backlink ?](https://www.aradechoco.com/apa-itu-backlink/) Mengapa penting untuk SEO ?
+- [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
 
 
 
