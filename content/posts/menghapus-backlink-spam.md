@@ -44,9 +44,6 @@ Pertama, Anda dapat melihat daftar link spam yang tidak perlu melalui Search Con
 - Masuk ke Search Console yang terkait dengan situs web Anda.
 - pilih Kesalahan Perayapan ( Crawl Errors ).
 - Pilih salah satu dari Desktop dan Smartphone, lalu pilih Soft 404, Access ditolak, Tidak ditemukan.
-
-![](../images/not-found.png)
-
 - Jika Anda mengklik URL, Anda dapat melihat Rincian kesalahan dan Tertaut dari popup window.
 - Klasifikasi blok URL Tertaut secara terpisah.
 
