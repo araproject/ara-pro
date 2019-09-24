@@ -69,7 +69,9 @@ Silahkan Baca di [sini](https://www.seroundtable.com/google-link-spam-forum-comm
 
 Backlink dari situs web yang tidak relevan itu sangat tidak baik. Secara khusus, backlink dari situs web ilegal dapat berdampak negatif pada SEO.
 
-Jika Anda telah menerima backlink dari situs web yang tidak diinginkan dan memengaruhi keandalan situs web Anda, Anda dapat meneruskan informasi backlink yang tidak diinginkan ke mesin pencari. Backlink yang tidak diinginkan disebut `Disavow File`, yang hanyalah daftar situs web yang ingin Anda blokir. Petunjuk untuk membuat File Penolakan dan meneruskannya ke mesin pencari dapat ditemukan di Menghapus Tautan Balik Spam .
+Jika Anda telah menerima backlink dari situs web yang tidak diinginkan dan memengaruhi keandalan situs web Anda, Anda dapat meneruskan informasi backlink yang tidak diinginkan ke mesin pencari. Backlink yang tidak diinginkan disebut `Disavow File`, yang hanyalah daftar situs web yang ingin Anda blokir. 
+
+- [Menghapus Backlink Spam](https://www.aradechoco.com/menghapus-backlink-spam/)
 
 ## Saya tidak memiliki situs web yang relevan, tetapi saya menerima tautan balik dari situs web dengan skor domain tinggi. Haruskah saya melakukan Disavow?
 
