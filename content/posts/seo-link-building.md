@@ -14,7 +14,7 @@ tags:
 
 ## Search Engine Optimization (SEO) 
 
-Optimisasi SEO secara luas dibagi menjadi dua yaitu `SEO on-page` dan `SEO off-page`. SEO on-halaman mengacu pada proses pengoptimalkan konten teknis dan konten situs web Anda untuk mesin pencari. Sedaangkan SEO Off-page mengacu pada proses menerima backlink (Inbound Links) dari situs web eksternal.
+Optimisasi SEO secara luas dibagi menjadi dua yaitu `SEO on-page` dan `SEO off-page`. SEO on-page mengacu pada proses pengoptimalkan konten teknis dan konten situs web Anda untuk mesin pencari. Sedaangkan SEO Off-page mengacu pada proses menerima backlink (Inbound Links) dari situs web eksternal.
 
 Proses mempercepat proses penerimaan backlink dari situs eksternal disebut dengan `Link Building`. Artikel ini menjawab pertanyaan yang diajukan banyak orang tentang Pembuatan Link / Link Building.
 
