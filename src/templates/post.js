@@ -127,14 +127,7 @@ export default class PostTemplate extends Component {
                     style={{display: "block"}}
                     layout="in-article" format="auto"/>
             </div>
-        </article>
-           <div>
-                <AdSense.Google
-                    client="ca-pub-5908100338136939"
-                    // slot="test"
-                    style={{display: "block"}}
-                    layout="in-article" format="auto"/>
-            </div>
+        </article>     
         <div className="container">
         </div>
         <UserInfo config={config} />
