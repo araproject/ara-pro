@@ -63,7 +63,7 @@ export default class Index extends Component {
                     client="ca-pub-5908100338136939"
                     // slot="test"
                      style={{ width: 500, height: 300 }}
-                    format=''/>
+                    format='auto'/>
         </div>
         <div className="container front-page">
           <section className="section">
