@@ -44,9 +44,9 @@ Ada  beberapa tools populer berikut ini untuk mendapatkan [ide keywords](https:/
 - [KWFinder](https://kwfinder.com/) 
 
 
-### [Backlink](https://www.aradechoco.com/apa-itu-backlink/) yang berkualitas
+### Backlink yang berkualitas
 
-Pastikan blog Anda mendapatkan sebanyak-banyaknya link dari website lain yang berkualitas, relevan dan memiliki PR dan DA , PA yang tinggi.  Hal ini dapat Anda lakukan dengan melakukan melakukan Guest Post Ke blog yang mempunyai Rank PA DA yang tinggi dan yang lebih baik lagi jika ada artikel yang berbobot mengenai blog Anda dan ada link ke blog Anda. 
+Pastikan blog Anda mendapatkan [Backlink](https://www.aradechoco.com/apa-itu-backlink/) dari website lain yang **berkualitas**, relevan dan memiliki PR dan DA , PA yang tinggi.  Hal ini dapat Anda lakukan dengan melakukan melakukan Guest Post Ke blog yang mempunyai Rank PA DA yang tinggi dan yang lebih baik lagi jika ada artikel yang berbobot mengenai blog Anda dan ada link ke blog Anda.
 
 ### Konten yang berkualitas dan relevan dengan niche blog Anda
 
@@ -62,9 +62,8 @@ Sebenarnya masih banyak lagi langkah-langkah untuk Optimasi SEO di blog atau web
 
 ### Terkait 
 
-- [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
 - [Apa itu backlink ?](https://www.aradechoco.com/apa-itu-backlink/) Mengapa penting untuk SEO ?
+- [Membangun Backlink melalui Wikipedia](https://www.aradechoco.com/backlink-melalui-wikipedia/)
 - [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
-
-
+- [Tanya Jawab tentang Optimasi SEO](https://www.aradechoco.com/seo-link-building/) - Link Building
 
