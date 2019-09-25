@@ -91,6 +91,15 @@ export default class Index extends Component {
             <h2>Project</h2>
             <ProjectListing projects={projects} />
           </section>
+          <section className="section">
+            <div>
+                <AdSense.Google
+                    client="ca-pub-5908100338136939"
+                    // slot="test"
+                    style={{display: "block"}}
+                    layout="in-article" format="auto"/>
+          </div>
+          </section>
         </div>
       </Layout>
     )
