@@ -13,9 +13,7 @@ tags:
 
 Untuk mendapat [Peringkat tinggi](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/) di Google, Anda perlu memahami algoritma Google. Saat ini, Google memaparkan situs web yang sangat tepercaya di bagian atas hasil pencarian. Kriteria di mana mesin pencari Google menentukan kepercayaan situs web tertentu adalah jumlah tautan yang diterima dari situs web tepercaya lainnya.
 
-Misalnya, jika Anda menerima link dari homepage pemerintah atau banyak link dari pers atau situs web yang berpengaruh, itu dapat dilihat sebagai situs web yang sangat handal. Proses memilih situs web eksternal dan membuat tautan ke situs web Anda disebut [Link Building](https://www.aradechoco.com/seo-link-building/).
-
-- [Backlink yang memiliki dampak negatif pada SEO] - Artikel ini sementara di buat 
+Misalnya, jika Anda menerima link dari homepage pemerintah atau banyak link dari pers atau situs web yang berpengaruh, itu dapat dilihat sebagai situs web yang sangat handal. Proses memilih situs web eksternal dan membuat tautan ke situs web Anda disebut [Link Building](https://www.aradechoco.com/seo-link-building/). Tentu saja, beberapa [Backlink yang memiliki dampak negatif pada SEO](https://www.aradechoco.com/menghapus-backlink-spam/).
 
 ## SEO dan Wikipedia
 
@@ -36,13 +34,8 @@ Meskipun kontroversial, Wikipedia layak digunakan untuk link building . Pertama-
 
 ## Terkait 
 
-- [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
+- [Apa itu backlink ?](https://www.aradechoco.com/apa-itu-backlink/) Mengapa penting untuk SEO ?
 - [SEO Untuk Pemula](https://www.aradechoco.com/SEO-untuk-pemula/) - Langkah Awal Untuk Naik Peringkat Google 
-
-
-
-
-
-
+- [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
 
 
