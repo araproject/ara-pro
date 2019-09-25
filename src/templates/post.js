@@ -10,8 +10,8 @@ import config from '../../data/SiteConfig'
 import { formatDate, editOnGithub } from '../utils/global'
 import Comments from '../components/Comments'
 import NewsletterForm from '../components/NewsletterForm'
-import Disqus from 'disqus-react';
-import AdSense from 'react-adsense';
+import Disqus from 'disqus-react'
+import AdSense from 'react-adsense'
 
 export default class PostTemplate extends Component {
   constructor(props) {
@@ -119,6 +119,7 @@ export default class PostTemplate extends Component {
            <AdSense.Google
             client='ca-pub-5908100338136939'
             slot='2481741157'
+            format="rectangle"
            />
         </div>
         <UserInfo config={config} />
@@ -130,7 +131,7 @@ export default class PostTemplate extends Component {
     )
   }
 }
-
+export default Ad`
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
