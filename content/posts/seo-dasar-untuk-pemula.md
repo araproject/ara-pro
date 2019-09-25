@@ -132,20 +132,25 @@ Anda juga dapat memasukkan kata kunci dalam deskripsi meta untuk membuatnya mena
 
 ### Title and Sub Title 
 
-Title and Sub Title adalah tag html `<h1>` , <h2>` , dan `<h3>` . Ini adalah bagian judul atau yang dilihat pengguna di halaman.
-Seharusnya hanya ada satu tag <h1> per halaman web, dan judul ini harus mengandung kata kunci utama yang menjadi fokus konten Anda. Google memeriksa tag ini dengan cara yang sama seperti memeriksa tag judul, jadi bersiaplah untuk mengoptimalkan bagian halaman ini. Sering kali, content management system (CMS) seperti `WordPress` secara otomatis menyertakan tag <h1> untuk judul halaman atau artikel. Dalam hal ini, tidak perlu memasukkan yang lain.
+Title and Sub Title adalah tag html `<h1>` , `<h2>` , dan `<h3>` . Ini adalah bagian judul atau yang dilihat pengguna di halaman.
+Seharusnya hanya ada satu tag `<h1>` per halaman web, dan judul ini harus mengandung kata kunci utama yang menjadi fokus konten Anda.
+  
+Google memeriksa tag ini dengan cara yang sama seperti memeriksa tag judul, jadi bersiaplah untuk mengoptimalkan bagian halaman ini. Sering kali, `content management system` (CMS) seperti `WordPress` secara otomatis menyertakan tag `<h1>` untuk judul halaman atau artikel. Dalam hal ini, tidak perlu memasukkan yang lain.
   
 Sub judul  `<h2>` dan `<h3>` juga harus menyertakan kata kunci target Anda. Namun, ingatlah untuk selalu menulis untuk pembaca dan menggunakan judul yang membantu pengunjung agar mudah menavigasi halaman Anda. 
 
 ## 5. Optimalkan URL Anda
 
 Sebagian besar pengguna akan sedikit memperhatikan URL Anda, ini penting untuk `SEO dasar` Anda. Praktek terbaik adalah menjaga URL Anda sesederhana mungkin. [Google ingin Anda memiliki URL yang sederhana](https://support.google.com/webmasters/answer/76329?hl=en) dan mudah dibaca untuk menyediakan struktur URL yang logis.
+
 Ini cukup berarti bahwa alih-alih angka Anda harus menggunakan teks dalam URL Anda, dan bahwa URL harus menggambarkan tentang konten apa sesingkat mungkin. Ya, semudah itu. Cobalah untuk bersikap logis dan mudah digunakan untuk URL Anda.
+
 Di samping itu, Anda dapat menggunakan URL Anda sebagai tempat untuk meletakkan kata kunci utama Anda. Tentu saja, tidak ada isian kata kunci yang dibolehkan! Ingat, sesingkat mungkin. Namun, memasukkan kata kunci utama ke URL harusnya tidak menjadi masalah.
 
 Misalnya, jika Anda menulis tentang `film terbaik sepanjang masa`, URL Anda bisa terlihat seperti ini: `domain.com/film-terbaik`.
 
 Tapi tunggu dulu! Jangan mulai mengubah semua URL sekarang. Kecuali jika URL saat ini berdampak negatif pada situs Anda, lebih baik untuk tidak mengubah URL karena dapat membingungkan bagi Google dan juga bagi pengguna. Karena itu, mungkin lebih baik untuk mulai mengoptimalkan URL untuk konten baru nanti.
+
 Namun, jika Anda harus mengubah URL Anda saat ini untuk memberikan struktur URL yang lebih baik, jangan lupa untuk melakukan [Redirects 301](https://moz.com/learn/seo/redirection) (permanen) yang tepat. 
 
 ## 6. Tautan balik / Backlink
@@ -154,6 +159,7 @@ Bagian lain yang sangat penting dari SEO dasar adalah backlink. Sebuah [backlink
 Sementara backlink adalah faktor penentu utama yang membantu situs web Anda meningkatkan peringkatnya, backlink tersebut harus berasal dari situs web berkualitas tinggi yang terkait dengan topik konten Anda.
 
 Misalnya, jika blog Anda tentang pemasaran SEO, Anda ingin mendapatkan backlink dari situs terkait pemasaran. Juga, kualitas atau lebih tepatnya peringkat domain dari situs web yang memberikan Anda backlink menunjukkan seberapa kuat backlink itu untuk Anda. Mesin pencari berpikir bahwa semakin banyak backlink yang relevan dan berkualitas tinggi yang Anda miliki, semakin bermanfaat situs Anda bagi pengguna.
+
 Pada dasarnya, Google melihat backlink sebagai pengguna memberikan suara bahwa konten Anda bermanfaat. Semakin tinggi peringkat domain suatu situs web, semakin besar kekuatan backlink atau "suara" mereka karena mereka telah menetapkan diri sebagai sumber yang dapat diandalkan.
 
 Backlink berkualitas tinggi harus menjadi salah satu prioritas SEO dasar utama Anda karena dapat dengan mudah meroket peringkat Anda. Dengan alat backlink, Anda dapat dengan mudah memulai dan memburu beberapa backlink yang berharga itu.
@@ -178,6 +184,7 @@ Dengan melakukan hal itu, mereka mungkin menemukan cara untuk memasukkan tautan 
 **Apakah menautkan ke situs lain membantu SEO?**
 
 Ketika Anda menautkan ke halaman lain yang relevan dan berkualitas tinggi itu menunjukkan kepada Google bahwa konten Anda berharga dan bermanfaat bagi pengguna. Karenanya, menautkan ke situs lain bermanfaat untuk SEO selama Anda menautkan ke halaman yang berkualitas tinggi dan relevan.
+
 Selain itu, pemilik laman web yang Anda tautkan mungkin memeriksa situs web Anda dan karenanya menghasilkan beberapa trafik tambahan untuk konten Anda. Seperti disebutkan, mereka bahkan mungkin membalas budi dan memberi Anda backlink untuk kedepannya. Siapa yang tahu! 
 Menautkan ke halaman berkualitas tinggi lainnya tentu tidak akan merusak peringkat SEO Anda selama tidak berlebihan. 
 
@@ -211,10 +218,10 @@ Meskipun baik untuk menulis teks alt Anda sangat deskriptif, berhati-hatilah unt
 
 ## 10. Hindari Abdobe Flash  
 
-[Adobe Flash](https://en.wikipedia.org/wiki/Adobe_Flash) adalah aplikasi di dalam halaman web yang memungkinkan streaming multimedia dan interaksi pengguna. Memiliki Flash di halaman web Anda bisa menjadi hal yang baik dan buruk. 
+**[Adobe Flash](https://en.wikipedia.org/wiki/Adobe_Flash)** adalah aplikasi di dalam halaman web yang memungkinkan streaming multimedia dan interaksi pengguna. Memiliki Flash di halaman web Anda bisa menjadi hal yang baik dan buruk. 
 Namun, jika halaman Anda sebagian besar terdiri dari Flash, halaman akan berjalan lebih lambat dari biasanya dan itu akan memakan waktu untuk loading. Selain itu, Flash tidak dapat diakses di sebagian besar ponsel yang tidak disukai oleh pembaca, maupun Google.
 
-[Jakob Nielsen](https://www.nngroup.com/articles/flash-99-percent-bad/) mengatakan bahwa sekitar 99% situs web yang menggunakan Flash memiliki kegunaan yang lebih rendah dan hambatan utama untuk desain yang baik. Jadi, solusi terbaik adalah tidak menggunakan flash. Ada banyak situs web, tools, dan plugin yang dapat memeriksa apakah Anda menggunakan Flash atau tidak. 
+**[Jakob Nielsen](https://www.nngroup.com/articles/flash-99-percent-bad/)** mengatakan bahwa sekitar 99% situs web yang menggunakan Flash memiliki kegunaan yang lebih rendah dan hambatan utama untuk desain yang baik. Jadi, solusi terbaik adalah tidak menggunakan flash. Ada banyak situs web, tools, dan plugin yang dapat memeriksa apakah Anda menggunakan Flash atau tidak. 
 
 
 ## 11. Social media
@@ -251,7 +258,9 @@ Jika Anda ingin mengetahui kecepatan muat situs web, Anda dapat menggunakan [GTM
 
 ![](../images/mobile-friendly.png)
 
-Apa artinya menjadi mobile friendly? Ini berarti bahwa situs web atau halaman web responsif atau adaptif terhadap perangkat seluler. Terkadang jika halaman web tidak responsif, akan ada situs web seluler yang terpisah (mis. "M.mywebsite.com"). Pada 2015,  [Google](http://searchengineland.com/library/google/google-mobile-friendly-update) mulai menghukum situs web yang tidak mobile friendly. Jadi, sebelum membangun sebuah web pastikan thema yang Anda pakai `Responsif` dan `Mobile friendly`.
+Apa artinya menjadi mobile friendly? Ini berarti bahwa situs web atau halaman web responsif atau adaptif terhadap perangkat seluler. Terkadang jika halaman web tidak responsif, akan ada situs web seluler yang terpisah (mis. "M.mywebsite.com"). 
+
+Pada 2015,  [Google](http://searchengineland.com/library/google/google-mobile-friendly-update) mulai menghukum situs web yang tidak mobile friendly. Jadi, sebelum membangun sebuah web pastikan thema yang Anda pakai `Responsif` dan `Mobile friendly`.
 
 Di samping penalti Google, penting juga untuk memiliki situs web mobile friendly karena saat ini sebagian besar konsumen menelusuri internet dengan smartphone mereka. Jika situs Anda tidak dioptimalkan itu dapat menyebabkan pengalaman pengguna menjadi sangat buruk. Statistik melaporkan bahwa pada tahun 2018, hingga 52% dari lalu lintas situs web global berasal dari perangkat seluler. 
 
