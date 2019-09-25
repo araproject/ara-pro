@@ -31,14 +31,7 @@ export default class MainLayout extends Component {
         >
           <meta name="description" content={config.siteDescription} />
           <link rel="shortcut icon" type="image/png" href={favicon} />
-<AdSense.Google
-  client='ca-pub-5908100338136939'
-  slot='2481741157'
-  style={{ display: 'block' }}
-  format='auto'
-  responsive='true'
-  layoutKey='-gw-1+2a-9x+5c'
-/>
+         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         </Helmet>
         <Navigation menuLinks={config.menuLinks} />
         <main id="main-content">{children}</main>
