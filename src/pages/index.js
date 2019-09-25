@@ -62,7 +62,7 @@ export default class Index extends Component {
                 <AdSense.Google
                     client="ca-pub-5908100338136939"
                     // slot="test"
-                     style={{ width: 500, height: 300, float: 'left' }}
+                     style={{ width: 500, height: 300 }}
                     format=''/>
         </div>
         <div className="container front-page">
