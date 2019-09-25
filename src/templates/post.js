@@ -112,7 +112,13 @@ export default class PostTemplate extends Component {
               <PostTags tags={post.tags} />
             </div>
           </header>
-       
+       <div>
+                <AdSense.Google
+                    client="ca-pub-5908100338136939"
+                    // slot="test"
+                    style={{display: "block"}}
+                    layout="in-article" format="auto"/>
+            </div>
           <div className="post" dangerouslySetInnerHTML={{ __html: postNode.html }} />
         </article>
            <div>
