@@ -131,7 +131,6 @@ export default class PostTemplate extends Component {
     )
   }
 }
-export default Ad`
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
