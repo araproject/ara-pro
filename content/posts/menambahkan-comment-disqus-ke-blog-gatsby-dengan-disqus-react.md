@@ -7,9 +7,9 @@ slug: menambahkan-comment-disqus-ke-blog-gatsby-dengan-disqus-react
 categories:
   - Tutorial
 tags:
-  - Gatsby
-  - React
-  - Disqus
+  - gatsby
+  - react
+  - disqus
 ---
 
 Pada artikel pertama saya telah membuat postingan tentang [Membuat blog dengan Gatsby dan Netlify](https://www.aradechoco.com/membuat-blog-dengan-gatsby-dan-netlify/). Pada kesempatan kali ini saya akan membagikan tutorial cara Menambahkan Comment Disqus ke Blog Gatsby dengan disqus-react.
