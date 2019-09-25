@@ -6,7 +6,6 @@ import Footer from '../components/Footer'
 import config from '../../data/SiteConfig'
 import favicon from '../images/favicon1.png'
 import '../styles/main.scss'
-import AdSense from 'react-adsense'
 
 export default class MainLayout extends Component {
   static contextType = ThemeContext
@@ -31,13 +30,13 @@ export default class MainLayout extends Component {
         >
           <meta name="description" content={config.siteDescription} />
           <link rel="shortcut icon" type="image/png" href={favicon} />    
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
             <script>
                 {`(adsbygoogle = window.adsbygoogle || []).push({
                 google_ad_client: "ca-pub-5908100338136939",
                 enable_page_level_ads: true
                 });`}
-            </sc
+            </script>
         </Helmet>
         <Navigation menuLinks={config.menuLinks} />
         <main id="main-content">{children}</main>
