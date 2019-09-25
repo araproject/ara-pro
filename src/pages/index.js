@@ -57,17 +57,20 @@ export default class Index extends Component {
               </div>
             </div>
           </div>
-           <div>
-                <AdSense.Google
-                    client="ca-pub-5908100338136939"
-                    // slot="test"
-                    style={{display: "block"}}
-                    layout="in-article" format="auto"/>
-          </div>
         </div>
         <div className="container front-page">
-        
-          <section className="section">
+
+           <section className="section">
+            <div>
+                <AdSense.Google
+                  client="ca-pub-5908100338136939"
+                  // slot="test"
+                  style={{display: "block"}}
+                  layout="in-article" format="auto"/>
+            </div>
+          </section>
+
+         <section className="section">
             <h2>
              Latest Articles
              <Link to="/blog" className="view-all">
