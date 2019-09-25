@@ -14,10 +14,11 @@ tags:
 
 ## Apa itu backlink?
 
-Backlink adalah link yang ditautkan dengan situs web dan merujuk ke situs web lain. Namun, tidak semua link dikenali sebagai backlink oleh mesin pencari sperti Google. Backlink yang dapat dikenali oleh mesin pencari haruslah hyperlink yang dapat diklik. Contohnya, `https://www.aradechoco.com` dengan link yang dihapus tidak dianggap sebagai tautan balik, tetapi https://www.aradechoco.com dengan link
-Ini dianggap sebagai backlink.
+Backlink adalah link yang ditautkan dengan situs web dan merujuk ke situs web lain. Namun, tidak semua link dikenali sebagai backlink oleh mesin pencari sperti Google. Backlink yang dapat dikenali oleh mesin pencari haruslah hyperlink yang dapat diklik. Contohnya, `https://www.aradechoco.com` dengan link yang dihapus tidak dianggap sebagai backlink, tapi dengan link https://www.aradechoco.com 
+ini dianggap sebagai backlink.
 
-Apakah dengan banyak backlink itu bagus untuk SEO ? Jawabannya adalah `"tidak selalu"`. Tentu saja jumlah backlink dapat membantu web anda lebih cepat terindex oleh search engine, tetapi jika backlink situs web Anda sebagian besar adalah backlink berkualitas yang rendah, maka dapat berdampak negatif terhadap `Serp` atau `Rank` web Anda.
+## Apakah dengan banyak backlink itu bagus untuk SEO ? 
+Jawabannya adalah `"tidak selalu"`. Tentu saja jumlah backlink dapat membantu web anda lebih cepat terindex oleh search engine, tetapi jika backlink situs web Anda sebagian besar adalah backlink berkualitas yang rendah, maka dapat berdampak negatif terhadap `Serp` atau `Rank` web Anda.
 
 Backlink yang berkualitas tinggi adalah salah satu faktor yang dapat membantu situs web Anda naik dan muncul di halaman pertama pencarian Google. Backlink berkualitas tinggi dapat dipahami sebagai tautan balik yang berasal dari situs otoritatif yang di percayai oleh Google dan sudah berperingkat di antara mesin pencari teratas dengan konten yang terkait dengan situs web Anda.
 
@@ -48,7 +49,7 @@ Pencarian organik adalah hasil pencarian mesin pencari, bukan hasil pencarian ka
 
 ## Istilah-istilah Backlink
 
-`Link Juice` : Istilah ini digunakan untuk merujuk pada nilai hyperlink atau backlink ke situs web atau halaman tertentu. Ketika tautan dari situs web atau post apa pun ke situs kami dipostkan, tautan itu akan menghasilkan 'link juice', yang membantu mendapatkan peringkat yang lebih tinggi pada mesin pencari. Misalnya, jika halaman A memposting link ke kata kunci ganda, link itu akan memberikan link juice, yang akan membantu keyword kembar dan meningkatkan peringkat di mesin pencari.
+`Link Juice` : Istilah ini digunakan untuk merujuk pada nilai hyperlink atau backlink ke situs web atau halaman tertentu. Ketika tautan dari situs web atau post apa pun ke situs kami dipostkan, tautan itu akan menghasilkan 'link juice', yang membantu mendapatkan peringkat yang lebih tinggi pada mesin pencari. Misalnya, jika halaman A memposting link ke kata kunci ganda, link itu akan memberikan link juice, yang akan membantu keyword kembar dan meningkatkan [peringkat](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/) di mesin pencari.
  
 
 `Nofollow` : Tautan ini tidak memberikan link juice di situs web atau halaman, juga tidak berkontribusi pada peringkat mesin pencari. Jika Anda tidak ingin meningkatkan peringkat situs web yang Anda rujuk dengan backlinking, Anda dapat menggunakan tautan nofollow, yaitu 
