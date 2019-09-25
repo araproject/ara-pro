@@ -13,6 +13,7 @@ import speaking from '../../data/speaking'
 import podcasts from '../../data/podcasts'
 import quotes from '../../data/quotes'
 import aradechoco from '../../content/images/aradechoco.png'
+import AdSense from 'react-adsense'
 
 export default class Index extends Component {
   render() {
@@ -57,7 +58,13 @@ export default class Index extends Component {
             </div>
           </div>
         </div>
-
+        <div>
+                <AdSense.Google
+                    client="ca-pub-5908100338136939"
+                    // slot="test"
+                    style={{display: "block"}}
+                    layout="in-article" format="auto"/>
+            </div>
         <div className="container front-page">
           <section className="section">
             <h2>
