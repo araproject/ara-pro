@@ -14,7 +14,7 @@ tags:
 
 ## Search Engine Optimization (SEO) 
 
-Optimisasi SEO secara luas dibagi menjadi dua yaitu `SEO on-page` dan `SEO off-page`. SEO on-page mengacu pada proses pengoptimalkan konten teknis dan konten situs web Anda untuk mesin pencari. Sedaangkan SEO Off-page mengacu pada proses menerima backlink (Inbound Links) dari situs web eksternal.
+[Optimisasi SEO](https://www.aradechoco.com/SEO-untuk-pemula/) secara luas dibagi menjadi dua yaitu `SEO on-page` dan `SEO off-page`. SEO on-page mengacu pada proses pengoptimalkan konten teknis dan konten situs web Anda untuk mesin pencari. Sedaangkan SEO Off-page mengacu pada proses menerima backlink (Inbound Links) dari situs web eksternal.
 
 Proses mempercepat proses penerimaan backlink dari situs eksternal disebut dengan `Link Building`. Artikel ini menjawab pertanyaan yang diajukan banyak orang tentang Pembuatan Link / Link Building.
 
@@ -62,7 +62,7 @@ Backlink yang didapatkan dari iklan tidak terkait dengan skor backlink Anda. Ini
 
 ## Jika berkomentar di situs forum seperti Qoura atau Reddit, apakah dapat dengan mudah meningkatkan backlink?
 
-Menurut perwakilan layanan pencarian Google, komentar dari forum dan komunitas tidak memiliki efek SEO.
+Menurut perwakilan layanan pencarian Google, berkomentar di forum dan komunitas tidak memiliki efek SEO.
 Silahkan Baca di [sini](https://www.seroundtable.com/google-link-spam-forum-comments-bad-25881.html)
 
 ## Banyak link situs Web ilegal yang mengarah ke situs saya. Apa yang harus saya lakukan?
@@ -83,5 +83,7 @@ Ini tidak berarti bahwa Anda akan menolak semua situs web yang tidak terkait. Ji
 
 - [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
 - [SEO Untuk Pemula](https://www.aradechoco.com/SEO-untuk-pemula/) - Langkah Awal Untuk Naik Peringkat Google 
+- [Membangun Backlink melalui Wikipedia](https://www.aradechoco.com/backlink-melalui-wikipedia/)
+
 
 
