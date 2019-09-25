@@ -11,6 +11,7 @@ import { formatDate, editOnGithub } from '../utils/global'
 import Comments from '../components/Comments'
 import NewsletterForm from '../components/NewsletterForm'
 import Disqus from 'disqus-react';
+import AdSense from 'react-adsense';
 
 export default class PostTemplate extends Component {
   constructor(props) {
@@ -111,7 +112,14 @@ export default class PostTemplate extends Component {
               <PostTags tags={post.tags} />
             </div>
           </header>
-
+         <AdSense.Google
+  client='ca-pub-5908100338136939'
+  slot='2481741157'
+  style={{ display: 'block' }}
+  format='auto'
+  responsive='true'
+  layoutKey='-gw-1+2a-9x+5c'
+/>
           <div className="post" dangerouslySetInnerHTML={{ __html: postNode.html }} />
         </article>
         <div className="container">
