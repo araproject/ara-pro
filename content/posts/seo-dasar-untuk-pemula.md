@@ -13,12 +13,14 @@ tags:
   - search engine
 ---
 
-Apakah Anda baru mengenal SEO Search Engine Optimization (optimasi mesin pencari) dan tidak benar-benar tau harus mulai dari mana? Jangan khawatir, bahkan dengan tips SEO dasar Anda dapat meningkatkan peringkat web Anda secara signifikan. Dibawah ini saya akan berbagi tips dan dasar dasar SEO untuk pemula.
+Apakah Anda baru mengenal **SEO Search Engine Optimization** (optimasi mesin pencari) dan tidak benar-benar tau harus mulai dari mana? Jangan khawatir, bahkan dengan tips SEO dasar Anda dapat meningkatkan peringkat web Anda secara signifikan. Dibawah ini saya akan berbagi tips dan dasar dasar SEO untuk pemula.
 
 ## Apa itu SEO ?
 
 SEO adalah singkatan dari Search Engine Optimization dan salah satu teknik digital marketing paling efektif. Anda harus memastikan bahwa situs web dan konten Anda memiliki peluang terbaik untuk mencapai hasil peringkat tinggi di halaman pertama mesin pencari (SERP). 
+
 Sederhananya, itu berarti Anda ingin mengoptimalkan situs web dan konten sedemikian rupa sehingga mesin pencari seperti Google dapat memahami tentang isi situs web dan konten Anda sehingga dapat menentukan peringkat tinggi untuk kata kunci tertentu.
+
 Semakin tinggi peringkat situs web dan konten Anda di Google, semakin banyak orang akan mengkliknya. Dengan demikian, semakin banyak penjualan atau konversi yang akan didapatkan.
 
 ## 1. Tips SEO dasar 
@@ -26,14 +28,18 @@ Semakin tinggi peringkat situs web dan konten Anda di Google, semakin banyak ora
 ### Tulis Artikel Lebih Panjang
 
 Menurut [faktor peringkat SEO 2017](http://searchengineland.com/now-know-googles-top-three-search-ranking-factors-245882) , konten masih merupakan faktor yang sangat penting dalam peringkat SEO di samping faktor-faktor lain seperti [backlink](https://www.aradechoco.com/apa-itu-backlink/) dan RankBrain. Tapi, pada akhirnya konten dalam bentuk postingan blog atau video yang menarik pengguna dan pelanggan pada saluran akuisisi.
+
 Dari sudut pandang SEO, konten lebih lama lebih kuat karena mencakup lebih banyak kata kunci dan juga memberikan lebih banyak informasi yang bermanfaat bagi pengguna. [Neil Patel](https://neilpatel.com/blog/why-you-need-to-create-evergreen-long-form-content-and-how-to-produce-it/) menyebutkan bahwa konten harus lebih dari `2.000 kata` dan berkualitas tinggi. Kualitas konten Anda sangat penting karena pengguna mencari konten yang unik dan menarik yang menurut mereka layak untuk dibagikan. Jadi, jika Anda ingin pengguna benar-benar tertarik pada konten Anda, syaratnya yah harus berkualitas tinggi.
+
 Postingan blog yang lebih panjang juga membantu menurunkan `Bounce rate`. Bounce rate adalah persentase pengunjung yang meninggalkan web/blog anda setelah hanya membuka satu halaman saja, Artinya, semakin kecil persentase bounce rate berarti semakin bagus web anda.  Konten yang lebih panjang yang menarik dan berkualitas tinggi akan membuat orang tinggal lebih lama di situs web Anda. Waktu tinggal yang lebih lama sangat bermanfaat untuk peringkat Anda karena itu adalah tanda bagi Google bahwa orang-orang menikmati konten Anda. 
 
 ## 2. Fresh Content / Konten Segar 
 
 Di samping posting yang lebih panjang, Google juga menyukai konten baru yang segar. Bukan hanya karena konten segar lebih relevan bagi pengguna, tapi juga memberi tahu Google bahwa Anda masih aktif.
 Karena itu, kita semua tahu betapa sulitnya untuk terus-menerus menghasilkan konten berkualitas tinggi yang baru. Jadi, alih-alih membuat postingan baru berkualitas tinggi yang luar biasa, Anda dapat menyewa `Jasa Tulis Artikel` atau mengubah dan memperbaharui konten yang sudah lama.
+
 Satu tips mudah adalah bahwa kita dapat memperbarui salah satu posting populer yang sudah lama. Cukup tambahkan beberapa informasi saat ini dan yang relevan dan publikasikan kembali posting dengan tanggal saat ini. Peluang sempurna untuk teknik SEO dasar ini adalah posting yang memiliki satu tahun di judulnya. Contoh yang baik adalah "Tips SEO Terbaik 2018". Posting blog seperti itu dapat diperbarui dengan sangat mudah dengan menambahkan beberapa informasi yang relevan dan mengubah judul menjadi "Tips SEO Terbaik 2019". Jangan lupa untuk mempublikasikan ulang posting dengan tanggal saat ini.
+
 Ada banyak cara lain untuk menggunakan kembali konten yang ada. Cari tahu lebih lanjut tentang cara mudah untuk mencapai tujuan pemasaran konten Anda tanpa menghasilkan konten baru.  
 
 ## 3. Riset Kata Kunci yang akan di bidik
@@ -55,12 +61,14 @@ Selain itu, Anda dapat menggunakan kata kunci `long-tail` dan kata kunci `LSI` u
 ### Kata Kunci Long Tail
 
 Kata kunci Long Tail adalah kata kunci seperti `“ransel pendakian terbaik untuk wanita”`. Mereka biasanya berisi empat atau lebih kata yang secara jelas menentukan apa yang dicari konsumen dan / atau niat mereka .
-Seperti disebutkan, jika kata kunci Anda sangat spesifik, Anda mungkin mendapatkan lebih sedikit lalu lintas tetapi lebih banyak pengunjung yang mencari persis apa yang Anda tawarkan dan karena itu lebih cenderung untuk membeli. Bisa dikatakan `Kualitas melebihi kuantitas`. Selain itu, biasanya lebih mudah untuk menentukan peringkat kata kunci yang sangat spesifik karena lebih sedikit situs web yang menargetkannya. Jadi, mengapa tidak mencobanya?
+
+Seperti yang disebutkan, jika kata kunci Anda sangat spesifik, Anda mungkin mendapatkan lebih sedikit lalu lintas tetapi lebih banyak pengunjung yang mencari persis apa yang Anda tawarkan dan karena itu lebih cenderung untuk membeli. Bisa dikatakan `Kualitas melebihi kuantitas`. Selain itu, biasanya lebih mudah untuk menentukan peringkat kata kunci yang sangat spesifik karena lebih sedikit situs web yang menargetkannya. Jadi, mengapa tidak mencobanya?
 
 ### Kata Kunci LSI'
 
 LSI adalah singkatan dari pengindeksan semantik laten dan berarti kata kunci yang terkait dengan topik tentang halaman Anda. Menyertakan kata kunci LSI dalam konten Anda akan membantu Google dan mesin pencari lainnya lebih memahami relevansi Anda dengan suatu topik.
 Anda ingin memasukkan kata kunci LSI karena semakin banyak mesin pencari mencari lebih banyak pencocokan topik daripada pencocokan kata kunci saat mengembalikan hasil pencarian. Dan cara mereka melakukannya adalah dengan mencari kata kunci LSI.
+
 Idenya adalah bahwa ketika menulis tentang topik tertentu, Anda secara alami akan memasukkan kata-kata yang berhubungan. Katakan misalnya, jika Anda memiliki agen konsultan SEO, Anda secara alami akan memasukkan kata-kata terkait berikut di situs web Anda.
 
 ```
@@ -68,15 +76,18 @@ konsultan internet marketing seo
 
 konsultan pemasaran seo
 
-perusahaan konsultan seo
+prusahaan konsultan seo
 
-konsultan seo top
+konsultan top seo
 
 pakar pemasaran internet seo
 
 layanan pemasaran internet seo
+
 ```
+
 Kata kunci ini relevan dan bermanfaat bagi Google untuk mengekstrak informasi. Dengan informasi ini, mesin pencari dapat memastikan bahwa konten Anda benar-benar berbicara tentang topik yang ingin Anda bidik.
+
 Meskipun Anda secara teknis akan menggunakan kata kunci LSI hanya dengan menulis konten, tidak ada salahnya untuk melihat apakah Anda mungkin melewatkan beberapa yang bagus.
 Tools keyword yang baik dapat membantu Anda menemukan kata kunci long-tail dan kata kunci LSI. 
 
@@ -99,7 +110,9 @@ Berikut daftar singkat untuk mengoptimalkan tag judul Anda:
 - ✔️ Tag judul harus mengandung kata kunci target
 
 Jika Anda membuat judul tanpa mempertimbangkan kata kunci, Anda akan kehilangan peluang untuk page one. Tag judul harus berisi kata kunci yang relevan dengan halaman web dan konten Anda. Ini memberi tahu mesin pencari tentang apa situs web atau halaman itu dan membantu mengindeks situs Anda menurut kata kunci tersebut.
+
 Google menentukan konten halaman dari tag judul, jadi pastikan untuk menjelaskan konten Anda secara akurat. Ingat perilaku pencarian Anda sendiri di Google. Segera setelah Anda menekan "enter" atau "search", Anda mungkin membaca tiga hasil pertama dengan lebih cermat melihat judul. Semakin bertarget dan menggetarkan judulnya, semakin tinggi peluang klik.
+
 Gunakan modifier untuk judul Anda. modifier adalah kata deskriptif yang digunakan dengan kata kunci utama. Mesin pencari memberi tahu cara untuk mengembalikan halaman web paling relevan yang berisi konten terkait. Beberapa contoh modifier judul adalah yang dimulai dengan "bagaimana", "solusi", "terbaik", "panduan untuk", "tahun" atau "tinjauan". Anda dapat menggunakan tools kata kunci yang memiliki filter pola agar cepat mendapatkan saran kata kunci yang mengikuti pola itu.
 
 > **note** Ingatlah untuk mengoptimalkan judul Anda agar beresonansi dengan apa yang dicari pengguna, daripada mengisinya dengan kata kunci ! Anda dapat menggunakan alat untuk membantu Anda melakukan brainstorming pada judul yang paling menarik.
@@ -111,13 +124,17 @@ Gunakan modifier untuk judul Anda. modifier adalah kata deskriptif yang digunaka
 Deskripsi meta adalah paragraf pendek teks (potongan informasi) di bawah URL yang digunakan sebagai pratinjau dalam hasil pencarian.
 Uraian meta harus ditempatkan di tag `<head>` HTML halaman Anda, dan biasanya harus sepanjang `160 karakter`.
 
-Sangat penting untuk memiliki deskripsi meta yang baik karena itulah yang dilihat pengguna ketika mereka memutuskan apakah akan mengklik tautan ke situs Anda atau tidak. Google dapat, atau mungkin tidak memutuskan untuk menggunakan deskripsi Anda dan bahkan dapat mengubahnya. Meskipun demikian, ini adalah salah satu tempat yang ingin Anda perhatikan karena Google akan menggunakannya ketika mencoba memahami tentang apa halaman Anda.
+Sangat penting untuk memiliki deskripsi meta yang baik karena itulah yang dilihat pengguna ketika mereka memutuskan apakah akan mengklik tautan ke situs Anda atau tidak. 
+
+Google dapat, atau mungkin tidak memutuskan untuk menggunakan deskripsi Anda dan bahkan dapat mengubahnya. Meskipun demikian, ini adalah salah satu tempat yang ingin Anda perhatikan karena Google akan menggunakannya ketika mencoba memahami tentang apa halaman Anda.
+
 Anda juga dapat memasukkan kata kunci dalam deskripsi meta untuk membuatnya menarik bagi pembaca aktual yang membaca halaman hasil mesin pencari (SERP).
 
 ### Title and Sub Title 
 
-Title and Sub Title adalah tag html `<h1> , <h2>` , dan `<h3>` . Ini adalah bagian judul atau yang dilihat pengguna di halaman.
+Title and Sub Title adalah tag html `<h1>` , <h2>` , dan `<h3>` . Ini adalah bagian judul atau yang dilihat pengguna di halaman.
 Seharusnya hanya ada satu tag <h1> per halaman web, dan judul ini harus mengandung kata kunci utama yang menjadi fokus konten Anda. Google memeriksa tag ini dengan cara yang sama seperti memeriksa tag judul, jadi bersiaplah untuk mengoptimalkan bagian halaman ini. Sering kali, content management system (CMS) seperti `WordPress` secara otomatis menyertakan tag <h1> untuk judul halaman atau artikel. Dalam hal ini, tidak perlu memasukkan yang lain.
+  
 Sub judul  `<h2>` dan `<h3>` juga harus menyertakan kata kunci target Anda. Namun, ingatlah untuk selalu menulis untuk pembaca dan menggunakan judul yang membantu pengunjung agar mudah menavigasi halaman Anda. 
 
 ## 5. Optimalkan URL Anda
@@ -143,16 +160,17 @@ Backlink berkualitas tinggi harus menjadi salah satu prioritas SEO dasar utama A
 
 Baca lebih lanjut tentang [bagaimana backlink mempengaruhi peringkat SEO Anda](https://www.aradechoco.com/apa-itu-backlink/). 
 
-## 7. Outgoing link / Tauta keluar
+## 7. Outgoing link / Tautan keluar
 
 Tautan keluar adalah tautan di situs web yang mengarah ke domain lain. Contoh tautan keluar adalah [contoh situs web](http://example.com/) ini , yang dapat Anda klik. 
+
 Saat Anda menautkan ke domain lain di konten Anda, ini membantu mesin pencari memahami tentang apa halaman Anda. Memiliki tautan keluar yang lebih terkait dan berkualitas tinggi di situs web Anda dapat meningkatkan peringkat web Anda dengan membuat situs Anda diakui sebagai yang dapat dipercaya dan berkualitas tinggi oleh mesin pencari.
 
 Berikut adalah beberapa hal yang harus Anda pertimbangkan saat melakukan tautan keluar:
 
-- Tautan ke blog yang relevan,
-- Tidak ada tautan agricultural (bagian dari jaringan blog pribadi),
-- Hindari terlalu banyak tautan keluar.
+- ✔️ Tautan ke blog yang relevan,
+- ✔️ Tidak ada tautan agricultural (bagian dari jaringan blog pribadi),
+- ✔️ Hindari terlalu banyak tautan keluar.
 
 Ketika Anda memasukkan tautan ke situs lain dalam artikel blog, Anda juga dapat mencoba menghubungi situs tersebut untuk memberi tahu mereka bahwa Anda memberi mereka backlink. 
 Dengan melakukan hal itu, mereka mungkin menemukan cara untuk memasukkan tautan ke situs Anda di halaman mereka juga. Menautkan ke situs web lain dapat bermanfaat bagi Anda dan pesaing Anda.
@@ -166,7 +184,10 @@ Menautkan ke halaman berkualitas tinggi lainnya tentu tidak akan merusak peringk
 ## 8. Internal link / Tautan internal 
 
 Meskipun penting untuk menerima tautan balik dan tautan ke orang lain, jangan lupa untuk menaruh link ke web Anda sendiri.
-Internal link adalah tautan dari satu halaman web munuju ke halaman web lain dalam domain yang sama. Tautan ini sangat berguna karena memungkinkan pengguna untuk lebih mudah menavigasi situs. Contohnya [SEO Untuk Pemula - Langkah Awal Untuk Naik Peringkat Google](https://www.aradechoco.com/SEO-untuk-pemula/).
+Internal link adalah tautan dari satu halaman web munuju ke halaman web lain dalam domain yang sama. Tautan ini sangat berguna karena memungkinkan pengguna untuk lebih mudah menavigasi situs. 
+
+Contohnya [SEO Untuk Pemula - Langkah Awal Untuk Naik Peringkat Google](https://www.aradechoco.com/SEO-untuk-pemula/).
+
 Tautan internal dapat membantu Anda mempromosikan konten Anda sendiri dan produk atau layanan Anda yang lain.
 
 ## 9. Optimize Image / Gambar Anda 
@@ -174,11 +195,14 @@ Tautan internal dapat membantu Anda mempromosikan konten Anda sendiri dan produk
 ![](../images/gambar.png)
 
 Image adalah faktor penting untuk mengoptimalan konten. Itulah sebabnya saya memutuskan untuk memasukkan pengoptimalan gambar dalam panduan **SEO dasar** ini. Kita semua tau bahwa visual seperti gambar lebih cepat dan lebih mudah diproses. Mereka lebih menarik daripada paragraf teks yang tak ada habisnya.
+
 Sementara gambar bagus untuk pembaca blog Anda, mesin pencari dapat mengalami kesulitan memahami gambar. Untuk memudahkan mesin pencari untuk mengindeks gambar Anda dengan benar, Anda dapat menggunakan `teks alt`. Teks alternatif digunakan dalam kode HTML dan menjelaskan apa yang ditampilkan gambar. Setiap gambar harus memiliki deskripsi terperinci dan akurat dalam teks altnya.
+
 Di samping manfaat untuk mesin pencari, alt teks juga penting untuk tuna netra atau tunanetra karena mereka memerlukan komputer atau perangkat lunak khusus yang membaca teks dengan keras. Selain itu, jika gambar tidak terlihat atau dimuat teks alt Anda akan ditampilkan dan membiarkan pembaca tahu apa gambar yang seharusnya ditampilkan.
 
 `Last but not least`, dengan gambar yang dioptimalkan Anda meningkatkan peluang Anda untuk mencapai peringkat tinggi pada gambar Google , yang dapat menghasilkan trafik tambahan untuk situs web Anda.
 Kode HTML yang menyertakan teks alt untuk gambar akan terlihat seperti ini:
+
 ```html
  <img src = "photos.png" alt = "foto kucing oren">
 ```
@@ -256,7 +280,7 @@ Untuk mengetahui apakah SEO dasar membantu situs web, Anda harus mulai melacak d
 
 Memiliki Google Analytics akan membantu Anda membuat keputusan bisnis tentang di mana Anda harus menginvestasikan sumber daya dan dapat memandu Anda dalam upaya SEO. 
 
-## Berfikir seperti Pengunjung Anda
+## 17 Berfikir seperti Pengunjung Anda
 
 Terakhir tetapi tidak kalah pentingnya, memikirkan pengguna Anda mungkin adalah taktik SEO dasar yang paling penting.
 
