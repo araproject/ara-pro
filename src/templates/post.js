@@ -115,12 +115,15 @@ export default class PostTemplate extends Component {
        
           <div className="post" dangerouslySetInnerHTML={{ __html: postNode.html }} />
         </article>
+     <AdSense.Google
+  client='ca-pub-5908100338136939'
+  slot='2481741157'
+  style={{ display: 'block' }}
+  format='auto'
+  responsive='true'
+  layoutKey='-gw-1+2a-9x+5c'
+/>
         <div className="container">
-           <AdSense.Google
-            client='ca-pub-5908100338136939'
-            slot='2481741157'
-            format="rectangle"
-           />
         </div>
         <UserInfo config={config} />
         <div className="container">
