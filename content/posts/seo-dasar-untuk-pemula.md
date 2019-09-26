@@ -312,7 +312,7 @@ Jangan lupa ceritakan pengalaman Anda setelah melakukan riset! 👍🏼
 
 Jika Anda memiliki saran, pertanyaan, atau rekomendasi, silakan tinggalkan komentar di bawah ini.
 
-## Panduan SEO 
+## Panduan SEO ✔️
 
 - [Tanya Jawab tentang Optimasi SEO](https://www.aradechoco.com/seo-link-building/) - Link Building
 - [Apa itu backlink ?](https://www.aradechoco.com/apa-itu-backlink/) Mengapa penting untuk SEO ?
@@ -321,5 +321,8 @@ Jika Anda memiliki saran, pertanyaan, atau rekomendasi, silakan tinggalkan komen
 - [Membangun Backlink melalui Wikipedia](https://www.aradechoco.com/backlink-melalui-wikipedia/)
 - [Cara mengetahui peringkat situs web](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/)
 - [Cara Menghapus Backlink Spam](https://www.aradechoco.com/menghapus-backlink-spam/)
+- [Teknik SEO](https://www.aradechoco.com/teknik-seo/) - Aspek penting yang tidak boleh di lewatkan 
+- [Optimasi SEO dengan Schema Markup](https://www.aradechoco.com/optimasi-schema-markup/) 
+
 
 
