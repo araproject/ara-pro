@@ -1,5 +1,5 @@
 ---
-date: 2019-09-24
+date: 2019-09-26
 title: 'Optimasi SEO dengan Schema Markup '
 template: post
 thumbnail: '../images/schemaicon.png'
@@ -37,7 +37,7 @@ Jadi, data dari `<h1> Apple </ h1>` hanyalah masalah membiarkan browser menampil
 
 ## Schema Markup = HTML + Structured Data
 
-Kunjungi situs [schema.org](http://schema.org/). Ada deskripsi schema markup dan format yang ditetapkan dengan baik untuk schema markup yang terorganisir dengan baik untuk semua orang. 
+Ada deskripsi schema markup dan format yang ditetapkan dengan baik untuk schema markup yang terorganisir dengan baik untuk semua orang. Kunjungi situs [schema.org](http://schema.org/).  
 
 > **Dengan pengaturan schema diatur dengan benar, informasi dan data di situs web Anda sekarang dikategorikan dalam bentuk semantics.**
 
@@ -64,7 +64,7 @@ Schema Markup yang berguna ini dapat diekspresikan dalam bahasa seperti `JSON-LD
 
 ```html
 <dl itemscope itemtype="https://md.example.com/loco
-                        https://mmd.example.com/lighting"
+                        https://md.example.com/lighting"
                 itemid="https://md.example.com/product-catalog/33041"
 <dt>Name:
  <dd itemprop="name">Tank locomotive (DB 80)
@@ -115,5 +115,6 @@ Informasi produk dan hasil ulasan juga termasuk dalam hasil pencarian, jadi jika
 - [Membangun Backlink melalui Wikipedia](https://www.aradechoco.com/backlink-melalui-wikipedia/)
 - [Cara mengetahui peringkat situs web](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/)
 - [Cara Menghapus Backlink Spam](https://www.aradechoco.com/menghapus-backlink-spam/)
+- [Teknik SEO](https://www.aradechoco.com/teknik-seo/) - Aspek penting yang tidak boleh di lewatkan
 
 
