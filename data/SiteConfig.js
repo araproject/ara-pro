@@ -9,7 +9,7 @@ const config = {
   dateFromFormat: 'YYYY-MM-DD',
   dateFormat: 'MMMM Do, YYYY',
   siteDescription:
-    'Seorang blogger & freelancer amatiran. Situs web ini dibuat untuk tempat mendokumentasikan apa saja.',
+    'Seorang blogger & freelancer. Situs web ini dibuat untuk tempat mendokumentasikan apa saja yang saya pelajari dari internet, Saya juga mulai belajar SEO.',
   siteRss: '/rss.xml',
   googleAnalyticsID: 'UA-78807055-1',
   postDefaultCategoryID: 'Tech',
