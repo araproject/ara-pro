@@ -13,7 +13,9 @@ tags:
   - tips
 ---
 
-Anda mungkin tahu tentang manfaat riset keyword,  keuggulan keyword long-tail dan bagaimana harus menginterpretasikan semua statistik di sebelah setiap kata kunci dalam tools-tools riset favorit Anda. Sangatlah penting untuk mengetahui bagaimana memilih kata kunci dan frasa agar Anda dapat membuat blog tampil di halaman pertama di pencarian Google.
+Anda mungkin tahu tentang manfaat riset keyword,  keuggulan [keyword long-tail](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) dan bagaimana harus menginterpretasikan semua statistik di sebelah setiap kata kunci dalam tools-tools riset favorit Anda. 
+
+Sangatlah penting untuk mengetahui bagaimana memilih kata kunci dan frasa agar Anda dapat membuat blog tampil di halaman pertama di pencarian Google.
 
 Ini akan membantu mesin pencari mengidentifikasi mengapa situs web Anda memiliki traffic yang dicari. Lebih penting lagi, Anda mungkin juga bertanya di mana dan bagaimana harus menempatkan keyword itu? Teknik apa yang harus di gunakan?
 
