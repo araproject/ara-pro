@@ -61,9 +61,9 @@ Terkadang, untuk tidak mengganggu konteks dan keterbacaan konten, situs web menc
 
 Gagasan di balik ini adalah bahwa crawler akan dapat menemukan kata kunci dan memberi peringkat konten sementara konten masih masuk akal bagi pembaca. Banyak situs menganggap menyembunyikan kata kunci sebagai cara `licik` untuk peringkat lebih tinggi, tetapi pada akhirnya, Google akan dapat menemukan teknik black hat ini dan akan menghukum situs tersebut.
 
-> **Setelah mengoptimalkan konten Anda, hitung kepadatan kata kuncinya:
+**Setelah mengoptimalkan konten Anda, hitung kepadatan kata kuncinya:
 
-**Keyword Density** = `Frekuensi kata kunci yang digunakan / Total jumlah kata dalam sebuah artikel.`
+> **Keyword Density** = `Frekuensi kata kunci yang digunakan / Total jumlah kata dalam sebuah artikel.`
 
 Kepadatan kata kunci yang ideal harus dalam antara 1 sampai 3% . Melebihi persentase menandakan bahwa Anda telah mengisi konten situs web Anda dengan terlalu banyak kata kunci. Plus, pastikan untuk menggunakan kata kunci yang tepat untuk konten web Anda. Sebuah alat kata kunci dapat membantu Anda untuk menemukan kata kunci yang terbaik yang kemudian dapat menempatkan di konten Anda dengan cara yang alami.
 
