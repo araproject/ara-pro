@@ -314,7 +314,7 @@ Jika Anda memiliki saran, pertanyaan, atau rekomendasi, silakan tinggalkan komen
 
 ## Panduan SEO ✔️
 
-**Jika ingin membaca lebih lanjut tentang SEO dasar, lihat artikel terkait ini: 
+**Jika ingin membaca lebih lanjut tentang SEO dasar, lihat artikel terkait ini:** 
 
 - [Tanya Jawab tentang Optimasi SEO](https://www.aradechoco.com/seo-link-building/) - Link Building
 - [Apa itu backlink ?](https://www.aradechoco.com/apa-itu-backlink/) Mengapa penting untuk SEO ?
