@@ -35,19 +35,25 @@ Cloaking adalah teknik yang digunakan situs web untuk mengelabui pengguna dan ju
 
 ![](../images/blackhat-seo-1.png)
 
-Contoh penyelubungan (cloaking) adalah jika Anda mengklik kata kunci di salah satu hasil pencarian untuk kata kunci `Gambar kucing`, tetapi alih-alih mengarahkan Anda ke halaman yang berisi gambar atau informasi tentang kucing,tapi hasilnya mengarahkan Anda ke situs web spam download film. Spider mesin pencari biasanya tidak mengindeks situs yang terselubung, namun, dalam kasus yang jarang terjadi, mereka diindeks secara tidak sengaja tetapi akan dihapus saat mereka diidentifikasi sebagai situs terselubung. Google menghukum situs-situs terselubung semacam itu dengan menghapus indeks dan menghapus peringkatnya.
+Contoh penyelubungan (cloaking) adalah jika Anda mengklik kata kunci di salah satu hasil pencarian untuk kata kunci `Gambar kucing`, tetapi alih-alih mengarahkan Anda ke halaman yang berisi gambar atau informasi tentang kucing, tapi hasilnya mengarahkan Anda ke situs web **spam** atau **download aplikasi illegal*. 
+
+**Spider search engine** biasanya tidak mengindeks situs yang **terselubung**, namun, dalam kasus yang jarang terjadi, mereka diindeks secara tidak sengaja tetapi akan dihapus saat mereka diidentifikasi sebagai situs terselubung. Google menghukum situs-situs terselubung semacam itu dengan menghapus indeks dan menghapus peringkatnya.
 
 > **Saran: Cloaking bukan **black hat** 100%, tetapi Anda masih bisa menggunakannya sebagai teknik **white hat**. Iya! Cloaking juga dapat digunakan sebagai teknik white hat , tetapi hanya dalam kasus-kasus tertentu dan sebagai versi cloaking yang ringan.
 
 ## Teknik Black Hat SEO No. 2: Pengisian Kata Kunci
 
-Meskipun penting untuk meriset kata kunci yang tepat untuk halaman web Anda, banyak webmaster memiliki kesalahpahaman tentang penempatan kata kunci. Mereka memasukkan halaman dengan kata kunci seakan menempatkannya secara strategis di seluruh konten mereka. Dengan melakukan itu, mereka berharap dapat menghasilkan peringkat yang lebih tinggi. Namun, saat itulah akan menjadi bumerang. Memasukkan kata kunci pada halaman dan merusak keterbacaan dan konteksnya membuatnya menjadi magnet bagi penalti Google.
+Meskipun penting untuk meriset kata kunci yang tepat untuk halaman web Anda, banyak webmaster memiliki kesalahpahaman tentang penempatan kata kunci. Mereka memasukkan halaman dengan kata kunci seakan menempatkannya secara strategis di seluruh konten mereka. 
+
+Dengan melakukan itu, mereka berharap dapat menghasilkan peringkat yang lebih tinggi. Namun, saat itulah akan menjadi bumerang. Memasukkan kata kunci pada halaman dan merusak keterbacaan dan konteksnya membuatnya menjadi magnet bagi penalti Google.
 
 **Berikut adalah contoh singkat pengisian kata kunci** : 
 
 > “Riset Kata Kunci sangat penting untuk SEO. Jika Anda tidak melakukan riset kata kunci, maka situs Anda akan mendapatkan peringkat yang lebih rendah di SERPs. Jadi, Anda perlu melakukan riset kata kunci yang relevan untuk peringkat yang lebih tinggi. Anda dapat menggunakan alat penelitian kata kunci gratis untuk melakukan riset kata kunci."
 
-Konten bisa ditulis dengan sedikit menyebutkan kata kunci `riset kata kunci` untuk membuatnya lebih masuk akal. Tapi, hanya untuk mendapatkan peringkat tinggi di SERP, kata kunci itu ditempatkan 5 kali dalam paragraf pendek. Isi kata kunci bertentangan dengan pedoman peringkat Google dan jika Anda masih menggunakannya pada tahun 2019 ini, bersiaplah untuk melihat peringkat Anda turun.
+Konten bisa ditulis dengan sedikit menyebutkan kata kunci `riset kata kunci` untuk membuatnya lebih masuk akal. Tapi, hanya untuk mendapatkan peringkat tinggi di SERP, kata kunci itu ditempatkan 5 kali dalam paragraf pendek. 
+
+Isi kata kunci bertentangan dengan pedoman peringkat Google dan jika Anda masih menggunakannya pada tahun 2019 ini, bersiaplah untuk melihat peringkat Anda turun.
 
 **Bagaimana dengan kata kunci tersembunyi?**
 
@@ -89,7 +95,7 @@ Atau, Anda dapat melakukan audit situs-situs web pesaing dan menganalisis data b
 
 Hal terpenting tentang SEO bukanlah untuk menarik pelanggan. Setelah menarik pelanggan, pengguna tertarik dengan produk dan layanan mereka, dan akhirnya membeli dan menjadi repeater (penggemar).
 
-Oleh karena itu, apa yang harus dilakukan oleh pelaku SEO bukanlah Black Hat SEO, yang tentu saja dapat penilaian spam. White Hat SEO yang menyajikan informasi yang diinginkan pengguna dan membuatnya lebih mudah bagi mesin pencari untuk menemukannya. Pertama-tama, membuat konten yang bermanfaat bagi pengguna, dan kemudian menerapkan White Hat SEO adalah cara tercepat untuk menaikkan peringkat situs web.
+Oleh karena itu, apa yang harus dilakukan oleh pelaku SEO bukanlah Black Hat SEO, yang tentu saja dapat penilaian spam. White Hat SEO yang menyajikan informasi yang diinginkan pengguna dan membuatnya lebih mudah bagi mesin pencari untuk menemukannya. Pertama, buatlah konten yang bermanfaat bagi pengguna, dan kemudian menerapkan **White Hat SEO** adalah cara tercepat untuk menaikkan [peringkat situs web](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/).
 
 ## Kesimpulan
 
