@@ -15,9 +15,7 @@ tags:
 
 ## Apa itu Gatsby?
 
-
 Gatsby adalah framework open source yang gratis dan salah satu bagian dari Jamstack dimana keunggulan paling utama nya adalah di fitur React nya sehingga Kamu bisa membuat website yang lebih interaktif tanpa harus mengkhawatirkan kecepatan load nya.
-
 
 ## Kenapa Gatsby?
 
@@ -52,7 +50,7 @@ Gatsby juga menggunakan [GraphQL](https://graphql.org/) untuk mengimpor data sec
 > Tunggu apa lagi, ayo buat!. Klik [link ini](https://www.gatsbyjs.org/starters/?v=2)
 
 
-## 💻 Mari kita mulai Membuat blog dengan Gatsby dan Netlify 
+## 👨🏻‍💻 Mari kita mulai Membuat blog dengan Gatsby 
 
 Buka `Command Prompt`
 
@@ -90,7 +88,7 @@ Buka direktori my-blog-starter di editor kode favorit kamu saya sendiri mengguna
 
 Nah sudah jadi, tapi bagaimana caranya saya me-live kan blog saya ini, ada banyak cara, teman-teman bisa lihat dokumentasinya [disini](https://www.gatsbyjs.org/docs/deploying-and-hosting/)
 
-Namun saya lebih merekomendasikan untuk meng-host di [netlify](https://netlify.com), tinggal login dengan akun github teman-teman. Jangan lupa untuk push blog teman-teman ke repository github dan hubungkan dengan netlify nya. Secara otomatis setiap teman-teman meng-commit maka blog akan terupdate atau bisa kita istilahkan auto-deploy.
+Namun saya lebih merekomendasikan untuk meng-host di [netlify](https://netlify.com), tinggal login dengan akun github Anda. Jangan lupa untuk push blog Anda ke [repository github](https://www.aradechoco.com/mengenal-command-git-dasar/) dan hubungkan dengan netlify nya. Secara otomatis setiap Anda meng-commit maka blog akan terupdate atau bisa kita istilahkan **auto-deploy**.
 
 ## Cara menghubungkan situs Gatsby dengan [netlify](https://netlify.com)
 
@@ -104,15 +102,13 @@ Namun saya lebih merekomendasikan untuk meng-host di [netlify](https://netlify.c
 }
 ```
 
-Yah mungkin segini dulu 😎
+Yah mungkin segini dulu, untuk tutorial Gatsby lainnya akan saya posting di kesempatan berikutnya. Happy Blogging with fast load ! 😎
 
 ## Terkait
 
 - [Optimasi SEO untuk Gatsby Blog](https://www.aradechoco.com/optimasi-seo-untuk-gatsby-blog-part-1/)
 - [Menambahkan Comment Disqus ke Blog Gatsby dengan disqus-react](https://www.aradechoco.com/menambahkan-comment-disqus-ke-blog-gatsby-dengan-disqus-react/)
 - [Cara memasang Kode Iklan Google Adsense di Gatsby](https://www.aradechoco.com/memasang-google-adsense-gatsby/)
-
-
 
 ## Referensi 
 
