@@ -35,7 +35,7 @@ Cloaking adalah teknik yang digunakan situs web untuk mengelabui pengguna dan ju
 
 ![](../images/blackhat-seo-1.png)
 
-Contoh penyelubungan (cloaking) adalah jika Anda mengklik kata kunci di salah satu hasil pencarian untuk kata kunci `Gambar kucing`, tetapi alih-alih mengarahkan Anda ke halaman yang berisi gambar atau informasi tentang kucing, tapi hasilnya mengarahkan Anda ke situs web **spam** atau **download aplikasi illegal*. 
+Contoh penyelubungan (cloaking) adalah jika Anda mengklik kata kunci di salah satu hasil pencarian untuk kata kunci `Gambar kucing`, tetapi alih-alih mengarahkan Anda ke halaman yang berisi gambar atau informasi tentang kucing, tapi hasilnya mengarahkan Anda ke situs web *spam* atau *download aplikasi illegal*. 
 
 **Spider search engine** biasanya tidak mengindeks situs yang **terselubung**, namun, dalam kasus yang jarang terjadi, mereka diindeks secara tidak sengaja tetapi akan dihapus saat mereka diidentifikasi sebagai situs terselubung. Google menghukum situs-situs terselubung semacam itu dengan menghapus indeks dan menghapus peringkatnya.
 
