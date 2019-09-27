@@ -73,9 +73,9 @@ Selain itu, ada banyak pendeteksi plagiarisme yang tersedia di internet yang dap
 
 [Membangun backlink](https://www.aradechoco.com/backlink-melalui-wikipedia/) adalah salah satu [teknik SEO](https://www.aradechoco.com/teknik-seo/) paling efektif. Tautan masuk dari situs DA yang lebih tinggi meningkatkan peringkat SERP situs web dengan meningkatkan DA dan kredibilitas online.
 
-Tetapi, untuk mencapai ketiga manfaat ini dengan cepat, situs web biasanya mulai membeli backlink. Mereka sering mulai membayar perantara untuk menghasilkan sejumlah tautan bagi mereka. Tautan balik itu tidak selalu dari situs DA yang bagus, dan bisa dari niche yang tidak terkait dengan web yang akan dimasukkan backlink, atau domain yang mempromosikan konten spam. Jika situs memiliki tautan masuk dari domain tersebut, itu sebenarnya merusak kredibilitas dan kualitas backlink mereka, yang memengaruhi peringkat situs dan DA secara signifikan.
+Tetapi, untuk mencapai ketiga manfaat ini dengan cepat, situs web biasanya mulai membeli backlink. Mereka sering mulai membayar jasa backlink untuk menghasilkan sejumlah link bagi mereka. Backlink itu tidak selalu dari situs DA yang bagus, dan bisa dari niche yang tidak terkait dengan web yang akan dimasukkan backlink, atau domain yang mempromosikan konten spam. Jika situs memiliki link yang mengarah dari domain tersebut, itu dapat merusak kredibilitas dan kualitas backlink mereka, yang memengaruhi peringkat situs dan DA secara signifikan.
 
-Saran saya entikan membeli backlink, dan mulailah [membangun backlink yang berkualitas](https://www.aradechoco.com/apa-itu-backlink/)
+Saran saya jangan membeli backlink dari **jasa backlink** yang belum terpercaya, dan mulailah [membangun backlink yang berkualitas](https://www.aradechoco.com/apa-itu-backlink/)
 
 Ada beberapa strategi membangun backlink white hat yang harus digunakan situs Anda untuk membangun tautan masuk saecara alami. Anda dapat menggunakan **Guest post**, **komentar blog**, **posting forum**, dll. Atau, Anda dapat melakukan audit situs situs web pesaing Anda dan menganalisis data backlink mereka untuk menemukan peluang backlink yang baik untuk situs web Anda sendiri.
 
@@ -89,6 +89,7 @@ Jadi, jika Anda masih menggunakan teknik black hat SEO , Anda harus berhenti sek
 
 ## Jika ingin membaca lebih lanjut tentang SEO dasar, lihat artikel terkait ini: 
 
+- [SEO Dasar:](https://www.aradechoco.com/seo-dasar-untuk-pemula/) 17 Tips Optimasi Yang Wajib Diketahui Pemula
 - [Tanya Jawab tentang Optimasi SEO](https://www.aradechoco.com/seo-link-building/) - Link Building
 - [Apa itu backlink ?](https://www.aradechoco.com/apa-itu-backlink/) Mengapa penting untuk SEO ?
 - [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
