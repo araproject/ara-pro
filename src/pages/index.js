@@ -50,7 +50,7 @@ export default class Index extends Component {
               <img src={aradechoco} className="newsletter-avatar" alt="aradechoco" />
               <div>
                 <h3>🔥feedburner</h3>
-                <p>Subscribe untuk mendapatkan update baru via Email 📧 </p>
+                <p>Dapatkan Update Artikel terbaru Via Email 💌</p>
                 <a className="button" href="https://feedburner.google.com/fb/a/mailverify?uri=web/vfZZ">
                   Subscribe
                 </a>
