@@ -43,9 +43,11 @@ Contoh penyelubungan (cloaking) adalah jika Anda mengklik kata kunci di salah sa
 
 Meskipun penting untuk meriset kata kunci yang tepat untuk halaman web Anda, banyak webmaster memiliki kesalahpahaman tentang penempatan kata kunci. Mereka memasukkan halaman dengan kata kunci seakan menempatkannya secara strategis di seluruh konten mereka. Dengan melakukan itu, mereka berharap dapat menghasilkan peringkat yang lebih tinggi. Namun, saat itulah akan menjadi bumerang. Memasukkan kata kunci pada halaman dan merusak keterbacaan dan konteksnya membuatnya menjadi magnet bagi penalti Google.
 
-**Berikut adalah contoh singkat pengisian kata kunci** : “Penelitian Kata Kunci sangat penting untuk SEO. Jika Anda tidak melakukan penelitian kata kunci, maka situs Anda akan peringkat lebih rendah di SERPs. Jadi, Anda perlu melakukan riset kata kunci yang relevan untuk peringkat yang lebih tinggi. Anda dapat menggunakan alat penelitian kata kunci gratis untuk melakukan riset kata kunci."
+**Berikut adalah contoh singkat pengisian kata kunci** : 
 
-Konten bisa ditulis dengan sedikit menyebutkan kata kunci "penelitian kata kunci" untuk membuatnya lebih masuk akal. Tapi, hanya untuk mendapatkan peringkat tinggi di SERP, kata kunci itu ditempatkan 5 kali dalam paragraf pendek. Isi kata kunci bertentangan dengan pedoman peringkat Google dan jika Anda masih menggunakannya pada tahun 2019 ini, bersiaplah untuk melihat peringkat Anda turun.
+> “Riset Kata Kunci sangat penting untuk SEO. Jika Anda tidak melakukan riset kata kunci, maka situs Anda akan mendapatkan peringkat yang lebih rendah di SERPs. Jadi, Anda perlu melakukan riset kata kunci yang relevan untuk peringkat yang lebih tinggi. Anda dapat menggunakan alat penelitian kata kunci gratis untuk melakukan riset kata kunci."
+
+Konten bisa ditulis dengan sedikit menyebutkan kata kunci `riset kata kunci` untuk membuatnya lebih masuk akal. Tapi, hanya untuk mendapatkan peringkat tinggi di SERP, kata kunci itu ditempatkan 5 kali dalam paragraf pendek. Isi kata kunci bertentangan dengan pedoman peringkat Google dan jika Anda masih menggunakannya pada tahun 2019 ini, bersiaplah untuk melihat peringkat Anda turun.
 
 **Bagaimana dengan kata kunci tersembunyi?**
 
@@ -53,9 +55,9 @@ Terkadang, untuk tidak mengganggu konteks dan keterbacaan konten, situs web menc
 
 Gagasan di balik ini adalah bahwa crawler akan dapat menemukan kata kunci dan memberi peringkat konten sementara konten masih masuk akal bagi pembaca. Banyak situs menganggap menyembunyikan kata kunci sebagai cara `licik` untuk peringkat lebih tinggi, tetapi pada akhirnya, Google akan dapat menemukan teknik black hat ini dan akan menghukum situs tersebut.
 
-> **Saran: Setelah mengoptimalkan konten Anda, hitung kepadatan kata kuncinya:
+> **Setelah mengoptimalkan konten Anda, hitung kepadatan kata kuncinya:
 
-> **Keyword Density** = Frekuensi kata kunci yang digunakan / Total jumlah kata dalam sebuah artikel.
+**Keyword Density** = `Frekuensi kata kunci yang digunakan / Total jumlah kata dalam sebuah artikel.`
 
 Kepadatan kata kunci yang ideal harus dalam antara 1 sampai 3% . Melebihi persentase menandakan bahwa Anda telah mengisi konten situs web Anda dengan terlalu banyak kata kunci. Plus, pastikan untuk menggunakan kata kunci yang tepat untuk konten web Anda. Sebuah alat kata kunci dapat membantu Anda untuk menemukan kata kunci yang terbaik yang kemudian dapat menempatkan di konten Anda dengan cara yang alami.
 
@@ -67,7 +69,7 @@ Menyalin ( copas ) konten dari situs lain dan mempostingnya di milik Anda sebaga
 
 Selain itu, ada banyak pendeteksi plagiarisme yang tersedia di internet yang dapat memeriksa apakah konten Anda dijiplak atau tidak. Sebagian besar dari mereka juga menyediakan sumber yang tepat dari mana informasi tertentu telah disalin. Misalahnya [Copyscape](https://www.copyscape.com/) dan [Smallseotools](https://smallseotools.com/plagiarism-checker/).
 
-> **Saran: Jangan menyalin seluruh postingan, salin bagian dan kutip sumbernya atau tambahkan link sumber. Anda tidak perlu menyalin seluruh posting. Jika Anda menemukan bahwa informasi tertentu telah dijelaskan di beberapa artikel lain, Anda dapat menyalin bagian tertentu itu dan memasukkannya dalam posting Anda. Namun, pastikan untuk menautkan kembali ke artikel asli atau menambahkan URL sumber.
+> **note: Jangan menyalin seluruh postingan, salin bagian dan kutip sumbernya atau tambahkan link sumber. Anda tidak perlu menyalin seluruh posting. Jika Anda menemukan bahwa informasi tertentu telah dijelaskan di beberapa artikel lain, Anda dapat menyalin bagian tertentu itu dan memasukkannya dalam posting Anda. Namun, pastikan untuk menautkan kembali ke artikel asli atau menambahkan URL sumber.
 
 ## Teknik Black Hat SEO No 4: Halaman Doorway Dan Gateway
 
