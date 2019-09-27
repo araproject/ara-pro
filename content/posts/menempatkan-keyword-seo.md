@@ -13,12 +13,15 @@ tags:
   - tips
 ---
 
-Anda mungkin tahu tentang manfaat riset keyword,  keuggulan keyword long-tail dan bagaimana harus menginterpretasikan semua statistik di sebelah setiap kata kunci dalam tools-tools riset favorit Anda. Sangatlah penting untuk mengetahui bagaimana memilih kata kunci dan frasa agar Anda dapat membuat blog tampil di halaman pertama di pencarian Google. 
+Anda mungkin tahu tentang manfaat riset keyword,  keuggulan keyword long-tail dan bagaimana harus menginterpretasikan semua statistik di sebelah setiap kata kunci dalam tools-tools riset favorit Anda. Sangatlah penting untuk mengetahui bagaimana memilih kata kunci dan frasa agar Anda dapat membuat blog tampil di halaman pertama di pencarian Google.
+
 Ini akan membantu mesin pencari mengidentifikasi mengapa situs web Anda memiliki traffic yang dicari. Lebih penting lagi, Anda mungkin juga bertanya di mana dan bagaimana harus menempatkan keyword itu? Teknik apa yang harus di gunakan?
 
-Tujuannya adalah untuk memberikan informasi yang relevan, itulah sebabnya Anda harus menargetkan kata kunci yang tepat agar dapat ditemukan oleh pembaca dan klien potensial. Karena itu, fokuslah untuk menyampaikan frasa yang sesuai ke dalam konten Anda dan menganalisis cara menempatkannya di area terbaik situs web Anda. Sekarang adalah waktunya untuk menyelami cara memasukkan kata kunci secara praktis ke dalam posting blog Anda. 
+Tujuannya adalah untuk memberikan informasi yang relevan, itulah sebabnya Anda harus menargetkan kata kunci yang tepat agar dapat ditemukan oleh pembaca dan klien potensial. 
 
-![](../images/keyword-seo.png)
+Karena itu, fokuslah untuk menyampaikan frasa yang sesuai ke dalam konten Anda dan menganalisis cara menempatkannya di area terbaik situs web Anda. Sekarang adalah waktunya untuk menyelami cara memasukkan kata kunci secara praktis ke dalam posting blog Anda. 
+
+![](../images/menempatkan-keyword-seo.png)
 
 ## 1. Judul dan Konten
 
@@ -32,7 +35,9 @@ Tiitle dan sub tittle adalah tag html yang menggunakan `<h1>` , `<h2>`, dan  `<h
 
 ### Konten
 
-Tempat berikutnya adalah konten. Memiliki kata kunci utama di seluruh konten Anda mengirim sinyal Google atau Bing bahwa kata kunci ini terkait dengan produk Anda. Cobalah untuk memasukkan kata kunci LSI dan memiliki aliran alami untuk mesin pencari untuk menganalisis konten yang lebih beragam. Ingat, bahwa ketika terlalu banyak kata kunci identik terus muncul di konten Anda, Google dapat dengan mudah menghukum blog Anda untuk isian kata kunci . Sama berlakunya untuk post!
+Tempat berikutnya adalah konten. Memiliki kata kunci utama di seluruh konten Anda mengirim sinyal Google atau Bing bahwa kata kunci ini terkait dengan produk Anda. Cobalah untuk memasukkan kata kunci LSI dan memiliki aliran alami untuk mesin pencari untuk menganalisis konten yang lebih beragam. 
+
+Ingat, bahwa ketika terlalu banyak kata kunci identik terus muncul di konten Anda, Google dapat dengan mudah menghukum blog Anda untuk isian kata kunci . Sama berlakunya untuk post!
 
 ## 2. Nama File Gambar
 
@@ -47,7 +52,7 @@ Lihat dua contoh berikut ini:
 
 dan
 
-<img src=”photos.png” alt=”vinyl records in a drawer”>
+<img src=”photos.png” alt=”gambar kucing  lucu”>
 ```
 
 Yang mana yang akan dipahami mesin pencari secara instan?
@@ -62,13 +67,17 @@ Sangat penting untuk dipahami, bahwa Anda tidak boleh mencoba menipu siapa pun d
 
 Termasuk Kata Kunci dalam URL membantu pengguna menemukan tautan lebih mudah, selama mereka ringkas dan dapat dibaca, orang-orang percaya konten akan sesuai dengan yang mereka cari.
 
-Masuk akal untuk memberi nama file dan folder direktori Anda secara logis dengan kata kunci. Jika Anda yakin, bahwa URL yang sebenarnya lebih terfokus pada mesin pencari dan tidak ada hubungannya dengan manusia, lihatlah contoh di bawah ini dan pilih satu tautan yang Anda lebih ingin klik.
+Masuk akal untuk memberi nama file dan folder direktori Anda secara logis dengan kata kunci. Jika Anda yakin, bahwa URL yang sebenarnya lebih terfokus pada mesin pencari dan tidak ada hubungannya dengan manusia.
+
+**Sebagai contoh di bawah ini, pilih salah satu tautan yang lebih ingin Anda klik.
 
 `https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/`
 
 `https://www.aradechoco.com/T6PiqGx__s/p/2247/`
 
-Dengan kata kunci di dalam URL, orang yang menjelajahi daring mengetahui konten yang ditemukan di tautan, alih-alih menebak arti angka dan huruf acak. Jadi, buat URL Anda lebih informatif dan dapat diklik dengan memisahkan 2 hingga 4 kata kunci dengan tanda hubung.
+Dengan kata kunci di dalam URL, orang yang menjelajahi daring mengetahui konten yang ditemukan di tautan, alih-alih menebak arti angka dan huruf acak. 
+
+Jadi, buat URL Anda lebih informatif dan dapat diklik dengan memisahkan 2 hingga 4 kata kunci dengan tanda hubung.
 
 # 5. Deskripsi Meta / Meta description
 
@@ -76,7 +85,9 @@ Dengan persaingan tinggi di halaman pertama SERP, jangan lewatkan perubahan untu
 
 Namun, pernahkah Anda memperhatikan garis deskripsi di bawah setiap hasil? Seberapa sering Anda membaca kata-kata ini untuk menemukan apa yang Anda cari? Jika deskriptif, persuasif, dan menginspirasi rasa ingin tahu, maka Anda menyaksikan sendiri meta deskripsi yang dioptimalkan dengan terampil. 
 
-Jangan abaikan deskripsi meta untuk konten Anda , bahkan jika Anda membaca daring tentang kekuatan SEO-nya yang semakin berkurang. Ini masih merupakan alat yang ampuh untuk mengarahkan pengguna ke situs web Anda dan dengan demikian meningkatkan trafik dan peringkat organik Anda. Ini penting untuk upaya pemasaran Anda, karena ini adalah deskripsi pertama yang dilihat pengguna Anda untuk diyakinkan bahwa mereka akan mengklik halaman web konten terbaik.
+Jangan abaikan deskripsi meta untuk konten Anda , bahkan jika Anda membaca daring tentang kekuatan SEO-nya yang semakin berkurang. Ini masih merupakan alat yang ampuh untuk mengarahkan pengguna ke situs web Anda dan dengan demikian meningkatkan trafik dan peringkat organik Anda. 
+
+Ini penting untuk upaya pemasaran Anda, karena ini adalah deskripsi pertama yang dilihat pengguna Anda untuk diyakinkan bahwa mereka akan mengklik halaman web konten terbaik.
 
 ## Analisis Kebiasaan Anda Sendiri
 
@@ -85,6 +96,7 @@ Dengan mempertahankan lima tujuan kata kunci utama ini, Anda akan dapat mengekst
 
 ## Jika ingin membaca lebih lanjut tentang SEO dasar, lihat artikel terkait ini: 
 
+- [SEO Dasar:](https://www.aradechoco.com/seo-dasar-untuk-pemula/) 17 Tips Optimasi Yang Wajib Diketahui Pemula
 - [Tanya Jawab tentang Optimasi SEO](https://www.aradechoco.com/seo-link-building/) - Link Building
 - [Apa itu backlink ?](https://www.aradechoco.com/apa-itu-backlink/) Mengapa penting untuk SEO ?
 - [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
@@ -95,4 +107,4 @@ Dengan mempertahankan lima tujuan kata kunci utama ini, Anda akan dapat mengekst
 - [Optimasi SEO dengan Schema Markup](https://www.aradechoco.com/optimasi-schema-markup/)
 - [Teknik SEO](https://www.aradechoco.com/teknik-seo/) - Aspek penting yang tidak boleh di lewatkan
 - [Teknik Black Hat SEO Yang Harus di Hindari](https://www.aradechoco.com/teknik-black-hat-seo/)
-- [[teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/)](https://www.aradechoco.com/teknik-white-hat-seo/)
+- [[teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/)
