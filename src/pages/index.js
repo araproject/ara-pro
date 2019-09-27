@@ -31,7 +31,7 @@ export default class Index extends Component {
             <div className="elevator">
               <h1>I'm aradechoco</h1>
               <p>
-             Seorang blogger & freelancer. Situs web ini dibuat untuk tempat mendokumentasikan apa saja yang saya pelajari dari internet, Saya juga mulai belajar tentang SEO. 👦🏻 
+             Seorang blogger & freelancer. Situs web ini dibuat untuk tempat mendokumentasikan apa saja yang saya pelajari dari internet, Saya juga mulai belajar [tentang SEO](https://www.aradechoco.com/categories/seo/). 👨🏻‍💻🏻 
               </p>
               <div className="social-buttons">
                 <div>
@@ -50,7 +50,7 @@ export default class Index extends Component {
               <img src={aradechoco} className="newsletter-avatar" alt="aradechoco" />
               <div>
                 <h3>🔥feedburner</h3>
-                <p>Subscribe untuk mendapatkan update baru</p>
+                <p>Subscribe untuk mendapatkan update baru via Email 📧 </p>
                 <a className="button" href="https://feedburner.google.com/fb/a/mailverify?uri=web/vfZZ">
                   Subscribe
                 </a>
