@@ -201,7 +201,7 @@ Tautan internal dapat membantu Anda mempromosikan konten Anda sendiri dan produk
 
 ![](../images/gambar.png)
 
-Image adalah faktor penting untuk mengoptimalan konten. Itulah sebabnya saya memutuskan untuk memasukkan pengoptimalan gambar dalam panduan **SEO dasar** ini. Kita semua tau bahwa visual seperti gambar lebih cepat dan lebih mudah diproses. Mereka lebih menarik daripada paragraf teks yang tak ada habisnya.
+Gambar adalah faktor penting untuk mengoptimalan konten. Itulah sebabnya saya memutuskan untuk memasukkan pengoptimalan gambar dalam panduan **SEO dasar** ini. Kita semua tau bahwa visual seperti gambar lebih cepat dan lebih mudah diproses. Mereka lebih menarik daripada paragraf teks yang tak ada habisnya.
 
 Sementara gambar bagus untuk pembaca blog Anda, mesin pencari dapat mengalami kesulitan memahami gambar. Untuk memudahkan mesin pencari untuk mengindeks gambar Anda dengan benar, Anda dapat menggunakan `teks alt`. Teks alternatif digunakan dalam kode HTML dan menjelaskan apa yang ditampilkan gambar. Setiap gambar harus memiliki deskripsi terperinci dan akurat dalam teks altnya.
 
@@ -314,6 +314,8 @@ Jika Anda memiliki saran, pertanyaan, atau rekomendasi, silakan tinggalkan komen
 
 ## Panduan SEO ✔️
 
+**Jika ingin membaca lebih lanjut tentang SEO dasar, lihat artikel terkait ini: 
+
 - [Tanya Jawab tentang Optimasi SEO](https://www.aradechoco.com/seo-link-building/) - Link Building
 - [Apa itu backlink ?](https://www.aradechoco.com/apa-itu-backlink/) Mengapa penting untuk SEO ?
 - [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
@@ -321,8 +323,10 @@ Jika Anda memiliki saran, pertanyaan, atau rekomendasi, silakan tinggalkan komen
 - [Membangun Backlink melalui Wikipedia](https://www.aradechoco.com/backlink-melalui-wikipedia/)
 - [Cara mengetahui peringkat situs web](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/)
 - [Cara Menghapus Backlink Spam](https://www.aradechoco.com/menghapus-backlink-spam/)
-- [Teknik SEO](https://www.aradechoco.com/teknik-seo/) - Aspek penting yang tidak boleh di lewatkan 
-- [Optimasi SEO dengan Schema Markup](https://www.aradechoco.com/optimasi-schema-markup/) 
-
+- [Optimasi SEO dengan Schema Markup](https://www.aradechoco.com/optimasi-schema-markup/)
+- [Teknik SEO](https://www.aradechoco.com/teknik-seo/) - Aspek penting yang tidak boleh di lewatkan
+- [Teknik Black Hat SEO Yang Harus di Hindari](https://www.aradechoco.com/teknik-black-hat-seo/)
+- [Teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/)
+- [Cara Menempatkan Keyword yang SEO pada Postingan blog](https://www.aradechoco.com/menempatkan-keyword-seo/)
 
 
