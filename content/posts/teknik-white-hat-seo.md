@@ -24,7 +24,7 @@ Namun, menggunakan teknik SEO white hat dapat menjadi sulit untuk peringkat ting
 
 Pada artikel ini, saya akan berbagi 4 teknik white hat SEO paling populer untuk mengungguli pesaing Anda di Google.
 
-Teknik White Hat SEO No. 1: Riset Keyword
+## Teknik White Hat SEO No. 1: Riset Keyword
 
 #### Apa itu riset kata kunci?
 
