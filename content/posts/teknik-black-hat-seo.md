@@ -35,7 +35,7 @@ Cloaking adalah teknik yang digunakan situs web untuk mengelabui pengguna dan ju
 
 ![](../images/blackhat-seo-1.png)
 
-Contoh penyelubungan (cloaking) adalah jika Anda mengklik kata kunci di salah satu hasil pencarian untuk kata kunci 'Gambar kucing', tetapi alih-alih mengarahkan Anda ke halaman yang berisi gambar atau informasi tentang kucing,tapi hasilnya mengarahkan Anda ke situs web pengunduhan film spam. Spider mesin pencari biasanya tidak mengindeks situs yang terselubung, namun, dalam kasus yang jarang terjadi, mereka diindeks secara tidak sengaja tetapi akan dihapus saat mereka diidentifikasi sebagai situs terselubung. Google menghukum situs-situs terselubung semacam itu dengan menghapus indeks dan menghapus peringkatnya.
+Contoh penyelubungan (cloaking) adalah jika Anda mengklik kata kunci di salah satu hasil pencarian untuk kata kunci `Gambar kucing`, tetapi alih-alih mengarahkan Anda ke halaman yang berisi gambar atau informasi tentang kucing,tapi hasilnya mengarahkan Anda ke situs web spam download film. Spider mesin pencari biasanya tidak mengindeks situs yang terselubung, namun, dalam kasus yang jarang terjadi, mereka diindeks secara tidak sengaja tetapi akan dihapus saat mereka diidentifikasi sebagai situs terselubung. Google menghukum situs-situs terselubung semacam itu dengan menghapus indeks dan menghapus peringkatnya.
 
 > **Saran: Cloaking bukan **black hat** 100%, tetapi Anda masih bisa menggunakannya sebagai teknik **white hat**. Iya! Cloaking juga dapat digunakan sebagai teknik white hat , tetapi hanya dalam kasus-kasus tertentu dan sebagai versi cloaking yang ringan.
 
@@ -51,7 +51,7 @@ Konten bisa ditulis dengan sedikit menyebutkan kata kunci "penelitian kata kunci
 
 Terkadang, untuk tidak mengganggu konteks dan keterbacaan konten, situs web mencoba menyembunyikan kata kunci yang berlebihan dari pengguna. Bagaimana? Mereka mengubah warna teks untuk mencocokkan latar belakang halaman, membuat mereka tidak terlihat oleh pengguna sementara masih terlihat oleh crawler.
 
-Gagasan di balik ini adalah bahwa crawler akan dapat menemukan kata kunci dan memberi peringkat konten sementara konten masih masuk akal bagi pembaca. Banyak situs menganggap menyembunyikan kata kunci sebagai cara 'licik' untuk peringkat lebih tinggi, tetapi pada akhirnya, Google akan dapat menemukan teknik black hat ini dan akan menghukum situs tersebut.
+Gagasan di balik ini adalah bahwa crawler akan dapat menemukan kata kunci dan memberi peringkat konten sementara konten masih masuk akal bagi pembaca. Banyak situs menganggap menyembunyikan kata kunci sebagai cara `licik` untuk peringkat lebih tinggi, tetapi pada akhirnya, Google akan dapat menemukan teknik black hat ini dan akan menghukum situs tersebut.
 
 > **Saran: Setelah mengoptimalkan konten Anda, hitung kepadatan kata kuncinya:
 
@@ -75,7 +75,7 @@ Selain itu, ada banyak pendeteksi plagiarisme yang tersedia di internet yang dap
 
 Tetapi, untuk mencapai ketiga manfaat ini dengan cepat, situs web biasanya mulai membeli backlink. Mereka sering mulai membayar perantara untuk menghasilkan sejumlah tautan bagi mereka. Tautan balik itu tidak selalu dari situs DA yang bagus, dan bisa dari niche yang tidak terkait dengan web yang akan dimasukkan backlink, atau domain yang mempromosikan konten spam. Jika situs memiliki tautan masuk dari domain tersebut, itu sebenarnya merusak kredibilitas dan kualitas backlink mereka, yang memengaruhi peringkat situs dan DA secara signifikan.
 
-> **Saran: Hentikan pembelian backlink, tapi mulailah [membangun backlink yang berkualitas](https://www.aradechoco.com/apa-itu-backlink/)
+Saran saya entikan membeli backlink, dan mulailah [membangun backlink yang berkualitas](https://www.aradechoco.com/apa-itu-backlink/)
 
 Ada beberapa strategi membangun backlink white hat yang harus digunakan situs Anda untuk membangun tautan masuk saecara alami. Anda dapat menggunakan **Guest post**, **komentar blog**, **posting forum**, dll. Atau, Anda dapat melakukan audit situs situs web pesaing Anda dan menganalisis data backlink mereka untuk menemukan peluang backlink yang baik untuk situs web Anda sendiri.
 
@@ -98,4 +98,5 @@ Jadi, jika Anda masih menggunakan teknik black hat SEO , Anda harus berhenti sek
 - [Cara Menghapus Backlink Spam](https://www.aradechoco.com/menghapus-backlink-spam/)
 - [Optimasi SEO dengan Schema Markup](https://www.aradechoco.com/optimasi-schema-markup/)
 - [Teknik SEO](https://www.aradechoco.com/teknik-seo/) - Aspek penting yang tidak boleh di lewatkan
+- [Cara Menempatkan Keyword yang SEO pada Postingan blog](https://www.aradechoco.com/menempatkan-keyword-seo/)
 
