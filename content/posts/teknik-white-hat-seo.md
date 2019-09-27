@@ -2,7 +2,7 @@
 date: 2019-09-27
 title: 'Teknik White Hat SEO Dasar untuk Pemula'
 template: post
-thumbnail: '../images/blackhat-seo.png'
+thumbnail: '../images/whitehat-seo.png'
 slug: teknik-white-hat-seo
 categories:
   - SEO
@@ -77,7 +77,7 @@ Setelah menganalisis konten pesaing Anda, Anda dapat membuat konten yang mencaku
 
 [Link Building](https://www.aradechoco.com/seo-link-building/) adalah salah satu teknik white hat SEO paling kuat dan dapat mengarahkan banyak sekali lalu lintas ke domain Anda sekaligus meningkatkan kredibilitas dan otoritasnya. Hampir setiap situs web yang mendapat peringkat di bagian atas hasil pencarian memiliki jumlah tautan yang layak, dan ini menunjukkan kepada Google bahwa situs web tersebut kredibel dan harus berkualitas tinggi. 
 
-Meskipun backlink adalah bagian yang sangat penting dari SEO, Anda tidak boleh **membeli backlink** untuk meningkatkan peringkat Google Anda. 'Membeli backlink' adalah teknik black hat SEO dan dapat membuat Anda dihukum oleh Google .
+Meskipun backlink adalah bagian yang sangat penting dari SEO, Anda tidak boleh **membeli backlink** untuk meningkatkan peringkat Google Anda. `Membeli backlink` adalah teknik black hat SEO dan dapat membuat Anda dihukum oleh Google .
 
 Sebaliknya, Anda harus membangun link secara alami. Ada beberapa [metode membangun backlink](https://www.aradechoco.com/apa-itu-backlink/) untuk melakukannya. Misalnya, Anda dapat mendekati situs web untuk peluang membangun tautan melalui posting di buku tamu ( Guest Post ). Namun, pastikan untuk hanya mencari backlink dari situs web berkualitas tinggi. Tautan dari situs web spam benar-benar dapat membahayakan peringkat SEO Anda.
 
@@ -85,7 +85,7 @@ Sebaliknya, Anda harus membangun link secara alami. Ada beberapa [metode membang
 
 Jika Anda ingin mengungguli pesaing Anda, Anda harus memiliki backlink berkualitas tinggi. Ingat, jumlah backlink kurang penting daripada kualitas backlink. Tentu saja perlu memiliki jumlah backlink yang layak, tetapi mereka harus berasal dari situs otoritas tinggi.
 
-Sama seperti kata kunci, Anda dapat `mencuri` backlink pesaing juga. Anda dapat memanfaatkan [tools Pemeriksa Backlink](https://www.rankwatch.com/backlinks/) untuk melakukan riset backlink komprehensif pada pesaing Anda dan mulai memeriksa profil backlink mereka.
+Sama seperti kata kunci, Anda dapat `meniru` backlink pesaing juga. Anda dapat memanfaatkan [tools Pemeriksa Backlink](https://www.rankwatch.com/backlinks/) untuk melakukan riset backlink komprehensif pada pesaing Anda dan mulai memeriksa profil backlink mereka.
 
 Setelah Anda mengumpulkan lebih banyak informasi tentang domain-domain yang memiliki link ke pesaing Anda, Anda dapat mendekati situs web tersebut untuk guset post / postingan buku tamu dan peluang tautan lainnya.
 
