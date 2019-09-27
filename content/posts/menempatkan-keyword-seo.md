@@ -109,4 +109,4 @@ Dengan mempertahankan lima tujuan kata kunci utama ini, Anda akan dapat mengekst
 - [Optimasi SEO dengan Schema Markup](https://www.aradechoco.com/optimasi-schema-markup/)
 - [Teknik SEO](https://www.aradechoco.com/teknik-seo/) - Aspek penting yang tidak boleh di lewatkan
 - [Teknik Black Hat SEO Yang Harus di Hindari](https://www.aradechoco.com/teknik-black-hat-seo/)
-- [[teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/)
+- [Teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/)
