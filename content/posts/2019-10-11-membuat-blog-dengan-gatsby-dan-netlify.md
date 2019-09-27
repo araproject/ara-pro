@@ -16,24 +16,28 @@ tags:
 ## Apa itu Gatsby?
 
 
-Gatsby adalah open source framework yang free dan salah satu bagian dari Jamstack dimana keunggulan paling utama nya adalah di fitur React nya sehingga Kamu bisa membuat website yang lebih interaktif tanpa harus mengkhawatirkan kecepatan load nya.
+Gatsby adalah framework open source yang gratis dan salah satu bagian dari Jamstack dimana keunggulan paling utama nya adalah di fitur React nya sehingga Kamu bisa membuat website yang lebih interaktif tanpa harus mengkhawatirkan kecepatan load nya.
 
 
 ## Kenapa Gatsby?
 
-Ada [banyak generator situs statis](https://www.staticgen.com/) untuk dipilih. Jekyll, Hugo, Next, dan Hexo adalah beberapa yang terkenal dan beberapa yang menarik seperti Eleventy juga. Pada awalnya, saya hanya ingin membuat sesuatu yang dapat menghasilkan HTML secara langsung dan JavaScript app yang berat tidak mungkin lebih baik daripada HTML dan CSS sederhana.
+Ada [banyak generator situs statis](https://www.staticgen.com/) untuk dipilih. **Jekyll**, **Hugo**, **Next**, dan **Hexo** adalah beberapa yang terkenal dan beberapa yang menarik seperti **Eleventy** juga.
 
-Namun, saya sadari bahwa SSG seperti Gatsby memanfaatkan power pemisahan kode / data, pra-load, pra-cache, pengoptimalan gambar, dan segala macam peningkatan kinerja yang akan sulit atau tidak mungkin dilakukan dengan HTML biasa.
+SSG seperti Gatsby memanfaatkan power pemisahan kode / data, pra-load, pra-cache, pengoptimalan gambar, dan segala macam peningkatan kinerja yang akan sulit atau tidak mungkin dilakukan dengan HTML biasa.
 
 ## Apa itu situs statis?
 
 Situs statis sudah ada sejak lama. Bahkan, mereka mungkin situs web asli: hanya HTML, CSS, dan JavaScript. Mereka tidak diberikan selama runtime; tidak ada server-side code, tidak ada database, dll.
-Generator situs statis adalah alat yang menghasilkan situs statis. Sehubungan dengan JS frameworks and libraries, ini biasanya menghasilkan konten HTML di sisi klien selama runtime. Generator situs statis menghasilkan konten ini selama waktu pembuatan. Kemudian, setelah dimuat, React mengambil alih, dan Anda memiliki aplikasi satu halaman!
+
+Generator situs statis adalah tools yang menghasilkan situs statis. Sehubungan dengan JS frameworks and libraries, ini biasanya menghasilkan konten HTML di sisi klien selama runtime. 
+
+Generator situs statis menghasilkan konten ini selama waktu pembuatan. Kemudian, setelah dimuat, React mengambil alih, dan Anda akan memiliki aplikasi satu halaman!
 
 ## Apa bedanya dengan server-side rendering? 
 
-Perbedaan utama adalah bahwa tidak ada server-side code. Jadi, tidak seperti tool Next.js, Gatsby tidak membuat apa pun di server saat request dibuat. Ini semua dilakukan pada saat membangun sebuah aplikasi.
-Beberapa manfaat dari situs statis adalah: load cepat, optimisasi mesin pencari, dan keamanan. Tidak hanya situs dibuat dengan Gatsby yang sangat cepat, tetapi mereka memiliki keamanan implisit karena tidak ada database atau server, dan tidak seperti aplikasi React standar, mereka membuat SEO lebih mudah karena crawler dapat menemukan konten.
+Perbedaan utama adalah bahwa tidak ada server-side code. Jadi, tidak seperti tool **Next.js**, Gatsby tidak membuat apa pun di server saat request dibuat. Ini semua dilakukan pada saat membangun sebuah aplikasi.
+
+Beberapa manfaat dari situs statis adalah: **load cepat**, **SEO Friendly**, dan **keamanan yang baik**. Tidak hanya situs dibuat dengan Gatsby yang sangat cepat, tetapi mereka memiliki keamanan implisit karena tidak ada database atau server, dan tidak seperti aplikasi React standar, mereka membuat SEO lebih mudah karena crawler dapat menemukan konten dengan mudah.
 
 ## Hal yang saya sukai dari Gatsby
 
@@ -45,15 +49,14 @@ Beberapa manfaat dari situs statis adalah: load cepat, optimisasi mesin pencari,
 
 Gatsby juga menggunakan [GraphQL](https://graphql.org/) untuk mengimpor data secara default, bahkan jika Anda tidak tahu tata bahasanya, Anda dapat secara intuitif memahami kueri terstruktur sehingga Anda dapat mengembangkannya tanpa belajar. Halaman dapat dikembangkan seperti komponen, dan pada dasarnya memberikan kemampuan untuk memasukkan data ke dalam komponen.
 
-Tunggu apa lagi, ayo buat!. Klik [tautan ini](https://www.gatsbyjs.org/starters/?v=2)
+> Tunggu apa lagi, ayo buat!. Klik [link ini](https://www.gatsbyjs.org/starters/?v=2)
 
-# Mari kita mulai 😎
 
-##  Membuat situs Gatsby.
+## 💻 Mari kita mulai Membuat blog dengan Gatsby dan Netlify 
 
-💻 Buka `Command Prompt`
+Buka `Command Prompt`
 
-Pertama Anda harus menginstall Node JS, untuk mengecek sudah terinstal atau belum, ketik saja di terminal
+Pertama Anda harus menginstall `Node JS`, untuk mengecek sudah terinstal atau belum, ketik saja di terminal
 
 ```sh
 node -v
@@ -103,7 +106,12 @@ Namun saya lebih merekomendasikan untuk meng-host di [netlify](https://netlify.c
 
 Yah mungkin segini dulu 😎
 
-Baca juga Cara [Optimasi SEO untuk Gatsby Blog](https://www.aradechoco.com/optimasi-seo-untuk-gatsby-blog-part-1/)
+## Terkait
+
+- [Optimasi SEO untuk Gatsby Blog](https://www.aradechoco.com/optimasi-seo-untuk-gatsby-blog-part-1/)
+- [Menambahkan Comment Disqus ke Blog Gatsby dengan disqus-react](https://www.aradechoco.com/menambahkan-comment-disqus-ke-blog-gatsby-dengan-disqus-react/)
+- [Cara memasang Kode Iklan Google Adsense di Gatsby](https://www.aradechoco.com/memasang-google-adsense-gatsby/)
+
 
 
 ## Referensi 
