@@ -6,6 +6,7 @@ thumbnail: '../images/backlink.png'
 slug: apa-itu-backlink
 categories:
   - SEO
+  - Popular
 tags:
   - web
   - link building
@@ -102,7 +103,7 @@ Broken link artinya link dari suatu halaman website ke website lain yang sudah m
 ### 3. Guest Blogging atau jadi penulis tamu
 
 Ini cara terbaik dan termudah untuk mendapatkan trafik ke website Anda dan untuk meningkatkan rangking di Google.
-Setelah melakukan guest blogging, maka pengunjung dari website tersebut akan mengenal website anda. Mereka akan jadi pengunjung di website anda.
+Setelah melakukan [guest blogging](https://www.aradechoco.com/guest-blog-seo/), maka pengunjung dari website tersebut akan mengenal dan akan jadi pengunjung di website anda.
 
 ## Tools backlink
 
@@ -125,5 +126,5 @@ Dalam posting ini, saya belajar tentang backlink. Jika Anda memiliki pertanyaan 
 - [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
 - [SEO Untuk Pemula](https://www.aradechoco.com/SEO-untuk-pemula/) - Langkah Awal Untuk Naik Peringkat Google 
 - [Tanya Jawab tentang Optimasi SEO](https://www.aradechoco.com/seo-link-building/) - Link Building
-
+- [Guest Blogging dan Pengaruhnya terhadap SEO](https://www.aradechoco.com/guest-blog-seo/)
 
