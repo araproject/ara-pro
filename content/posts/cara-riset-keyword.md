@@ -7,6 +7,7 @@ slug: cara-riset-keyword-untuk-pemula
 categories:
   - SEO
   - Tutorial
+  - Popular
 tags:
   - riset
   - search engine
