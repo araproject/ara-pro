@@ -20,7 +20,7 @@ export default class UserInfo extends Component {
 
               <div className="flex">
                 <a
-                  Link to="/"
+                  href="/"
                   className="donate-button"
                   target="_blank"
                   rel="noopener noreferrer"
