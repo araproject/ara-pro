@@ -6,6 +6,7 @@ thumbnail: '../images/seo.png'
 slug: seo-dasar-untuk-pemula
 categories:
   - SEO
+  - Popular
 tags:
   - panduan
   - tips
@@ -95,7 +96,7 @@ Tools keyword yang baik dapat membantu Anda menemukan kata kunci long-tail dan k
 
 ![](../images/metatag.png)
 
-Anda sudah memiliki konten yang panjang dan berkualitas tinggi, dan sudah paham dalam memasukkan kata kunci? Lalu bagaimana dengan [meta tag](https://www.aradechoco.com/optimasi-meta-tag/), heading dan title tag?
+Anda sudah memiliki konten yang panjang dan berkualitas tinggi, dan sudah paham dalam memasukkan kata kunci? Lalu bagaimana dengan [meta tag](https://www.aradechoco.com/optimasi-meta-tag/),title tag, dan heading ?
 
 ### Title Tag / Judul
 
@@ -327,7 +328,7 @@ Jika Anda memiliki saran, pertanyaan, atau rekomendasi, silakan tinggalkan komen
 - [Teknik SEO](https://www.aradechoco.com/teknik-seo/) - Aspek penting yang tidak boleh di lewatkan
 - [Teknik Black Hat SEO Yang Harus di Hindari](https://www.aradechoco.com/teknik-black-hat-seo/)
 - [Teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/)
-- [Cara Menempatkan Keyword yang SEO pada Postingan blog](https://www.aradechoco.com/menempatkan-keyword-seo/)\
+- [Cara Menempatkan Keyword yang SEO pada Postingan blog](https://www.aradechoco.com/menempatkan-keyword-seo/)
 - [Optimasi Meta Tag Yang Harus Diketahui Blogger?](https://www.aradechoco.com/optimasi-meta-tag/)
 - [Guest Blogging dan Pengaruhnya terhadap SEO](https://aradechoco.com/guest-blog-seo/)
 
