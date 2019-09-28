@@ -6,7 +6,6 @@ thumbnail: '../images/blackhat-seo.png'
 slug: teknik-black-hat-seo
 categories:
   - SEO
-  - Popular
 tags:
   - black hat
   - search engine
