@@ -17,16 +17,7 @@ export default class UserInfo extends Component {
               <p>
               Personal blog berbahasa Indonesia yang saya dedikasikan untuk mendokumentasikan segala hal yang saya pelajari.
               </p>
-
               <div className="flex">
-                <a
-                  href="/"
-                  className="donate-button"
-                  rel="noopener noreferrer"
-                >
-                  <img src={kofi} className="coffee-icon" alt="Coffee icon" />
-                  Back to Home!
-                </a>
                 <a
                   className="patreon-button"
                   href="https://feedburner.google.com/fb/a/mailverify?uri=web/vfZZ"
@@ -34,6 +25,14 @@ export default class UserInfo extends Component {
                   rel="noopener noreferrer"
                 >
                   🔥 Subscribe
+                </a>
+                <a
+                  href="/"
+                  className="donate-button"
+                  rel="noopener noreferrer"
+                >
+                  <img src={kofi} className="coffee-icon" alt="Coffee icon" />
+                  Back to Home!
                 </a>
               </div>
             </div>
