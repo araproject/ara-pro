@@ -93,7 +93,7 @@ export default class PostTemplate extends Component {
               <div className="post-meta">
                 <time className="date">{date}</time>/
                 <a className="twitter-link" href={twitterShare}>
-                  Share
+                  Share 🐦
                 </a>
                 /
                 {!error && (
@@ -106,7 +106,7 @@ export default class PostTemplate extends Component {
                 )}
                 <a
                 >
-                  Edit ✏️
+                @aradechoco ✏️ 
                 </a>
               </div>
               <PostTags tags={post.tags} />
