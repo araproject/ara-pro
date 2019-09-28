@@ -39,7 +39,7 @@ Twitter carad adalah fitur yang memungkinkan Anda menulis lebih dari 140 karakte
 
 ## 4. Open Graph
 
-Open Graph adalah fitur yang mirip dengan **Twitter Card*. Namun, fungsi ini untuk Facebook, bukan Twitter. Ini adalah fitur yang memungkinkan Anda untuk menggabungkan Facebook, data Anda, dan situs web lainnya. Singkatnya, fitur ini memungkinkan webmaster untuk memberikan informasi terperinci tentang halaman web ke media sosial. Misalnya, ketika Anda berbagi halaman, Anda dapat menentukan gambar apa yang akan digunakan di Facebook.
+Open Graph adalah fitur yang mirip dengan **Twitter Card**. Namun, fungsi ini untuk Facebook, bukan Twitter. Ini adalah fitur yang memungkinkan Anda untuk menggabungkan Facebook, data Anda, dan situs web lainnya. Singkatnya, fitur ini memungkinkan webmaster untuk memberikan informasi terperinci tentang halaman web ke media sosial. Misalnya, ketika Anda berbagi halaman, Anda dapat menentukan gambar apa yang akan digunakan di Facebook.
 
 ## 5. Anchor teks
 
@@ -49,13 +49,13 @@ Anchor text adalah istilah untuk teks yang berisi tautan / link. Anchor teks ada
 
 Saat ini, semua jaringan sosial media adalah sebagian besar dari gambar visual. Gambar benar-benar memainkan peran penting dalam blog apa pun. Menurut **Hubspot**, ide yang baik adalah menempatkan gambar di bagian atas postingan blog untuk menarik pengunjung. Tetapi itu tidak berarti jika hanya menempatkan gambar di bagian atas postingan blog saja. Tapi, coba juga untuk meletakkan gambar di antara paragraf sehingga teks tidak terlihat terlalu panjang. Dan jangan lupa untuk memasukkan `Alt Text` untuk orang yang mengunjungi blog tapi mematikan fitur gambar di browsernya. 
 
-Saat meletakkan Alt text , Anda harus menggunakan keyword yang menggambarkan gambar apa yang Anda masukkan ke blog. Dan seperti halnya dengan judul blog, pengisian kata kunci tidak boleh dilakukan. Tergantung pada situasinya, memasukkan kata kunci pada postingan yang merusak keterbacaan dan konteksnya membuatnya menjadi magnet bagi penalti Google. Google bisa saja memberi hukuman pada situs web yang melakukan [teknik Black Hat SEO](https://www.aradechoco.com/teknik-black-hat-seo/).
+Saat meletakkan Alt text , Anda [harus menggunakan keyword](https://www.aradechoco.com/menempatkan-keyword-seo/) yang menggambarkan gambar apa yang Anda masukkan ke blog. Dan seperti halnya dengan judul blog, pengisian kata kunci tidak boleh dilakukan. Tergantung pada situasinya, memasukkan kata kunci pada postingan yang merusak keterbacaan dan konteksnya membuatnya menjadi magnet bagi penalti Google. Google bisa saja memberi hukuman pada situs web yang melakukan [teknik Black Hat SEO](https://www.aradechoco.com/teknik-black-hat-seo/).
 
 ## 7. Kategori dan Tag
 
 Yang terakhir untuk dipertimbangkan bagi pembaca adalah membuat kategori dan tag. Anda harus mengonfigurasi pengunjung blog agar dapat menavigasi blog secara organik karena banyaknya postingan di blog. Misalnya, di blog ini Anda melihat menu **blog** di sisi bawah, Anda dapat melihat beberapa kategori. Ada kategori Code, SEO, Popeler, Tutorial dan sebagainya. 
 
-## Kesimpuloan
+## Kesimpulan
 
 Saat menulis artikel blog, sangatlah penting untuk menulis konten yang menarik minat orang dengan meningkatkan kualitas konten itu. Namun, konten saja tidak dapat menampung banyak trafik jika tidak di padukan dengan optimasi meta tag. Jadi, ingat dan terapkan faktor pengoptimalan SEO ini.
 
@@ -71,4 +71,5 @@ Saat menulis artikel blog, sangatlah penting untuk menulis konten yang menarik m
 - [Optimasi SEO dengan Schema Markup](https://www.aradechoco.com/optimasi-schema-markup/)
 - [Teknik SEO](https://www.aradechoco.com/teknik-seo/) - Aspek penting yang tidak boleh di lewatkan
 - [Teknik Black Hat SEO Yang Harus di Hindari](https://www.aradechoco.com/teknik-black-hat-seo/)
-- [[teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/)](https://www.aradechoco.com/teknik-white-hat-seo/)
+- [Teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/)](https://www.aradechoco.com/teknik-white-hat-seo/)
+- [Cara Menempatkan Keyword yang SEO pada Postingan blog](https://www.aradechoco.com/menempatkan-keyword-seo/)
