@@ -6,6 +6,7 @@ thumbnail: '../images/blackhat-seo.png'
 slug: teknik-black-hat-seo
 categories:
   - SEO
+  - Popular
 tags:
   - black hat
   - search engine
@@ -65,13 +66,13 @@ Gagasan di balik ini adalah bahwa crawler akan dapat menemukan kata kunci dan me
 
 > **Keyword Density** = `Frekuensi kata kunci yang digunakan / Total jumlah kata dalam sebuah artikel.`
 
-Kepadatan kata kunci yang ideal harus dalam antara 1 sampai 3% . Melebihi persentase menandakan bahwa Anda telah mengisi konten situs web Anda dengan terlalu banyak kata kunci. Plus, pastikan untuk menggunakan kata kunci yang tepat untuk konten web Anda. Sebuah alat kata kunci dapat membantu Anda untuk menemukan kata kunci yang terbaik yang kemudian dapat menempatkan di konten Anda dengan cara yang alami.
+Kepadatan kata kunci yang ideal harus dalam antara 1 sampai 3% . Melebihi persentase menandakan bahwa Anda telah mengisi konten situs web Anda dengan terlalu banyak kata kunci. Plus, pastikan untuk menggunakan kata kunci yang tepat untuk konten web Anda. Sebuah alat kata kunci dapat membantu Anda untuk menemukan kata kunci yang terbaik yang kemudian dapat menempatkan di konten Anda dengan cara yang natural.
 
 Cari tahu di mana Anda harus [meletakkan kata kunci di posting blog Anda](https://www.aradechoco.com/menempatkan-keyword-seo/).
 
 ## Teknik Black Hat SEO No. 3: Duplicate Content
 
-Menyalin ( copas ) konten dari situs lain dan mempostingnya di milik Anda sebagai 'asli' adalah penjiplakan dan Google mengidentifikasinya dengan cepat. Dan sekali crawler spider Google secara konsisten menemukan duplikat konten, dan segera mengindeks-indeks mereka.
+Menyalin ( copas ) konten dari situs lain dan mempostingnya di milik Anda sebagai konten 'asli' tanpa menyertakan link sumber adalah tindakan yang tidak di sukai Google dan akan mengidentifikasinya dengan cepat dengan crawler spider Google yang secara konsisten akan menemukan konten duplikat. Web kemungkinan akan sulit untuk terindeks di mesin pencarian, bahkan jika sumber asli melaporkannya web bisa di hapus dari Google secara permanent.
 
 Selain itu, ada banyak pendeteksi plagiarisme yang tersedia di internet yang dapat memeriksa apakah konten Anda dijiplak atau tidak. Sebagian besar dari mereka juga menyediakan sumber yang tepat dari mana informasi tertentu telah disalin. Misalahnya [Copyscape](https://www.copyscape.com/) dan [Smallseotools](https://smallseotools.com/plagiarism-checker/).
 
@@ -87,7 +88,7 @@ Saran saya jangan membeli backlink dari **jasa backlink** yang belum terpercaya,
 
 Ada beberapa strategi membangun backlink white hat yang harus digunakan situs Anda untuk membangun tautan masuk saecara **natural**. 
 
-Anda dapat menggunakan **Guest post**, **komentar di blog**, **posting di forum**, dll. 
+Anda dapat menggunakan [Guest post](https://www.aradechoco.com/guest-blog-seo/), **komentar di blog**, **posting di forum**, dll. 
 
 Atau, Anda dapat melakukan audit situs-situs web pesaing dan menganalisis data backlink mereka untuk menemukan peluang backlink yang baik untuk situs web Anda sendiri.
 
