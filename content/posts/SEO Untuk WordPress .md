@@ -6,6 +6,7 @@ thumbnail: '../images/webmaster.png'
 slug: SEO-untuk-pemula
 categories:
   - SEO
+  - Popular
 tags:
   - google
   - search engine
@@ -60,10 +61,19 @@ Dengan melakukan teknik SEO sederhana diatas, kemungkinan besar Google akan sema
 
 Sebenarnya masih banyak lagi langkah-langkah untuk Optimasi SEO di blog atau website Anda, tapi akan kita lanjutkan lagi dengan lebih detail di posting yang akan datang. Happy posting 😁
 
-### Terkait 
+**Jika ingin membaca lebih lanjut tentang SEO dasar, lihat artikel terkait ini:**
 
-- [Apa itu backlink ?](https://www.aradechoco.com/apa-itu-backlink/) Mengapa penting untuk SEO ?
-- [Membangun Backlink melalui Wikipedia](https://www.aradechoco.com/backlink-melalui-wikipedia/)
-- [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
+- [SEO Dasar:](https://www.aradechoco.com/seo-dasar-untuk-pemula/) 17 Tips Optimasi Yang Wajib Diketahui Pemula
 - [Tanya Jawab tentang Optimasi SEO](https://www.aradechoco.com/seo-link-building/) - Link Building
-
+- [Apa itu backlink ?](https://www.aradechoco.com/apa-itu-backlink/) Mengapa penting untuk SEO ?
+- [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
+- [SEO Untuk Pemula](https://www.aradechoco.com/SEO-untuk-pemula/) - Langkah Awal Untuk Naik Peringkat Google 
+- [Membangun Backlink melalui Wikipedia](https://www.aradechoco.com/backlink-melalui-wikipedia/)
+- [Cara mengetahui peringkat situs web](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/)
+- [Cara Menghapus Backlink Spam](https://www.aradechoco.com/menghapus-backlink-spam/)
+- [Optimasi SEO dengan Schema Markup](https://www.aradechoco.com/optimasi-schema-markup/)
+- [Teknik SEO](https://www.aradechoco.com/teknik-seo/) - Aspek penting yang tidak boleh di lewatkan
+- [Teknik Black Hat SEO Yang Harus di Hindari](https://www.aradechoco.com/teknik-black-hat-seo/)
+- [Teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/)](https://www.aradechoco.com/teknik-white-hat-seo/)
+- [Optimasi Meta Tag Yang Harus Diketahui Blogger?](https://www.aradechoco.com/optimasi-meta-tag/)
+- [Guest Blogging dan Pengaruhnya terhadap SEO](https://www.aradechoco.com/guest-blog-seo/)
