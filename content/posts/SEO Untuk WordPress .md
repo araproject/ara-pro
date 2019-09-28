@@ -3,7 +3,7 @@ date: 2019-09-21
 title: 'SEO Untuk Pemula - Langkah Awal Untuk Naik Peringkat Google'
 template: post
 thumbnail: '../images/webmaster.png'
-slug: SEO-untuk-pemula
+slug: seo-untuk-pemula
 categories:
   - SEO
   - Popular
@@ -59,7 +59,7 @@ Social Media seperti `Facebook`, `Twitter`, `Pinterest`, dll, terlalu penting un
 
 Dengan melakukan teknik SEO sederhana diatas, kemungkinan besar Google akan semakin cinta dengan blog Anda dan lebih besar kemungkinan naik [peringkat](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/).
 
-Sebenarnya masih banyak lagi langkah-langkah untuk Optimasi SEO di blog atau website Anda, tapi akan kita lanjutkan lagi dengan lebih detail di posting yang akan datang. Happy posting 😁
+Ini cuma langkah awal dan masih banyak lagi langkah-langkah untuk Optimasi SEO untuk blog atau website Anda. 
 
 **Jika ingin membaca lebih lanjut tentang SEO dasar, lihat artikel terkait ini:**
 
@@ -74,6 +74,6 @@ Sebenarnya masih banyak lagi langkah-langkah untuk Optimasi SEO di blog atau web
 - [Optimasi SEO dengan Schema Markup](https://www.aradechoco.com/optimasi-schema-markup/)
 - [Teknik SEO](https://www.aradechoco.com/teknik-seo/) - Aspek penting yang tidak boleh di lewatkan
 - [Teknik Black Hat SEO Yang Harus di Hindari](https://www.aradechoco.com/teknik-black-hat-seo/)
-- [Teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/)](https://www.aradechoco.com/teknik-white-hat-seo/)
+- [Teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/)
 - [Optimasi Meta Tag Yang Harus Diketahui Blogger?](https://www.aradechoco.com/optimasi-meta-tag/)
 - [Guest Blogging dan Pengaruhnya terhadap SEO](https://www.aradechoco.com/guest-blog-seo/)
