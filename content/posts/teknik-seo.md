@@ -6,6 +6,7 @@ thumbnail: '../images/seo1.png'
 slug: teknik-seo
 categories:
   - SEO
+  - Popular
 tags:
   - panduan
   - tips
