@@ -20,13 +20,13 @@ export default class UserInfo extends Component {
 
               <div className="flex">
                 <a
-                  href="/"
+                  href="#"
                   className="donate-button"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <img src={kofi} className="coffee-icon" alt="Coffee icon" />
-                  Back to Home!
+                  Back to top!
                 </a>
                 <a
                   className="patreon-button"
