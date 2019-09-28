@@ -95,7 +95,8 @@ Bahkan, bahkan jika Anda menyimpan semua SEO di atas, jika kualitas kontennya ti
 
 ## Penutup
 
-Ketika saya menulis artikel ini, saya pikir saya harus belajar lebih banyak tentang SEO, dan saya akan terus memperbarui apa yang telah saya pelajari. Juga, sekali lagi, saya memiliki kesempatan untuk memikirkan kembali kualitas tulisan saya. Di masa depan, saya akan mencoba yang terbaik untuk melihat apakah tulisan saya benar-benar membantu orang lain dan membuatnya lebih mudah untuk dipahami, untuk mendapatkan feedback, dan untuk membuat blog yang lebih baik.
+Ketika saya menulis artikel ini, saya pikir harus belajar lebih banyak [tentang SEO](https://www.aradechoco.com/categories/seo/), dan saya akan terus memperbarui apa yang telah saya pelajari. Juga, sekali lagi, saya memikirkan kembali kualitas tulisan saya. Di masa akan datang, saya akan mencoba yang terbaik untuk melihat apakah isi blog ini benar-benar membantu orang lain dan membuatnya lebih mudah untuk dipahami, untuk mendapatkan feedback, dan untuk membuat blog yang lebih baik. 
+
 
 ## referensi 
 
