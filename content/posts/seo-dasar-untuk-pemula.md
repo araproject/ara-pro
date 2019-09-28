@@ -121,7 +121,7 @@ Gunakan modifier untuk judul Anda. modifier adalah kata deskriptif yang digunaka
 
 ![](../images/deskripsi-meta.png)
 
-Deskripsi meta adalah paragraf pendek teks (potongan informasi) di bawah URL yang digunakan sebagai pratinjau dalam hasil pencarian.
+[Meta tag](https://www.aradechoco.com/optimasi-meta-tag/) adalah paragraf pendek teks (potongan informasi) di bawah URL yang digunakan sebagai pratinjau dalam hasil pencarian.
 Uraian meta harus ditempatkan di tag `<head>` HTML halaman Anda, dan biasanya harus sepanjang `160 karakter`.
 
 Sangat penting untuk memiliki deskripsi meta yang baik karena itulah yang dilihat pengguna ketika mereka memutuskan apakah akan mengklik tautan ke situs Anda atau tidak. 
