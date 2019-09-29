@@ -3,7 +3,7 @@ date: 2019-09-21
 title: 'SEO Untuk Pemula - Langkah Awal Untuk Naik Peringkat Google'
 template: post
 thumbnail: '../images/webmaster.png'
-slug: seo-untuk-pemula
+slug: SEO-untuk-pemula
 categories:
   - SEO
   - Popular
