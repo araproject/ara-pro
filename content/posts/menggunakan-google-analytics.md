@@ -139,18 +139,9 @@ Anda mungkin ingin memeriksa Halaman Keluar juga **(di sebelah kiri di bawah PER
 
 Google Analytics penuh dengan informasi yang dapat Anda gunakan untuk meningkatkan situs web untuk konsumen Anda. Mulailah secara perlahan dengan itu, sehingga Anda dapat mencerna semua data. Ketika sudah merasa terbiasa, Anda dapat beralih ke laporan yang lebih rinci. Google Analytics akan memperdalam pemahaman tentang apa yang dilakukan orang di situs Anda, dan apa yang dilakukan situs web Anda untuk orang-orang. Sebelum menyadarinya, Anda akan memahami mengapa GA adalah alat yang paling penting bagi siapa saja yang tertarik untuk menjalankan digital marketing campaign yang sukses. 
 
-**Jika ingin membaca tentang SEO dasar, lihat artikel terkait ini:**
+**Panduan SEO dasar**
 
-- [Tanya Jawab tentang Optimasi SEO](https://www.aradechoco.com/seo-link-building/) - Link Building
-- [Apa itu backlink ?](https://www.aradechoco.com/apa-itu-backlink/) Mengapa penting untuk SEO ?
-- [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
-- [SEO Untuk Pemula](https://www.aradechoco.com/SEO-untuk-pemula/) - Langkah Awal Untuk Naik Peringkat Google 
-- [Membangun Backlink melalui Wikipedia](https://www.aradechoco.com/backlink-melalui-wikipedia/)
-- [Cara mengetahui peringkat situs web](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/)
-- [Cara Menghapus Backlink Spam](https://www.aradechoco.com/menghapus-backlink-spam/)
-- [Optimasi SEO dengan Schema Markup](https://www.aradechoco.com/optimasi-schema-markup/)
-- [Teknik SEO](https://www.aradechoco.com/teknik-seo/) - Aspek penting yang tidak boleh di lewatkan
-- [Teknik Black Hat SEO Yang Harus di Hindari](https://www.aradechoco.com/teknik-black-hat-seo/)
-- [[teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/)
-- [Cara Menempatkan Keyword yang SEO pada Postingan blog](Cara Menempatkan Keyword yang SEO pada Postingan blog)
-- [Optimasi Meta Tag Yang Harus Diketahui Blogger?](https://aradechoco.com/guest-blog-seo/)
+- [Optimasi blog Anda dengan SEO](https://www.aradechoco.com/categories/seo/)
+
+
+
