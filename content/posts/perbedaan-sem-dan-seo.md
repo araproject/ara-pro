@@ -1,6 +1,6 @@
 ---
 date: 2019-09-29
-title: 'Perbedaan SEM dan SEO dan Manfaatnya '
+title: 'Perbedaan SEM dan SEO beserta Manfaatnya untuk Digital Marketing'
 template: post
 thumbnail: '../images/sem-icon.png'
 slug: perbedaan-sem-dan-seo
@@ -60,16 +60,16 @@ SEO tergantung pada seberapa banyak Anda [mengoptimalkan situs web](https://www.
 
 SEO berisi aktivitas spesifik yang dapat membantu meningkatkan peringkat situs web Anda dalam hasil mesin pencari. Aktivitas ini terus berubah, seperti halnya algoritma pencarian Google.
 
-### Tehnik SEO On-Page
+### Teknik SEO On-Page
 
-**Beberapa tehnik SEO adalah sebagai berikut:**
+**Beberapa teknik SEO adalah sebagai berikut:**
 
 - Gunakan kata kunci penting yang terkait dengan situs web Anda pada [title tag](https://www.aradechoco.com/optimasi-meta-tag/), **deskripsi meta**, **tag heading**, **teks alt**, dll.
 - Integrasikan opsi berbagi di sosial seperti Facebook, Twitter, Pinterest, dan lainnya.
 - Optimalkan kecepatan loading situs web Anda
 - Salin postingan blog dan situs web yang relevan dengan audiens target Anda.
 
-### Tehnik SEO Off-page
+### Teknik SEO Off-page
 
 **Strategi SEO off-page termasuk:**
 
