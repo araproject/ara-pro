@@ -19,18 +19,18 @@ Sejauh ini, sudah ada Panda, Penguin, Hummingbird, dan Pigeon, juga banyak pemba
 
 ## Apa itu SEO On-Page ?
 
-Ketika Anda memikirkan taktik pengoptimalan mesin pencari paling dasar seperti menggunakan **kata kunci** dalam konten Anda dan mengoptimalkan **deskripsi meta**, **kode HTML**,**title tag **, dan **tag alt**, itulah dasar untuk SEO on-page. 
-SEO one-page merujuk semua langkah yang dapat diambil secara langsung di dalam situs web Anda untuk meningkatkan posisinya di peringkat pencarian. Ini termasuk taktik dasar yang tercantum di atas, tetapi juga mempertimbangkan hal-hal seperti **kualitas konten** secara keseluruhan, **kinerja web**, dan struktur konten.
+Ketika Anda memikirkan taktik pengoptimalan mesin pencari paling dasar seperti menggunakan **kata kunci** dalam konten Anda dan mengoptimalkan **meta deskripsi**, **kode HTML**,**title tag**, dan **tag alt**, itulah dasar untuk SEO on-page. 
+SEO one-page merujuk semua langkah yang dapat diambil secara langsung di dalam situs web Anda untuk meningkatkan posisinya di peringkat pencarian. Ini termasuk taktik dasar yang tercantum di atas, tetapi juga mempertimbangkan hal-hal seperti **kualitas konten** secara keseluruhan, **kinerja web**, dan **struktur konten**.
 
 ### Faktor SEO on-page :
 
 #### Keyword / kata kunci
 
-Pikirkan audiens Anda dan kata [kunci](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) yang mereka cari, dan cobalah untuk membuat dan mengoptimalkan konten situs web Anda di sekitar kata kunci tersebut.
+Pikirkan audiens Anda dan [keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) yang mereka cari, dan cobalah untuk membuat dan mengoptimalkan konten situs web Anda di sekitar kata kunci tersebut.
 
-#### Dc meta
+#### Meta description 
 
-Meta description adalah deskripsi singkat yang muncul di bawah URL di halaman hasil mesin pencari dan di bawah judul di post sosial. Ini harus menggambarkan konten pada halaman itu, tetapi yang lebih penting, pastikan untuk memasukkan kata kunci yang relevan di area ini sehingga dapat dikenali oleh crawler mesin pencari. Coba dan buat deskripsi hingga di bawah 300 karakter untuk memastikan seluruh deskripsi Anda ditampilkan di hasil pencarian. 
+Meta deskripsi adalah deskripsi singkat yang muncul di bawah URL di halaman hasil mesin pencari dan di bawah judul di post sosial. Ini harus menggambarkan konten pada halaman itu, tetapi yang lebih penting, pastikan untuk memasukkan kata kunci yang relevan di area ini sehingga dapat dikenali oleh crawler mesin pencari. Coba dan buat deskripsi hingga di bawah 300 karakter untuk memastikan seluruh deskripsi Anda ditampilkan di hasil pencarian. 
 
 #### Alt Text
 
@@ -52,13 +52,15 @@ Selain faktor-faktor yang tercantum di atas, struktur URL yang terorganisir pent
 
 Berbicara tentang internal link , yang menghubungkan secara internal halaman terkait di situs web Anda adalah faktor penting lain dari SEO on-page. Menautkan link relevan yang berbeda di situs Anda memudahkan mesin pencari untuk merayapi semuanya, dan juga membuat pengunjung betah lebih lama.
 
-#### Performa Halaman
+#### Performa Halaman web
 
-Sementara faktor-faktor lain dari SEO on-page berhubungan dengan kualitas dan struktur konten, kinerja situs web Anda dan halamannya juga merupakan faktor peringkat on-page. Halaman web yang membutuhkan waktu lama untuk dimuat atau tidak ditampilkan dengan benar di seluler atau desktop akan membuat peringkat web lebih rendah di halaman hasil mesin pencari (SERP), karena pengguna akan frustrasi, stress, kemudian pergi dari web Anda yang akan meningkatkan Bounce Rate. Mesin pencari mengevaluasi ini dan menggunakannya sebagai kunci dari faktor peringkat web, jadi sangat penting bagi pemilik situs web agar mempertimbangkan ukuran file gambar pada halaman mereka, mengurangi pengalihan, meningkatkan respon seluler situs mereka, dan meminimalkan jumlah dari CSS / Javascript.
+Sementara faktor-faktor lain dari SEO on-page berhubungan dengan kualitas dan struktur konten, kinerja situs web Anda dan halamannya juga merupakan faktor peringkat on-page. Halaman web yang membutuhkan waktu lama untuk dimuat atau tidak ditampilkan dengan benar di seluler atau desktop akan membuat peringkat web lebih rendah di halaman hasil mesin pencari (SERP), karena pengguna akan frustrasi, stress, kemudian pergi dari web Anda yang akan meningkatkan Bounce Rate. 
+
+Mesin pencari mengevaluasi ini dan menggunakannya sebagai kunci dari faktor peringkat web, jadi sangat penting bagi pemilik situs web agar mempertimbangkan ukuran file gambar pada halaman mereka, mengurangi pengalihan, meningkatkan respon seluler situs mereka, dan meminimalkan jumlah dari `CSS / Javascript`.
 
 ## Apa itu SEO Off-Page?
 
-Sementara SEO one-page merujuk pada faktor-faktor yang dapat dikontrol di situs web Anda sendiri, SEO off-page merujuk pada faktor-faktor peringkat halaman yang muncul dari situs web Anda, seperti [backlink](https://www.aradechoco.com/apa-itu-backlink/) dari situs lain. Ini juga termasuk metode promosi Anda, dengan mempertimbangkan jumlah paparan sesuatu yang didapat di media sosial, misalnya.
+Sementara **SEO one-page** merujuk pada faktor-faktor yang dapat dikontrol di situs web Anda sendiri, SEO off-page merujuk pada faktor-faktor peringkat halaman yang muncul dari situs web Anda, seperti [backlink](https://www.aradechoco.com/apa-itu-backlink/) dari situs lain. Ini juga termasuk metode promosi Anda, dengan mempertimbangkan jumlah paparan sesuatu yang didapat di media sosial, misalnya.
 
 ### Faktor SEO di luar halaman:
 
@@ -66,9 +68,9 @@ Sementara SEO one-page merujuk pada faktor-faktor yang dapat dikontrol di situs 
 
 Jumlah dan kualitas backlink merupakan faktor terbesar dari SEO off-page. Semakin banyak situs yang menautkannya ke konten Anda, semakin baik untuk meningkatkan peringkat web Anda. Hal ini mendorong para pemasar untuk mencoba membangun backlink berbayar, tetapi ada beberapa pendekatan organik yang dapat Anda ambil yang menghasilkan hasil yang efektif, seperti menjadi [penulis tamu](https://aradechoco.com/guest-blog-seo/) ( guest blog ).
 
-#### Otoritas Domain
+#### Domain Authority
 
-Diukur pada skala dari `1-100`, otoritas domain Anda adalah angka yang diberikan oleh mesin pencari untuk menentukan kekuatan situs web Anda. Anggap saja sebagai nilai, pada dasarnya. Situs web dengan otoritas domain yang lebih tinggi menerima preferensi dalam hasil pencarian, sementara situs web dengan otoritas domain yang lebih rendah cenderung peringkat di bagian bawah. Otoritas domain diukur oleh beberapa faktor berbeda, termasuk berapa lama domain Anda (semakin lama semakin baik), sejarah domain, jumlah backlink, dan jumlah halaman error 404 . Dengan memastikan bahwa Anda memiliki situs web yang secara teknis terdengar mengikuti praktik terbaik SEO , Anda dapat memaksimalkan otoritas domain Anda dan meningkatkan peringkat Anda.
+Diukur pada skala dari `1-100`, domain authority atau otoritas domain adalah angka yang diberikan oleh mesin pencari untuk menentukan kekuatan situs web Anda. Anggap saja sebagai nilai, pada dasarnya. Situs web dengan otoritas domain yang lebih tinggi menerima preferensi dalam hasil pencarian, sementara situs web dengan otoritas domain yang lebih rendah cenderung peringkat di bagian bawah. Otoritas domain diukur oleh beberapa faktor berbeda, termasuk berapa lama domain Anda (semakin lama semakin baik), sejarah domain, jumlah backlink, dan jumlah halaman error 404 . Dengan memastikan bahwa Anda memiliki situs web yang secara teknis terdengar mengikuti praktik terbaik SEO , Anda dapat memaksimalkan otoritas domain Anda dan meningkatkan peringkat Anda.
 
 #### Berbagi di sosial media
 
