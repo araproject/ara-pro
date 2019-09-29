@@ -20,6 +20,8 @@ Google Analytics sejauh ini merupakan alat analisis terbaik untuk situs web. Jik
 
 Bagi Anda yang sudah mendaftar Google Analytics dan bingung harus mencari tahu laporan mana saja yang paling penting. Ini normal. So, mari kita mulai ...
 
+![](../images/cara-menggunakan-google-analytics.png)
+
 ## Apa manfaat menggunakan Google Analytics ?
 
 **Pada saat Anda selesai membaca panduan untuk pemula ini untuk Google Analytics , Anda akan dapat mengetahui:**
@@ -37,6 +39,8 @@ Langkah pertama adalah mencari tahu berapa banyak orang yang datang ke situs And
 ## Cara Menemukan Informasi trafik dengan GA
 
 Informasi trafik situs web ada di halaman Beranda GA Anda. Halaman ini kemungkinan adalah halaman pertama yang akan Anda lihat ketika masuk ke akun Analytics Anda. Setelah masuk ke Google Analytics , Anda akan melihat menu di samping kiri dengan kata **"HOME / BERANDA"**. 
+
+![](../images/ga-beranda.png)
 
 **Dasbor ini menunjukkan:**
 
@@ -66,6 +70,8 @@ Ada juga opsi untuk rentang waktu, yang memungkinkan Anda memilih dari: kuartal 
 **Lebih jauh lagi**
 
 Jika Anda mengklik `Audiens`, yang berada di sisi yang sama, Anda akan menuju ke tampilan lalu lintas yang lebih besar.
+
+![](../images/ga-audiens.png)
 
 Anda dapat memilih untuk melihat nomor lalu lintas dari setiap jam, hari, minggu, dan bulan. Anda juga dapat melihat berapa banyak sesi yang dimiliki orang, jumlah tampilan halaman, durasi sesi rata-rata, rasio pentalan, dan berapa banyak orang yang kembali ke situs web Anda setelah mengunjunginya pertama kalinya.
 
@@ -101,11 +107,15 @@ Mengetahui tentang pengunjung Anda sama pentingnya dengan mengetahui dari mana m
 
 Mengetahui di mana orang menemukan situs web Anda membantu memutuskan apa yang perlu Anda fokuskan ketika akan mempromosikan bisnis Anda secara online.
 
+![](../images/ga-akusisi.png)
+
 Lihat ke sisi kiri di sidebar berada, dan klik `"AKUISISI."` Di bagian itu akan menampilkan `Ikhtisar`, `Semua trafik`, `Iklan Google`, `Search Console`, `Sosial`, dan `Kampanye`. **Ikhtisar** memberi Anda snapshot dari saluran teratas dari mana audiens Anda berasal, seperti apakah mereka mengetik langsung URL situs Anda, menemukan Anda melalui pencarian organik, media sosial, atau saluran lain.
 
 Klik Semua trafik di sisi kiri layar di bawah AKUISISI untuk informasi lebih lanjut. Ini akan memecah berapa banyak orang mengunjungi situs Anda dari setiap saluran, dan semua detail kunjungan mereka, seperti berapa banyak sesi yang mereka miliki, bounce rate, halaman per sesi, durasi sesi rata-rata, tingkat konversi sasaran, penyelesaian sasaran, dan nilai tujuan. Anda dapat memilih rentang tanggal yang ingin Anda lihat informasinya juga di sudut kanan atas grafik.
 
 Jika Anda menggunakan Iklan Google, Anda dapat melihat bagaimana kinerja kampanye tersebut sehubungan dengan orang-orang yang mengunjungi situs Anda. Bagian Treemaps dan Iklan Google di bilah sisi kiri akan menunjukkan kepada Anda nomor trafik dan perincian tentang apa yang dilakukan trafik di situs Anda.
+
+![](../images/ga-rujukan.png)
 
 Masih di bawah Semua trafik, Anda akan melihat Referensi. Klik itu untuk melihat situs web apa yang memberi Anda trafik. Ini dapat membantu jika Anda telah berfokus pada [link building](https://www.aradechoco.com/seo-link-building/) dan ingin melihat situs mana yang membantu meningkatkan trafik situs web Anda. Bagian ini merinci dari mana orang berasal, dan kemudian apa yang dilakukan orang saat berada di situs Anda. Sekali lagi, ini memberitahu berapa banyak sesi, rasio pentalan, durasi sesi rata-rata, dan halaman per sesi.
 
@@ -118,6 +128,8 @@ Mendapatkan informasi tentang asal pengunjung dapat membantu menyesuaikan rencan
 Untuk menyesuaikan situs Anda untuk memenuhi kebutuhan pengunjung, luangkan waktu untuk menganalisis data BEHAVIOR di GA.
 
 GA memberi akan tahu konten mana yang paling populer di situs Anda. Cukup klik `PERILAKU`, dan kemudian klik pada `Konten Situs`. Klik Semua Halaman untuk melihat daftar halaman yang telah dikunjungi orang, dan akan menampilkan konten yang paling populer terlebih dahulu.
+
+![](../images/ga-prilaku.png)
 
 Kembali ke kiri dan klik Halaman Arahan untuk melihat seberapa baik halaman arahan telah melakukan. Ini adalah cara yang bagus untuk melihat apakah halaman arahan Anda efektif dalam mengonversi orang .
 
