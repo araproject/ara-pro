@@ -16,18 +16,11 @@ template: page
 - **Twitter**: [aradechoco](https://twitter.com/aradechoco)
 
 
-## Web Project
-
-- cooming soon..
-- cooming soon..
-
 ## Music 🎧
 
-- **Radiohead**  ( band )
-- **Cigarettes After Sex** ( band )
-- **Lo-fi** ( genre )
-- **Alternatif Rock** ( genre )
-
+- **Lo-fi Chill** 🍂 
+- **Radiohead**  📻 
+- **Cigarettes After Sex** 🚬 
 
 ## Currently Using
 
