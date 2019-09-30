@@ -32,7 +32,7 @@ export default class UserInfo extends Component {
                   rel="noopener noreferrer"
                 >
                   <img src={kofi} className="coffee-icon" alt="Coffee icon" />
-                  Back to Blog 💾
+                  Back to Blog 
                 </a>
               </div>
             </div>
