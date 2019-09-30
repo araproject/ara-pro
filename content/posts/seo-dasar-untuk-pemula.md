@@ -284,7 +284,7 @@ Anda dapat membuat file robots.txt dari awal tetapi ada banyak tools yang terseb
 
 ![](../images/analytics.png)
 
-Untuk mengetahui apakah SEO dasar membantu situs web, Anda harus mulai melacak data situs web yang Anda bangun. [Google Analytics](https://analytics.google.com/analytics/web/) adalah alat yang hebat yang dapat menganalisis dan menyimpan semua data Anda. Tidak hanya melacak dari mana sumber trafik berasal, tetapi juga bagaimana cara mereka sampai di sana. Alat ini juga membuat laporan khusus untuk Anda saat menganalisis data Anda.
+Untuk mengetahui apakah SEO dasar membantu situs web, Anda harus mulai melacak data situs web yang Anda bangun. [Google Analytics](https://www.aradechoco.com/menggunakan-google-analytics/) adalah alat yang hebat yang dapat menganalisis dan menyimpan semua data Anda. Tidak hanya melacak dari mana sumber trafik berasal, tetapi juga bagaimana cara mereka sampai di sana. Alat ini juga membuat laporan khusus untuk Anda saat menganalisis data Anda.
 
 **Google Analytics** memungkinkan Anda untuk mengukur hasil halaman web melalui data `real-time`. Data ditampilkan dari jaringan yang berbeda seperti pencarian organik, pencarian berbayar, rujukan, media sosial dan lalu lintas langsung.
 
