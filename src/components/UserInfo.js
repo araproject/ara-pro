@@ -27,12 +27,12 @@ export default class UserInfo extends Component {
                   🔥 Subscribe
                 </a>
                 <a
-                  href="/"
+                  href="https://aradechoco.com/blog/"
                   className="donate-button"
                   rel="noopener noreferrer"
                 >
                   <img src={kofi} className="coffee-icon" alt="Coffee icon" />
-                  Back to Home!
+                  Back to Blog 💾
                 </a>
               </div>
             </div>
