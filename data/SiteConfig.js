@@ -3,7 +3,7 @@ const config = {
   siteTitleShort: 'aradechoco',
   siteTitleAlt: 'aradechoco',
   siteLogo: '/logos/aradechoco.png',
-  siteUrl: 'https://aradechoco.com',
+  siteUrl: 'https://www.aradechoco.com',
   repo: 'https://github.com/aradechoco',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',
