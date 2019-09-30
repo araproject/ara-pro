@@ -5,7 +5,6 @@ template: post
 thumbnail: '../images/sem-icon.png'
 slug: perbedaan-sem-dan-seo
 categories:
-  - SEM
   - SEO
 tags:
   - sem
