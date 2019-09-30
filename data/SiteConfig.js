@@ -2,7 +2,7 @@ const config = {
   siteTitle: 'aradechoco',
   siteTitleShort: 'aradechoco',
   siteTitleAlt: 'aradechoco',
-  siteLogo: '/logos/tania.jpg',
+  siteLogo: '/logos/aradechoco.png',
   siteUrl: 'https://aradechoco.com',
   repo: 'https://github.com/aradechoco',
   pathPrefix: '',
