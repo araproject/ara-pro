@@ -27,7 +27,7 @@ export default class UserInfo extends Component {
                   🔥 Subscribe
                 </a>
                 <a
-                  href="https://aradechoco.com/blog/"
+                  href="https://www.aradechoco.com/blog/"
                   className="donate-button"
                   rel="noopener noreferrer"
                 >
