@@ -66,9 +66,7 @@ Akan menampilkan pola sitelinks horisontal yang terletak pada satu baris.
 
 ### 4) tautan situs Google seluler
 
-![](../images/sitelink-thn.png) 
-
-![](../images/sitelink-mal.png) 
+![](../images/sitelink-thn.png) ![](../images/sitelink-mal.png) 
 
 Untuk Google Sitelinks yang muncul di **seluler** Akan memiliki dua jenis tayangan: 
 
@@ -99,24 +97,24 @@ Saya akan membagi proses menjadi 2 cara:
 
 ### Cara membuat tautan situs Beranda.
 
-- 1) Agar Google dapat memahami struktur dan konten situs web. Hal pertama yang harus dilakukan setiap situs web adalah Menghubungkan web ke [Google search console](https://search.google.com/search-console/welcome).
-- 2) Kirim peta situs ( sitemap ) ke Google search console, meskipun di masa lalu Google tidak terlalu mementingkan peta situs di web.
-- 3) Ubah judul halaman Beranda Harus memiliki kata-kata yang muncul juga nama web atau nama produk Anda.
-- 4) Usia situs web harus 3-6 bulan atau lebih.
-- 5) Menu situs web ditulis dengan kata-kata yang pendek dan mudah dimengerti.
-- 6) Konten situs web harus memiliki lebih dari 10 halaman / halaman posting / posting.
-- 7) Halaman web tersebut Harus memiliki [struktur konten yang SEO](https://www.aradechoco.com/optimasi-schema-markup/).
-- 8) Situs web harus memiliki pengunjung unik tiap hari. 
+- Agar Google dapat memahami struktur dan konten situs web. Hal pertama yang harus dilakukan setiap situs web adalah Menghubungkan web ke [Google search console](https://search.google.com/search-console/welcome).
+- Kirim peta situs ( sitemap ) ke Google search console, meskipun di masa lalu Google tidak terlalu mementingkan peta situs di web.
+- Ubah judul halaman Beranda Harus memiliki kata-kata yang muncul juga nama web atau nama produk Anda.
+- Usia situs web harus 3-6 bulan atau lebih.
+- Menu situs web ditulis dengan kata-kata yang pendek dan mudah dimengerti.
+- Konten situs web harus memiliki lebih dari 10 halaman / halaman posting / posting.
+- Halaman web tersebut Harus memiliki [struktur konten yang SEO](https://www.aradechoco.com/optimasi-schema-markup/).
+- Situs web harus memiliki pengunjung unik tiap hari. 
 
 ### Cara membuat sitelink satu baris.
 
 **Jenis sitelink ini dapat terjadi pada halaman dan halaman posting.**
 
-- 1) Sitelink satu-baris harus memiliki artikel yang panjang. Berarti ada `1000 kata` atau lebih.
-- 2) Struktur konten pada halaman yang juga harus SEO. 
-- 3) Membagi konten yang panjang menjadi topik Bagi pembaca untuk memahami konten semudah mungkin.
-- 4) Sub-judul utama Dalam artikel tersebut mengunakan `font H2`.
-- 5) Di bagian bawah paragraf pertama artikel Buatlah `daftar isi` ( table of content ). Jika memakai **Wordpress**, Anda bisa memanfaatkan plugin.
+- Sitelink satu-baris harus memiliki artikel yang panjang. Berarti ada `1000 kata` atau lebih.
+- Struktur konten pada halaman yang juga harus SEO. 
+- Membagi konten yang panjang menjadi topik Bagi pembaca untuk memahami konten semudah mungkin.
+- Sub-judul utama Dalam artikel tersebut mengunakan `font H2`.
+- Di bagian bawah paragraf pertama artikel Buatlah `daftar isi` ( table of content ). Jika memakai **Wordpress**, Anda bisa memanfaatkan plugin.
 
 
 ## Penutup
