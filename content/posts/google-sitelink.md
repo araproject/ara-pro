@@ -40,7 +40,7 @@ Tujuan menampilkan Sitelink adalah untuk membantu pengguna melihat konten situs 
 - Merupakan kontrak yang menunjukkan bahwa situs web tersebut dipercaya oleh Google.
 - Sitelink adalah cara yang bagus untuk menciptakan **brand awareness**.
 
-Misalnya, situs web tersebut memiliki produk. Atau layanan apa Ketika seorang pelanggan mencari secara langsung nama Merek tersebut, apa yang akan mereka lihat di samping informasi halaman utama, Dia juga akan dapat langsung mengenali itu Produk atau layanan apa yang dimiliki.
+Misalnya, situs web tersebut memiliki produk atau layanan dan Ketika seorang pelanggan mencari secara langsung nama Merek tersebut, yang akan mereka lihat tautan di samping informasi halaman utama, dan segera mengenali Produk atau layanan apa yang dimiliki.
 
 Sebagai contoh, web tersebut memiliki [layanan jasa SEO](https://www.aradechoco.com/menyewa-jasa-seo-berkualitas/). Orang-orang lebih tahu apa yang dapat mereka lakukan.
 
@@ -64,7 +64,7 @@ Akan menampilkan pola sitelinks horisontal yang terletak pada satu baris.
 
 ![](../images/sitelink-satubaris.png)
 
-### 4) tautan situs Google seluler
+### 4) Sitelink Google seluler
 
 Untuk Google Sitelinks yang muncul di **seluler** Akan memiliki dua jenis tayangan: 
 
