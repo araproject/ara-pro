@@ -11,7 +11,7 @@ tags:
   - tips
 ---
 
-Sebelum menulis artikel SEO, Anda terlebih dahulu harus memahami apa itu SEO. Saya menyarankan Anda untuk membaca sedikit artikel [Seo Dasar : 17 Tips Optimasi Yang Wajib Diketahui Pemula](https://www.aradechoco.com/seo-dasar-untuk-pemula/). Sebelum nenulai menulis sesuatu secara online.
+Sebelum menulis artikel SEO, Anda terlebih dahulu harus memahami apa itu SEO. Saya menyarankan Anda untuk membaca sedikit artikel [Seo Dasar : 17 Tips Optimasi Yang Wajib Diketahui Pemula](https://www.aradechoco.com/seo-dasar-untuk-pemula/). 
 
 ## Mengapa harus menulis artikel SEO ?
 
@@ -19,7 +19,15 @@ Alasan utama adalah menulis artikel SEO yang tepat dapat memberi kita kesempatan
 
 ## Konsep SEO
 
-SEO atau Search Engine Optimization adalah pembuatan artikel dengan kata kunci untuk memudahkan pencarian. Yang akan membawa Kata Kunci yang berperingkat memiliki pencarian terbanyak dari Mesin Pencari yang terkenal seperti Google dan membawa kata kunci yang terkait ke dalam artikel yang perlu disajikan, sehingga mudah ditemukan.
+SEO atau Search Engine Optimization adalah proses untuk mendorong situs web ke halaman pertama Google. 
+
+Bagaimana SEO bermanfaat bagi kita? Mengapa kita harus belajar SEO? Kenapa perusahaan bersedia membayar ratusan ribu bahkan jutaan untuk menyewa jasa SEO ? Mengapa SEO menjadi topik yang populer setiap kali berbicara tentang marketing online?
+
+Setiap kali saya harus menjelaskan manfaat SEO, saya cenderung membandingkan dengan membuka **restoran** di lokasi yang strategis. Jika restoran berada di lokasi yang baik, akses jalan yang mudah di jangkau, parkiran yang luas, makanan yang lezat , tentu saja pelanggan pasti akan mengunjungi restoran kami.
+
+Di sisi lain, jika restoran lain sama-sama enak, tetapi lokasinya tidak bagus, lalu lintasnya sulit, tidak ada parkiran di gang dalam, gang sempit, banyak mobil yang parkir, jalan licin, anjing menggonggong, tikus berkeliaran di jalanan, Tentu saja, banyak orang yang enggan untuk mengunjungi restoran tersebut.
+
+Ini seperti melakukan SEO. Jika situs web berada di halaman pertama Google, itu berarti lokasi situs web tersebut sangat bagus. 
 
 ![](../images/menulis-artikel-seo-friendly.png)
 
@@ -39,11 +47,11 @@ Foto dan video itu penting. Artikel tanpa gambar, Ibarat seperti makan sayur tan
 
 [Backlink](https://www.aradechoco.com/apa-itu-backlink/) adalah link yang ditautkan dengan situs web dan merujuk ke situs web lain. Pembaca dari situs web lain yang  mengklik tautan dan akan dibawa ke artikel Anda. Ini juga penting untuk peringkat Google karena situs web yang memiliki backlink berkualitas dari situs web lain dianggap memiliki tingkat kredibilitas tertentu.
 
-## Teknik menulis artikel SEO menarik
+## Teknik menulis artikel SEO 
 
 - Tentukan kata kunci yang akan ditulis untuk digunakan sebagai topik artikel.
 - Gunakan kata kunci sebagai judul, buat semenarik mungkin untuk dibaca.
-- Atur struktur url ke% postname% atau gunakan header yang berisi kata kunci. Hindari _, tetapi sebaiknya gunakan - (tanda hubung) sebagai gantinya.
+- Atur struktur url ke% postname% atau gunakan header yang berisi kata kunci. Hindari `_` tetapi sebaiknya gunakan `-` (tanda hubung) sebagai gantinya.
 - Dalam artikel harus ada kata kunci primer dan sekunder dalam 150 kata pertama, atau sekitar 4% dari total keseluruhan
 - Harus menulis setidaknya 150 kata. Jika bagus, sebaiknya tulis lebih dari 300 kata.
 - Sub-judul diatur di `h2` atau sub-judul lagi, unutk h3 tidak perlu menggunakan Kata Kunci untuk tiap sub-judulnya.
