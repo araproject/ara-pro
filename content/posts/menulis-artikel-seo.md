@@ -23,7 +23,10 @@ Alasan utama adalah menulis artikel SEO yang tepat dapat memberi kita kesempatan
 
 SEO atau Search Engine Optimization adalah proses untuk mendorong situs web ke halaman pertama Google. 
 
-Bagaimana SEO bermanfaat bagi kita? Mengapa kita harus belajar SEO? Kenapa perusahaan bersedia membayar ratusan ribu bahkan jutaan untuk menyewa jasa SEO ? Mengapa SEO menjadi topik yang populer setiap kali berbicara tentang marketing online?
+- Bagaimana SEO bermanfaat bagi kita? 
+- Mengapa kita harus belajar SEO? 
+- Kenapa perusahaan bersedia membayar ratusan ribu bahkan jutaan untuk menyewa jasa SEO ? 
+- Mengapa SEO menjadi topik yang populer setiap kali berbicara tentang marketing online?
 
 Setiap kali saya harus menjelaskan manfaat SEO, saya cenderung membandingkan dengan membuka **restoran** di lokasi yang strategis. Jika restoran berada di lokasi yang baik, akses jalan yang mudah di jangkau, parkiran yang luas, makanan yang lezat , tentu saja pelanggan pasti akan mengunjungi restoran kami.
 
