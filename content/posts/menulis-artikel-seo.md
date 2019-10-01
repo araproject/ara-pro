@@ -13,9 +13,11 @@ tags:
 
 Sebelum menulis artikel SEO, Anda terlebih dahulu harus memahami apa itu SEO. Saya menyarankan Anda untuk membaca sedikit artikel [Seo Dasar : 17 Tips Optimasi Yang Wajib Diketahui Pemula](https://www.aradechoco.com/seo-dasar-untuk-pemula/). 
 
+![](../images/menulis-artikel-seo-friendly.png)
+
 ## Mengapa harus menulis artikel SEO ?
 
-Alasan utama adalah menulis artikel SEO yang tepat dapat memberi kita kesempatan mendapatkan halaman pertama di Google. Jika situs web Anda tidak di peringkat 1-10, maka sangat sedikit peluang seseorang akan mengklik ke situs web Anda. 
+Alasan utama adalah menulis artikel SEO yang tepat dapat memberi kita kesempatan untuk tampil di halaman pertama Google. Jika situs web tidak berada di peringkat `1-10`, maka peluangnya sangat sedikit untuk mendapatkan klik ke situs web tersebut. 
 
 ## Konsep SEO
 
@@ -29,8 +31,6 @@ Di sisi lain, jika restoran lain sama-sama enak, tetapi lokasinya tidak bagus, l
 
 Ini seperti melakukan SEO. Jika situs web berada di halaman pertama Google, itu berarti lokasi situs web tersebut sangat bagus. 
 
-![](../images/menulis-artikel-seo-friendly.png)
-
 ## Cara menulis SEO untuk pembaca
 
 Mendefinisikan Kata Kunci, maksudnya kita harus tahu tentang apa artikel itu ditulis dan tentang apa Pencarian Kata Kunci itu. Kemudian menggunakan kata kunci itu untuk menjadi artikel utama.
@@ -41,7 +41,7 @@ Cara terbaik untuk menyajikan konten yang unik dan menarik adalah konten harus d
 
 Kata kunci harus didistribusikan di seluruh artikel. Distribusi kata kunci di seluruh artikel dianggap sangat penting dalam SEO, terutama dalam Judul dan Deskripsi karena akan membuat pencarian lebih mudah. Namun demikian Harus memperhatikan sifatnya juga. Jangan terlalu banyak memasukkan kata kunci, karena akan membuat pembaca merasa bingung.
 
-Jumlah kata tidak boleh terlalu pendek atau terlalu panjang. Dalam konten yang baik, konten harus harus berisi minimal 300 hingga 1000 kata yang sesuai dengan target yang ingin di presentasikan, seperti artikel tentang anak-anak. Harus menyenangkan dan tidak terlalu panjang, cukup 300 kata saja sudah cukup, Tetapi jika itu adalah artikel akademis yang Fokus pada kredibilitas Seharusnya memiliki sekitar 1000 kata untuk konten yang komprehensif.
+Jumlah kata tidak boleh terlalu pendek atau terlalu panjang. Dalam konten yang baik, konten harus harus berisi minimal `300` hingga `1000 kata` yang sesuai dengan target yang ingin di presentasikan, seperti artikel tentang anak-anak. Harus menyenangkan dan tidak terlalu panjang, cukup `300 kata` saja sudah cukup, Tetapi jika itu adalah artikel akademis yang Fokus pada kredibilitas Seharusnya memiliki sekitar `1000 kata` untuk konten yang komprehensif.
 
 Foto dan video itu penting. Artikel tanpa gambar, Ibarat seperti makan sayur tanpa garam, yang berarti tidak ada warna sama sekali yang membuatnya tidak menarik bagi pembaca. Selain itu, menambahkan gambar dan video dapat membantu pembaca lebih memahami konten yang di sajikan.
 
