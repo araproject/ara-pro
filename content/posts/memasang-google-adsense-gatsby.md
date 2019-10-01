@@ -14,7 +14,10 @@ tags:
  
 ---
 
-Menambahkan iklan Adsense ke Blog Gatsby sedikit rumit karena Anda tidak dapat langsung menggunakan kode yang di siapkan oleh Google. Namun, Anda dapat membuat komponen yang memungkinkan Anda menampilkan iklan dengan tips di bawah ini.
+Menambahkan iklan Adsense ke Blog Gatsby sedikit rumit karena Anda tidak dapat langsung menggunakan kode yang di siapkan oleh Google. 
+
+Namun, Anda dapat membuat komponen yang memungkinkan Anda menampilkan iklan dengan tips di bawah ini.
+
 Dalam tutorial ini, saya akan berbagi tentang cara menambahkan kode iklan google adsense ke gatsby dan react.js apps.
 
 ## Pertama salin kode iklan Adsense Anda
@@ -40,8 +43,9 @@ Buka akun Google Adsense dan kemudian salin kode iklan, kodenya terlihat seperti
 
 Salin kode `<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>` ke `src/layout/index.js`.
 
+<div class="filename">index.js</div>
+
 ```jsx
-// index.js //
 import React from 'react';
 import Helmet from 'react-helmet';
 
@@ -68,12 +72,14 @@ npm install --save react-adsense
 ## Masukkan Iklan Adsense secara manual
 
 Ada sedikit masalah iklan yang tidak tampil karena dua tag. Ketika salah satu tag dihapus,iklan otomatis akan muncul. Untuk masalah in saya belum menemukan solusinya.
+
 Sepertinya iklan otomatis dan gatsby tampaknya tidak kompatibel satu sama lain, untuk masalah ini saya telah memodifikasi kodenya sehingga iklan dapat muncul jika di memasukkan secara manual.
 
 pada `src/templates/post.js`
 
+<div class="filename">post.js</div>
+
 ```jsx
-//post.js//
 
 import AdSense from 'react-adsense'
 
