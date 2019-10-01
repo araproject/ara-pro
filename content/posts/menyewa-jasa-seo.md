@@ -1,6 +1,6 @@
 ---
 date: 2019-10-01
-title: 'Hal yang perlu diketahui sebelum Sewa Jasa SEO'
+title: 'Hal yang perlu diketahui sebelum Sewa Jasa SEO Berkualitas'
 template: post
 thumbnail: '../images/jasa-seo.png'
 slug: menyewa-jasa-seo-berkualitas
