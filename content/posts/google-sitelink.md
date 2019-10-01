@@ -66,13 +66,15 @@ Akan menampilkan pola sitelinks horisontal yang terletak pada satu baris.
 
 ### 4) tautan situs Google seluler
 
-![](../images/sitelink-thn.png) ![](../images/sitelink-mal.png) 
-
 Untuk Google Sitelinks yang muncul di **seluler** Akan memiliki dua jenis tayangan: 
 
 Menampilkan sitelink pada setiap baris Yang mana halaman tersebut hanya akan mendapatkan homepage.
 
+![](../images/sitelink-thn.png) 
+
 Jenis yang kedua adalah sitelink tab slide ( geser ), menggeser topik kiri-kanan, yang akan ditampilkan di laman lain yang tidak menggunakan Beranda.
+
+![](../images/sitelink-mal.png)
 
 **Google Sitelinks tidak memberikan hasil di semua situs web.**
 
