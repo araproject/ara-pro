@@ -31,7 +31,7 @@ Di sisi lain, jika restoran lain sama-sama enak, tetapi lokasinya tidak bagus, l
 
 Ini seperti melakukan SEO. Jika situs web berada di halaman pertama Google, itu berarti lokasi situs web tersebut sangat bagus. 
 
-## Cara menulis SEO untuk pembaca
+## Cara menulis SEO yang Friendly
 
 Mendefinisikan Kata Kunci, maksudnya kita harus tahu tentang apa artikel itu ditulis dan tentang apa Pencarian Kata Kunci itu. Kemudian menggunakan kata kunci itu untuk menjadi artikel utama.
 
