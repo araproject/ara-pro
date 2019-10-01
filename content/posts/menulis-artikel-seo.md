@@ -35,11 +35,11 @@ Ini seperti melakukan SEO. Jika situs web berada di halaman pertama Google, itu 
 
 Mendefinisikan Kata Kunci, maksudnya kita harus tahu tentang apa artikel itu ditulis dan tentang apa Pencarian Kata Kunci itu. Kemudian menggunakan kata kunci itu untuk menjadi artikel utama.
 
-Memiliki konten yang menarik itu ibarat kita menonton film, Jika filmnya tidak menyenangkan, maka tidak ada yang ingin melihat Konten itu juga. Jika topik dan kontennya tidak menarik maka Pembaca akan berhenti di tengah jalan. 
+Memiliki konten yang menarik itu ibarat kita menonton film, Jika filmnya tidak menyenangkan, maka akan mencari film lainnya, Konten juga seperti itu, jika topik dan kontennya tidak menarik maka Pembaca akan berhenti di tengah jalan. 
 
 Cara terbaik untuk menyajikan konten yang unik dan menarik adalah konten harus dilihat dari perspektif pembaca, apakah dia akan mendapat manfaat dari artikel tersebut ini atau tidak.
 
-Kata kunci harus didistribusikan di seluruh artikel. Distribusi kata kunci di seluruh artikel dianggap sangat penting dalam SEO, terutama dalam Judul dan Deskripsi karena akan membuat pencarian lebih mudah. Namun demikian Harus memperhatikan sifatnya juga. Jangan terlalu banyak memasukkan kata kunci, karena akan membuat pembaca merasa bingung.
+Kata kunci harus didistribusikan di seluruh artikel. Ini sangat penting dalam SEO, terutama dalam Deskripsi dan Judul karena akan membuat pencarian lebih mudah. Namun demikian Harus memperhatikan sifatnya juga. Jangan terlalu banyak memasukkan kata kunci, karena akan membuat pembaca merasa bingung.
 
 Jumlah kata tidak boleh terlalu pendek atau terlalu panjang. Dalam konten yang baik, konten harus harus berisi minimal `300` hingga `1000 kata` yang sesuai dengan target yang ingin di presentasikan, seperti artikel tentang anak-anak. Harus menyenangkan dan tidak terlalu panjang, cukup `300 kata` saja sudah cukup, Tetapi jika itu adalah artikel akademis yang Fokus pada kredibilitas Seharusnya memiliki sekitar `1000 kata` untuk konten yang komprehensif.
 
