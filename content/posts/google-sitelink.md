@@ -20,7 +20,7 @@ Coba ketik nama domain web Anda di Google Search, tanpa harus memasukkan ekstens
 
 ## Apa itu Google Sitelink ?
 
-**Google Sitelinks** adalah tautan yang menampilkan hasil yang relevan dengan istilah pencarian. Akan ditampilkan di bawahnya. Judul atas dan Deskripsi Meta umumnya ditampilkan ketika kami mencari Nama Merek yang tepat dari produk atau situs web. (Tanpa menyertakan `.com` atau ekstensi domain lainnya), tapi tidak setiap situs web akan dipilih untuk menampilkan Sitelinks.
+**Google Sitelinks** adalah tautan yang menampilkan hasil yang relevan dengan istilah pencarian yang akan ditampilkan di bawah judul dan meta deskripsi yang umumnya ditampilkan ketika pengguna mencari Nama Merek yang tepat dari produk atau situs web tanpa menyertakan `.com` atau ekstensi domain lainnya, tapi tidak setiap situs web akan dipilih untuk menampilkan Sitelinks.
 
 [Google Mulai menampilkan hasil sitelink sejak 2005](https://www.seroundtable.com/archives/002197.html), dan telah dikembangkansecara terus menerus.
 
@@ -82,17 +82,17 @@ Jika ada yang membaca artikel ini cobalah mengetikkan nama situs web sendiri di 
 
 **Di bawah ini pernyataan Google secara langsung.**
 
-> Kami hanya menampilkan sitelink dalam hasil pencarian ketika kami pikir itu akan bermanfaat bagi pengguna. Jika struktur situs Anda tidak mengizinkan algoritma kami untuk menemukan tautan situs yang baik Atau kami pikir bahwa tautan situs untuk situs web Anda tidak relevan dengan permintaan pencarian pengguna. Kami tidak akan menampilkan tautan situs itu.
+> ***Kami hanya menampilkan sitelink dalam hasil pencarian ketika kami pikir itu akan bermanfaat bagi pengguna. Jika struktur situs Anda tidak mengizinkan algoritma kami untuk menemukan tautan situs yang baik Atau kami pikir bahwa tautan situs untuk situs web Anda tidak relevan dengan permintaan pencarian pengguna. Kami tidak akan menampilkan tautan situs itu.***
 
 ## Jadi bagaimana Cara membuat Google Sitelink ?
 
-Sedangkan untuk metode membuat tautan situs, tidak ada formula khusus, karena Google akan secara otomatis memilih sendiri. 
+Sebenarnya untuk metode membuat sitelink, tidak ada formula khusus, karena Google akan secara otomatis memilih sendiri. 
 
-Apa yang bisa kita lakukan adalah melakukan apa yang diinginkan algoritma google adalah membuat struktur tautan web untuk memiliki konten yang mudah dimengerti.
+Apa yang bisa kita lakukan adalah melakukan apa yang diinginkan **algoritma google** adalah membuat struktur tautan web untuk memiliki konten yang mudah dimengerti.
 
 Dan lakukan apa yang menurut Anda akan bermanfaat bagi pengunjung.
 
-Saya akan membagi proses menjadi 2 cara: 
+**Saya akan membagi proses menjadi 2 cara:** 
 
 - Membuat tautan situs beranda. 
 - Membuat sitelink satu baris. Render sitelink pada seluler akan ditampilkan secara otomatis. Setelah memiliki sitelink normal yang berlaku.
@@ -116,7 +116,7 @@ Saya akan membagi proses menjadi 2 cara:
 - Struktur konten pada halaman yang juga harus SEO. 
 - Membagi konten yang panjang menjadi topik Bagi pembaca untuk memahami konten semudah mungkin.
 - Sub-judul utama Dalam artikel tersebut mengunakan `font H2`.
-- Di bagian bawah paragraf pertama artikel Buatlah `daftar isi` ( table of content ). Jika memakai **Wordpress**, Anda bisa memanfaatkan plugin.
+- Di bagian bawah paragraf pertama artikel Buatlah `daftar isi` ( Table of Content ). Jika memakai **Wordpress**, Anda bisa memanfaatkan plugin.
 
 
 ## Penutup
@@ -129,10 +129,12 @@ Tetapi tidak semua situs web akan menampilkan tautan situs. Google akan memilih 
 
 Jika ada yang selesai menyesuaikan konten web sesuai dengan instruksi di atas, lakukan dengan teliti dan tenang. 
 
-Google memiliki putaran akses - keluar untuk mengumpulkan data web. Jika suatu hari dia menyukai situs Anda, **Sitelink** akan ditampilkan sendiri secara otomatis.
+Google memiliki putaran akses - keluar untuk mengumpulkan data web. 
+
+Jika suatu hari dia menyukai situs Anda, **Sitelink** akan ditampilkan sendiri secara otomatis.
 
 
-#Terkait
+## Terkait
 
 - [SEO Untuk Pemula](https://www.aradechoco.com/SEO-untuk-pemula/) - Langkah Awal Untuk Naik Peringkat Google 
 - [Cara menulis artikel SEO agar tampil di halaman pertama Google](https://www.aradechoco.com/menulis-artikel-seo/)
