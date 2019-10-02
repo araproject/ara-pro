@@ -11,13 +11,19 @@ tags:
   - tips
 ---
 
-Saya percaya bahwa banyak orang yang terbiasa melakukan SEO sesuai dengan semua prinsip dan meniru teknik-teknik para master dengan menggunakan tools yang sama, atau mungkin telah membaca Daftar Panduan SEO dan mencoba untuk mengikuti semuanya Tapi apa pun yang Anda lakukan, masih belum dapat membuat website Anda tampil di halaman pertama Google. Mengapa begitu?
+Sudah banyak orang yang terbiasa melakukan **Optimasi SEO** sesuai dengan semua prinsip dan meniru teknik-teknik para master dengan menggunakan tools yang sama, atau mungkin telah membaca [Daftar Panduan SEO](https://www.aradechoco.com/categories/seo/) dan mencoba untuk mengikuti semuanya, Tapi masih belum dapat membuat website tersebut tampil di halaman pertama Google.
 
 ![](../images/optimasi-seo-tapi-belum-page-one.png)
 
+**Mengapa bisa terjadi ?**
+
 Saya juga sering melakukan [Optimasi SEO](https://www.aradechoco.com/seo-dasar-untuk-pemula/) secara intuitif tetapi belum mendapat peringkat dalam hasil pencarian. Kadang-kadang halaman yang tidak dimaksudkan untuk diperingkat malah tampil di halaman pertama. 
 
-Yap! Inilah SEO. Sesuatu yang aneh bahkan jika kita mengikuti semua panduan, itu tidak menjamin situs web akan diurutkan di Google karena panduan itu. Banyak hal terjadi dari pengamatan, yang disebabkan oleh coba-coba dan Itu bukan sesuatu yang benar-benar diungkapkan oleh Google, dan Google pasti tidak akan mengungkapkannya.
+**Yah! Inilah SEO.** 
+
+Sesuatu yang aneh bahkan jika kita mengikuti semua panduan itu tidak menjamin situs web akan mendapatkan **page one** di Google. 
+
+Banyak hal terjadi dari pengamatan, yang disebabkan oleh coba-coba dan itu bukan sesuatu yang benar-benar diungkapkan oleh Google, dan Google pasti tidak akan mengungkapkannya.
 
 **Itu karena:**
 
@@ -35,7 +41,7 @@ Kemudian mencoba mengikuti tapi Tampaknya peringkat halaman saya bahkan tidak ad
 
 Ini adalah konfirmasi bahwa prinsip-prinsip yang berlaku untuk situs web tertentu, atau beberapa kata kunci mungkin tidak dapat digunakan karena situs web lain memainkan kata kunci yang berbeda, karena konteks yang berbeda menjadi sesuatu yang bahkan para ahli SEO tidak berani dan tidak menjaminnya, karena tidak memiliki prinsip yang akan membantu situs web untuk menentukan peringkat di industri tersebut.
 
-## Trafik ke halaman itu tidak cukup.
+## Trafik yang masih sedikit.
 
 Meskipun masih dapat diperdebatkan apakah jumlah trafik ke situs web itu mempengaruhi peringkat dalam hasil pencarian atau tidak. 
 
