@@ -127,7 +127,7 @@ Ini membantu kita melakukan SEO dengan lebih mudah di halaman pertama.
 
 Tetapi tidak semua situs web akan menampilkan tautan situs. Google akan memilih dan menampilkannya sendiri. 
 
-Jika ada yang selesai menyesuaikan konten web sesuai dengan instruksi di atas, lakukan dengan teliti dan tenang. 
+Jika ingin menyesuaikan konten web sesuai dengan instruksi di atas, lakukan dengan teliti dan tenang. 
 
 Google memiliki putaran akses - keluar untuk mengumpulkan data web. 
 
