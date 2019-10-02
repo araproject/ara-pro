@@ -1,8 +1,8 @@
 ---
 date: 2019-10-02
-title: 'Sudah melakukan Optimasi SEO, tapi belum juga Page One ?'
+title: 'Sudah melakukan Optimasi SEO tapi belum juga Page One ?'
 template: post
-thumbnail: '../seo-rank.png'
+thumbnail: '../images/seo-rank.png'
 slug: optimasi-seo-page-one
 categories:
   - SEO
