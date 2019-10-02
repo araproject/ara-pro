@@ -11,7 +11,7 @@ tags:
   - search engine marketing
 ---
 
-Beberapa orang sering bingung dari kedua istilah Search Engine Optimization (SEO) dan Search Engine Marketing (SEM). Baik SEO dan SEM mereka sama-sama membantu untuk membuat peringkat situs web dalam hasil mesin pencari, tetapi pada kenyataannya SEO lebih Ini dapat didefinisikan sebagai bagian dari SEM yang mencakup berbagai kategori.
+Beberapa orang sering bingung dari kedua istilah Search Engine Optimization (SEO) dan Search Engine Marketing (SEM). Baik SEO dan SEM mereka sama-sama membantu untuk membuat peringkat situs web dalam hasil mesin pencari, tetapi pada kenyataannya SEO lebih dapat didefinisikan sebagai bagian dari SEM yang mencakup berbagai kategori.
 
 Hari ini, saya akan memperkenalkan konsep **SEM** dan **SEO** dan manfaatnya menggunakan masing-masing.
 
@@ -19,27 +19,29 @@ Hari ini, saya akan memperkenalkan konsep **SEM** dan **SEO** dan manfaatnya men
 
 ## Apa itu SEM?
 
-**Search Engine Marketing** ( SEM ) meningkatkan peringkat situs web Anda pada Halaman Hasil Mesin Pencari (SERP) melalui promosi dan optimisasi. SEM mencakup berbagai metode pemasaran seperti pengoptimalan mesin pencari (SEO) dan iklan pay per click (PPC). Untuk memahami apa itu SEM, Anda harus terlebih dahulu memahami bagaimana SEM bekerja untuk pemasaran online.
+**Search Engine Marketing** ( SEM ) meningkatkan peringkat situs web pada Halaman Hasil Mesin Pencari (SERP) melalui promosi dan optimisasi. SEM mencakup berbagai metode pemasaran seperti pengoptimalan mesin pencari (SEO) dan iklan pay per click (PPC). Untuk memahami apa itu SEM, Anda harus terlebih dahulu memahami bagaimana SEM bekerja untuk pemasaran online.
 
 ### Apa arti SEM marketing?
 
-Langkah pertama bagi pemasar adalah mendapatkan lebih banyak trafik ke situs web Anda. Seperti yang Anda lihat pada gambar di bawah, ada banyak cara untuk mencapai hal ini, dari media sosial ke situs web yang dioptimalkan untuk seluler. 
+Langkah pertama bagi pemasar adalah mendapatkan lebih banyak trafik ke situs web. Seperti yang Anda lihat pada gambar di bawah, ada banyak cara untuk mencapai hal ini, dari media sosial ke situs web yang dioptimalkan untuk pengguna seluler. 
 
 ![](../images/sem.png)
 
-Salah satu cara terbaik untuk mendapatkan lebih banyak trafik ke situs web adalah meningkatkan peringkat situs Anda ketika orang mencari kata kunci terkait. Ada banyak cara bagus untuk memberi peringkat situs web pada SERP, yang semuanya milik SEM. Rinciannya adalah sebagai berikut.
+Salah satu cara terbaik untuk mendapatkan lebih banyak trafik ke situs web adalah meningkatkan peringkat situs Anda ketika orang mencari kata kunci terkait. Ada banyak cara bagus untuk memberi peringkat situs web pada SERP, yang semuanya milik SEM. 
+
+Rinciannya adalah sebagai berikut.
 
 ![](../images/sem-marketing.png)
 
 Seperti yang Anda lihat, SEM mencakup iklan SEO dan pencarian. Iklan mesin pencari adalah jumlah yang Anda bayarkan untuk situs web Anda dengan peringkat SERP tertinggi.
 
-Google Ads adalah platform terbaik untuk mengiklankan situs web Anda ke hasil pencarian Google. Bergantung pada saat Anda ditagih, inilah cara Anda membayar iklan: 
+Google Ads adalah platform terbaik untuk mengiklankan situs web Anda ke mesin pencarian Google. Inilah cara Anda membayar iklan: 
 
 - **Pay per Click** (PPC): Ketika pelanggan mengklik iklan Anda
 - **Pay Per Impression** (PPI): Saat pelanggan melihat iklan Anda
 - **Pay Per Action** (PPA): Ketika seorang pelanggan mengambil tindakan tertentu, seperti mendaftar.
 
-Contoh hasil pencarian berbayar: 
+**Contoh hasil pencarian berbayar:**
 
 ![](../images/sem-dan-seo.png)
 
@@ -47,13 +49,13 @@ Tetapi iklan bukan satu-satunya aspek SEO. Sisi lainnya adalah mendapatkan trafi
 
 ## Apa itu SEO marketing?
 
-**SEO** adalah teknologi yang mengoptimalkan situs web Anda untuk peringkat lebih banyak di SERP. Meskipun SEO adalah strategi jangka panjang, Anda harus fokus pada SEO karena Anda tidak dikenai biaya untuk setiap klik. 
+**SEO** adalah teknologi yang mengoptimalkan situs web untuk mendapat peringkat lebih banyak di SERP. Meskipun SEO adalah strategi jangka panjang, Anda harus fokus pada SEO karena Anda tidak dikenai biaya untuk setiap klik. 
 
 Iklan dapat muncul langsung di bagian atas hasil pencarian, tetapi tidak dapat bertahan. Karena Anda harus membayar untuk setiap klik di situs web Anda. Biaya per klik Anda segera melebihi anggaran dan Anda tidak dapat tidak bergantung lagi pada iklan. 
 
-Maka dari itu situs web Anda harus berada di peringkat tinggi pada halaman hasil mesin pencari tanpa membayar biaya. Situs web Anda dapat mempertahankan peringkat tinggi dalam pencarian dan mendapatkan trafik organik melalui SEO. 
+Maka dari itu situs web Anda harus berada di peringkat tinggi pada halaman hasil mesin pencari tanpa membayar biaya. Situs web Anda dapat mempertahankan peringkat tinggi dalam pencarian dan mendapatkan trafik organik melalui [Optimasi SEO](https://www.aradechoco.com/seo-dasar-untuk-pemula/). 
 
-SEO tergantung pada seberapa banyak Anda [mengoptimalkan situs web](https://www.aradechoco.com/seo-dasar-untuk-pemula/) sesuai dengan algoritma Google. Algoritma adalah rahasia yang dijaga ketat dan terus berubah, sehingga taktik SEO setiap hari berubah. 
+SEO tergantung pada seberapa banyak Anda [mengoptimalkan situs web](https://www.aradechoco.com/SEO-untuk-pemula/) sesuai dengan algoritma Google. Algoritma adalah rahasia yang dijaga ketat dan terus berubah, sehingga taktik SEO setiap hari berubah. 
 
 ### Apa saja komponen SEO? 
 
@@ -93,7 +95,7 @@ Periklanan memiliki manfaatnya sendiri dan dapat lebih bermanfaat daripada SEO d
 
 - Anda dapat mengatur kampanye AdWords yang efektif dalam beberapa jam, dan dalam 24 jam situs web Anda akan muncul di bagian atas hasil pencarian Anda. Karena itu, PPC adalah alat yang sangat efektif ketika Anda membutuhkan hasil yang cepat. Misalnya, situs web Anda baru saja membuka atau meluncurkan produk baru.
 - Iklan pencarian memungkinkan Anda memilih kapan dan di mana iklan dapat muncul. Ini memungkinkan Anda untuk menargetkan pelanggan lebih akurat daripada SEO.
-- AdWords memungkinkan Anda untuk melacak secara akurat apa yang diketik orang ke dalam kotak pencarian untuk mengunjungi situs web Anda dari kotak pencarian Google.
+- [Google AdWords](https://www.aradechoco.com/google-adwords/) memungkinkan Anda untuk melacak secara akurat apa yang diketik orang ke dalam kotak pencarian untuk mengunjungi situs web Anda dari kotak pencarian Google.
 
 ### Manfaat menggunakan Search Engine Optimization (SEO)
 
@@ -109,6 +111,7 @@ Jadi itu ide yang baik untuk berinvestasi dalam SEO dari awal. SEO bisa memakan 
 
 ## Terkait
 
+- [Mengatasi masalah iklan Google Adwords tidak tayang](https://www.aradechoco.com/google-adwords/)
 - [SEO Dasar: 17 Tips Optimasi Yang Wajib Diketahui Pemula](https://www.aradechoco.com/seo-dasar-untuk-pemula/)
 - [Apa itu backlink ?](https://www.aradechoco.com/apa-itu-backlink/) Mengapa penting untuk SEO ?
 - [SEO Untuk Pemula](https://www.aradechoco.com/SEO-untuk-pemula/) - Langkah Awal Untuk Naik Peringkat Google 
