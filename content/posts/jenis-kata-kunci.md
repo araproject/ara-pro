@@ -34,7 +34,7 @@ Baca artikel ini untuk mengetahui lebih dalam bahwa ini pasti berguna untuk Bisn
 
 Ini adalah jenis kata kunci paling umum yang digunakan pencari tanpa makna langsung pada merek atau jenis produk tertentu. 
 
-Tetapi dengan tujuan yang luas dalam pencarian seperti **Traveling ke luar Negri**,**T-shirt**, **Kopi**, **menurunkan berat badan**. 
+Tetapi dengan tujuan yang luas dalam pencarian seperti **Traveling ke luar Negri**, **T-shirt**, **Kopi**, **Menurunkan berat badan**. 
 
 Yang merupakan istilah luas yang digunakan kebanyakan orang saat mencari informasi tentang hal tersebut.
 
