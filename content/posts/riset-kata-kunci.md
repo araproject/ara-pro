@@ -20,7 +20,7 @@ Tapi proses [melakukan riset kata kunci](https://www.aradechoco.com/cara-riset-k
 
 ![](../images/mengapa-riset-kata-kunci-penting-untuk-seo.png)
 
-Banyak orang yang sudah memiliki latar belakang SEO harus memahaminya Ketika kita memilih kata kunci untuk SEO, kita cenderung mencari berbagai fitur ini.
+Banyak pemula yang masih belum memahami cara memilih kata kunci untuk SEO, seperti.
 
 - Apakah kata kunci terkait dengan situs web dan bisnis tersebut
 - Kata kunci yang memiliki jumlah volume pencarian yang sedang
