@@ -125,7 +125,9 @@ Pertama, buatlah konten yang bermanfaat bagi pengguna, dan kemudian menerapkan *
 
 ## Kesimpulan
 
-Jangan menggunakan teknik **Black Hat SEO** untuk mengarahkan trafik ke domain mereka. Saya telah melihat situs yang menggunakannya dan menerima kesuksesan sesaat, tetapi akhirnya, masing-masing situs web itu berada di bawah radar Google dan mendapat penalti.
+Jangan menggunakan teknik **Black Hat SEO** untuk mengarahkan trafik ke domain Anda. 
+
+Saya telah melihat situs yang menggunakannya dan menerima kesuksesan sesaat, tetapi akhirnya, masing-masing situs web itu berada di bawah radar Google dan mendapat penalti.
 
 Selain itu, Google selalu memperbaharui dan meningkatkan algoritmanya hampir setiap hari, dan ini memungkinkannya untuk mengidentifikasi dan menghukum situs yang menggunakan teknik black hat SEO!
 
