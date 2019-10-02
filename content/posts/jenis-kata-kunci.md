@@ -34,7 +34,7 @@ Baca artikel ini untuk mengetahui lebih dalam bahwa ini pasti berguna untuk Bisn
 
 Ini adalah jenis kata kunci paling umum yang digunakan pencari tanpa makna langsung pada merek atau jenis produk tertentu. 
 
-Tetapi dengan tujuan yang luas dalam pencarian seperti *Traveling ke luar Negri**,**T-shirt**, **Kopi**, **menurunkan berat badan**. 
+Tetapi dengan tujuan yang luas dalam pencarian seperti **Traveling ke luar Negri**,**T-shirt**, **Kopi**, **menurunkan berat badan**. 
 
 Yang merupakan istilah luas yang digunakan kebanyakan orang saat mencari informasi tentang hal tersebut.
 
@@ -70,7 +70,7 @@ Karena dapat fokus pada kata kunci yang berbeda satu sama lain dan memilih halam
 
 Selain itu, membagi Kata Kunci ke dalam grup berdasarkan kategori Juga bermanfaat untuk membuat struktur kampanye untuk pencarian berbayar yang efektif. 
 
-#Terkait
+## Terkait
 
 - [Mengapa Riset Kata kunci itu penting untuk SEO ?](https://www.aradechoco.com/riset-kata-kunci/)
 - [Cara Menempatkan Keyword yang SEO pada Postingan blog](https://www.aradechoco.com/menempatkan-keyword-seo/)
