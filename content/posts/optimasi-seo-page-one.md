@@ -63,9 +63,14 @@ Semakin tinggi nilai kata kunci untuk bisnis, semakin ketat pula kompetisi untuk
 
 Jika ada yang ingin tahu prinsip-prinsipnya, ketahui cara melakukannya, terutama pesaing kita. Atau jika pesaing tidak tahu cara melakukan SEO, mereka mungkin punya uang untuk mempekerjakan seseorang dengan pengetahuan dan pengalaman untuk melakukan [Riset kata kunci](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) sebagai gantinya. 
 
-Jika sudah mengevaluasi dan belum bisa bersaing dengan pesaing (Mungkin karena situs web tersebut sudah jauh lebih besar dan satu-satunya kata dalam kata kunci itu). Jangan patah semangat, terus berjuang, ubah strategi untuk memainkan Kata Kunci lain dengan lebih baik.
 
-Demikianlah alasan yang sering menyebabkan Situs web tidak mendapat peringkat dalam hasil pencarian, bahkan setelah melakukan semua Optimasi SEO yang benar. 
+## Penutup
+
+Jika sudah mengevaluasi dan belum bisa bersaing dengan pesaing (Mungkin karena situs web tersebut sudah jauh lebih besar dan satu-satunya kata dalam kata kunci itu). 
+
+Jangan patah semangat, terus berjuang, ubah strategi untuk memainkan Kata Kunci lain dengan lebih baik.
+
+Itulah beberapa alasan yang sering menyebabkan Situs web susah mendapat peringkat dalam hasil pencarian, bahkan setelah melakukan semua Optimasi SEO yang benar. 
 
 ## Terkait
 
