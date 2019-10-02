@@ -2,7 +2,7 @@
 date: 2019-09-22
 title: 'Cara Riset Keyword : Long Tail dan Short Tail untuk Pemula'
 template: post
-thumbnail: '../images/riset-keyword.png'
+thumbnail: '../images/riset-keyword-long-tail.png'
 slug: cara-riset-keyword-untuk-pemula
 categories:
   - SEO
