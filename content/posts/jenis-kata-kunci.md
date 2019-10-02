@@ -1,6 +1,6 @@
 ---
 date: 2019-10-03
-title: '5 Jenis Kata kunci Yang Harus Anda Ketahui sebelum melakukan Riset'
+title: '5 Jenis Kata kunci SEO Yang Harus Anda Ketahui'
 template: post
 thumbnail: '../images/jenis-keywords.png'
 slug: jenis-kata-kunci
