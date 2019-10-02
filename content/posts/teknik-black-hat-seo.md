@@ -13,21 +13,29 @@ tags:
 
 Mendapatkan peringkat di SERP teratas (Halaman Hasil Mesin Pencari) adalah kompetisi yang panjang. Dan di setiap kompetisi pasti ada yang bermain adil dan yang curang!. Di dunia SEO, saya menyebutnya **white hat** dan **black hat** SEO.
 
-**White Hat SEO** membantu dalam mempertahankan peringkat SERP teratas Anda, namun, unutk mencapai peringkat yang lebih tinggi dengan teknik white hat membutuhkan waktu. Di sisi lain, black hat SEO dapat meningkatkan visibilitas mesin pencari Anda dengan cepat, tapi dengan janji kesuksesan jangka pendek dan risiko yang tinggi.
+**White Hat SEO** membantu dalam mempertahankan peringkat SERP teratas Anda, namun, unutk mencapai peringkat yang lebih tinggi dengan teknik white hat membutuhkan waktu. 
+
+Di sisi lain, black hat SEO dapat meningkatkan visibilitas mesin pencari Anda dengan cepat, tapi dengan janji kesuksesan jangka pendek dan risiko yang tinggi.
 
 Berikut sedikit penjelasan lebih detail tentang kedua teknik SEO ini:
 
 ## Apa itu White Hat SEO?
 
-Setiap upaya SEO yang dijalankan secara etis dengan mengikuti pedoman peringkat Google menandakan bahwa situs tersebut menggunakan [teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/). Guest posting, Riset kata kunci, optimisas meta tag, link internal, dll. Adalah beberapa contoh yang terkenal dari teknik white hat SEO.
+Setiap upaya SEO yang dijalankan secara etis dengan mengikuti pedoman peringkat Google menandakan bahwa situs tersebut menggunakan [teknik White Hat SEO](https://www.aradechoco.com/teknik-white-hat-seo/). 
+
+[Guest post](https://www.aradechoco.com/guest-blog-seo/), [Riset keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/), [Optimisasi Meta Tag](https://www.aradechoco.com/optimasi-meta-tag/), [Internal Link](https://www.aradechoco.com/seo-link-building/), dll. Adalah beberapa contoh yang terkenal dari teknik white hat SEO.
 
 ## Apa itu Black Hat SEO?
 
-Teknik black hat SEO adalah kebalikan dari teknik white hat. Yang berarti bahwa teknik black hat SEO tidak mengikuti pedoman peringkat Google. Jika perayap ( crawler ) mengidentifikasi bahwa situs web Anda menggunakan teknik black hat SEO untuk mencapai peringkat tinggi, maka akan mengindeks situs Anda dan mencegah situs Anda dari peringkat di Google.
+Teknik black hat SEO adalah kebalikan dari teknik white hat. Yang berarti bahwa teknik black hat SEO tidak mengikuti pedoman peringkat Google. 
+
+Jika perayap ( crawler ) mengidentifikasi bahwa situs web Anda menggunakan teknik black hat SEO untuk mencapai peringkat tinggi, maka akan mengindeks situs Anda dan mencegah situs Anda dari peringkat di Google.
 
 **Sekarang…**
 
-Jika situs web Anda tiba-tiba mengalami penurunan peringkat atau menerima pemberitahuan dari Google tentang pengindeksan ulang situs web terkait, maka Anda harus segera memeriksa apakah situs Anda mengikuti teknik black hat SEO. Pada artikel ini, Anda akan menemukan beberapa teknik black hat SEO yang signifikan yang perlu dihindari situs web pada tahun 2019.
+Jika situs web Anda tiba-tiba mengalami penurunan peringkat atau menerima pemberitahuan dari Google tentang pengindeksan ulang situs web terkait, maka Anda harus segera memeriksa apakah situs Anda mengikuti teknik black hat SEO. 
+
+Pada artikel ini, Anda akan menemukan beberapa teknik black hat SEO yang signifikan yang perlu dihindari situs web pada tahun 2019.
 
 ## Teknik Black Hat SEO No. 1: Cloaking
 
@@ -39,7 +47,7 @@ Contoh penyelubungan (cloaking) adalah jika Anda mengklik kata kunci di salah sa
 
 **Spider search engine** biasanya tidak mengindeks situs yang **terselubung**, namun, dalam kasus yang jarang terjadi, mereka diindeks secara tidak sengaja tetapi akan dihapus saat mereka diidentifikasi sebagai situs terselubung. Google menghukum situs-situs terselubung semacam itu dengan menghapus indeks dan menghapus peringkatnya.
 
-> **Saran: Cloaking bukan **black hat** 100%, tetapi Anda masih bisa menggunakannya sebagai teknik **white hat**. Iya! Cloaking juga dapat digunakan sebagai teknik white hat , tetapi hanya dalam kasus-kasus tertentu dan sebagai versi cloaking yang ringan.
+> **Cloaking** bukanlah  100% tehnik **black hat**, tetapi Anda masih bisa menggunakannya sebagai teknik **white hat**. Iya! Cloaking juga dapat digunakan sebagai teknik white hat , tetapi hanya dalam kasus-kasus tertentu dan sebagai versi cloaking yang ringan.
 
 ## Teknik Black Hat SEO No. 2: Pengisian Kata Kunci
 
@@ -49,7 +57,9 @@ Dengan melakukan itu, mereka berharap dapat menghasilkan peringkat yang lebih ti
 
 **Berikut adalah contoh singkat pengisian kata kunci** : 
 
-> “Riset Kata Kunci sangat penting untuk SEO. Jika Anda tidak melakukan riset kata kunci, maka situs Anda akan mendapatkan peringkat yang lebih rendah di SERPs. Jadi, Anda perlu melakukan riset kata kunci yang relevan untuk peringkat yang lebih tinggi. Anda dapat menggunakan alat penelitian kata kunci gratis untuk melakukan riset kata kunci."
+> “Riset Kata Kunci sangat penting untuk SEO. Jika Anda tidak melakukan riset kata kunci, maka situs Anda akan mendapatkan peringkat yang lebih rendah di SERPs. Jadi, Anda perlu melakukan riset kata kunci yang relevan untuk peringkat yang lebih tinggi.
+
+Anda dapat menggunakan [tools riset](https://www.aradechoco.com/tools-seo-gratis/) kata kunci gratis untuk melakukan riset kata kunci."
 
 Konten bisa ditulis dengan sedikit menyebutkan kata kunci `riset kata kunci` untuk membuatnya lebih masuk akal. Tapi, hanya untuk mendapatkan peringkat tinggi di SERP, kata kunci itu ditempatkan 5 kali dalam paragraf pendek. 
 
@@ -57,23 +67,33 @@ Isi kata kunci bertentangan dengan pedoman peringkat Google dan jika Anda masih 
 
 **Bagaimana dengan kata kunci tersembunyi?**
 
-Terkadang, untuk tidak mengganggu konteks dan keterbacaan konten, situs web mencoba menyembunyikan kata kunci yang berlebihan dari pengguna. Bagaimana? Mereka mengubah warna teks untuk mencocokkan latar belakang halaman, membuat mereka tidak terlihat oleh pengguna sementara masih terlihat oleh crawler.
+Terkadang, untuk tidak mengganggu konteks dan keterbacaan konten, situs web mencoba menyembunyikan kata kunci yang berlebihan dari pengguna.
 
-Gagasan di balik ini adalah bahwa crawler akan dapat menemukan kata kunci dan memberi peringkat konten sementara konten masih masuk akal bagi pembaca. Banyak situs menganggap menyembunyikan kata kunci sebagai cara `licik` untuk peringkat lebih tinggi, tetapi pada akhirnya, Google akan dapat menemukan teknik black hat ini dan akan menghukum situs tersebut.
+Mereka mengubah warna teks untuk mencocokkan latar belakang halaman, membuat mereka tidak terlihat oleh pengguna sementara masih terlihat oleh crawler.
+
+Gagasan di balik ini adalah bahwa crawler akan dapat menemukan kata kunci dan memberi peringkat konten sementara konten masih masuk akal bagi pembaca. 
+
+anyak situs menganggap menyembunyikan kata kunci sebagai cara `licik` untuk peringkat lebih tinggi, tetapi pada akhirnya, Google akan dapat menemukan teknik black hat ini dan akan menghukum situs tersebut.
 
 **Setelah mengoptimalkan konten Anda, hitung kepadatan kata kuncinya:
 
 > **Keyword Density** = `Frekuensi kata kunci yang digunakan / Total jumlah kata dalam sebuah artikel.`
 
-Kepadatan kata kunci yang ideal harus dalam antara 1 sampai 3% . Melebihi persentase menandakan bahwa Anda telah mengisi konten situs web Anda dengan terlalu banyak kata kunci. Plus, pastikan untuk menggunakan kata kunci yang tepat untuk konten web Anda. Sebuah alat kata kunci dapat membantu Anda untuk menemukan kata kunci yang terbaik yang kemudian dapat menempatkan di konten Anda dengan cara yang natural.
+Kepadatan kata kunci yang ideal harus dalam antara 1 sampai 3% . Melebihi persentase menandakan bahwa Anda telah mengisi konten situs web Anda dengan terlalu banyak kata kunci. 
+
+Dan, pastikan untuk menggunakan kata kunci yang tepat untuk konten web Anda. Sebuah alat kata kunci dapat membantu Anda untuk menemukan kata kunci yang terbaik yang kemudian dapat menempatkan di konten Anda dengan cara yang natural.
 
 Cari tahu di mana Anda harus [meletakkan kata kunci di posting blog Anda](https://www.aradechoco.com/menempatkan-keyword-seo/).
 
 ## Teknik Black Hat SEO No. 3: Duplicate Content
 
-Menyalin ( copas ) konten dari situs lain dan mempostingnya di milik Anda sebagai konten 'asli' tanpa menyertakan link sumber adalah tindakan yang tidak di sukai Google dan akan mengidentifikasinya dengan cepat dengan crawler spider Google yang secara konsisten akan menemukan konten duplikat. Web kemungkinan akan sulit untuk terindeks di mesin pencarian, bahkan jika sumber asli melaporkannya web bisa di hapus dari Google secara permanent.
+Menyalin ( copas ) konten dari situs lain dan mempostingnya di milik Anda sebagai konten 'asli' tanpa menyertakan link sumber adalah tindakan yang tidak di sukai Google dan akan mengidentifikasinya dengan cepat dengan crawler spider Google yang secara konsisten akan menemukan konten duplikat. 
 
-Selain itu, ada banyak pendeteksi plagiarisme yang tersedia di internet yang dapat memeriksa apakah konten Anda dijiplak atau tidak. Sebagian besar dari mereka juga menyediakan sumber yang tepat dari mana informasi tertentu telah disalin. Misalahnya [Copyscape](https://www.copyscape.com/) dan [Smallseotools](https://smallseotools.com/plagiarism-checker/).
+Web kemungkinan akan sulit untuk terindeks di mesin pencarian, bahkan jika sumber asli melaporkannya web bisa di hapus dari Google secara permanent.
+
+Selain itu, ada banyak pendeteksi plagiarisme yang tersedia di internet yang dapat memeriksa apakah konten Anda dijiplak atau tidak. 
+
+Sebagian besar dari mereka juga menyediakan sumber yang tepat dari mana informasi tertentu telah disalin. Misalahnya [Copyscape](https://www.copyscape.com/) dan [Smallseotools](https://smallseotools.com/plagiarism-checker/).
 
 > **note: Jangan menyalin seluruh postingan, salin bagian dan kutip sumbernya atau tambahkan link sumber. Anda tidak perlu menyalin seluruh posting. Jika Anda menemukan bahwa informasi tertentu telah dijelaskan di beberapa artikel lain, Anda dapat menyalin bagian tertentu itu dan memasukkannya dalam posting Anda. Namun, pastikan untuk menautkan kembali ke artikel asli atau menambahkan URL sumber.
 
@@ -81,7 +101,11 @@ Selain itu, ada banyak pendeteksi plagiarisme yang tersedia di internet yang dap
 
 [Membangun backlink](https://www.aradechoco.com/backlink-melalui-wikipedia/) adalah salah satu [teknik SEO](https://www.aradechoco.com/teknik-seo/) paling efektif. Tautan masuk dari situs DA yang lebih tinggi meningkatkan peringkat SERP situs web dengan meningkatkan DA dan kredibilitas online.
 
-Tetapi, untuk mencapai ketiga manfaat ini dengan cepat, situs web biasanya mulai membeli backlink. Mereka sering mulai membayar jasa backlink untuk menghasilkan sejumlah link bagi mereka. Backlink itu tidak selalu dari situs DA yang bagus, dan bisa dari niche yang tidak terkait dengan web yang akan dimasukkan backlink, atau domain yang mempromosikan konten spam. Jika situs memiliki link yang mengarah dari domain tersebut, itu dapat merusak kredibilitas dan kualitas backlink mereka, yang memengaruhi peringkat situs dan DA secara signifikan.
+Tetapi, untuk mencapai ketiga manfaat ini dengan cepat, situs web biasanya mulai membeli backlink. Mereka sering mulai membayar jasa backlink untuk menghasilkan sejumlah link bagi mereka. 
+
+Backlink itu tidak selalu dari situs DA yang bagus, dan bisa dari niche yang tidak terkait dengan web yang akan dimasukkan backlink, atau domain yang mempromosikan konten spam.
+
+Jika situs memiliki link yang mengarah dari domain tersebut, itu dapat merusak kredibilitas dan kualitas backlink mereka, yang memengaruhi peringkat situs dan DA secara signifikan.
 
 Saran saya jangan membeli backlink dari **jasa backlink** yang belum terpercaya, dan mulailah [membangun backlink yang berkualitas](https://www.aradechoco.com/apa-itu-backlink/)
 
@@ -95,7 +119,9 @@ Atau, Anda dapat melakukan audit situs-situs web pesaing dan menganalisis data b
 
 Hal terpenting tentang SEO bukanlah untuk menarik pelanggan. Setelah menarik pelanggan, pengguna tertarik dengan produk dan layanan mereka, dan akhirnya membeli dan menjadi repeater (penggemar).
 
-Oleh karena itu, apa yang harus dilakukan oleh pelaku SEO bukanlah Black Hat SEO, yang tentu saja dapat penilaian spam. White Hat SEO yang menyajikan informasi yang diinginkan pengguna dan membuatnya lebih mudah bagi mesin pencari untuk menemukannya. Pertama, buatlah konten yang bermanfaat bagi pengguna, dan kemudian menerapkan **White Hat SEO** adalah cara tercepat untuk menaikkan [peringkat situs web](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/).
+Oleh karena itu, apa yang harus dilakukan oleh pelaku SEO bukanlah Black Hat SEO, yang tentu saja dapat penilaian spam. White Hat SEO yang menyajikan informasi yang diinginkan pengguna dan membuatnya lebih mudah bagi mesin pencari untuk menemukannya.
+
+Pertama, buatlah konten yang bermanfaat bagi pengguna, dan kemudian menerapkan **White Hat SEO** adalah cara tercepat untuk menaikkan [peringkat situs web](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/).
 
 ## Kesimpulan
 
