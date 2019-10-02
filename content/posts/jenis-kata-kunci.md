@@ -12,11 +12,11 @@ tags:
   - keyword
 ---
 
-Dalam dunia Marketing di Search Engine, yang paling penting adalah Keyword. Jika kita memilih Keyword dengan baik, peluang memotivasi pelanggan untuk membeli produk atau layanan akan semakin meningkat. 
+Dalam Marketing di Search Engine, yang paling penting adalah **Keyword**. Jika kita memilih Keyword dengan baik, maka peluang untuk memotivasi pelanggan membeli suatu produk atau layanan akan semakin meningkat. 
 
 Orang-orang di industri cenderung mengklasifikasikan Kata Kunci ke dalam kelompok sehingga mereka dapat bekerja dengan mudah. 
 
-![](../images/jenis-kata-kunci.png.png)
+![](../images/jenis-kata-kunci.png)
 
 Hari ini saya ingin membahas 5 jenis kata kunci utama yang umum digunakan: 
 
@@ -48,15 +48,15 @@ Yang diatas terlihat sebagai sekelompok kata kunci yang sangat spesifik untuk pe
 
 Kata kunci ini memiliki arti sangat spesifik. Pencari menggunakan kata kunci ini adalah untuk mencari tujuan yang sangat spesifik. 
 
-Misalnya, pencari menggunakan istilah "Terapkan Pilihan untuk Kartu Kredit". Dapatkah Anda melihat bahwa itu sangat spesifik? 
+Misalnya, pencari menggunakan istilah **"Terapkan Pilihan untuk Kartu Kredit"**. Dapatkah Anda melihat bahwa itu sangat spesifik? 
 
-Orang yang mencari dengan istilah ini lebih cenderung mengajukan kredit daripada mencari menggunakan kata kunci " Kartu kredit ". 
+Orang yang mencari dengan istilah ini lebih cenderung mengajukan kredit daripada mencari menggunakan kata kunci **" Kartu kredit "**. 
 
 Saat ini, Kata kunci ekor panjang sangat populer karena keyword long tail memiliki volume pencarian rendah tetapi tingkat konversinya sangat tinggi.
 
 ## Competitor Keywords ( Kata Kunci Pesaing )
 
-Mirip dengan Kata Kunci Merek, tetapi kata kunci yang mewakili Merek pesaing, yang sebagian besar digunakan untuk bersaing untuk pelanggan dari pesaing. Misalnya, XYZ Bank mungkin membeli kata kunci "Kartu Kredit Bank ABC" untuk mencuri pelanggan dari Bank ABC.
+Mirip dengan Kata Kunci Merek, tetapi kata kunci yang mewakili Merek pesaing, yang sebagian besar digunakan untuk bersaing untuk pelanggan dari pesaing. Misalnya, **XYZ Bank** mungkin mengambil kata kunci **"Kartu Kredit Bank ABC"** untuk mencuri pelanggan dari **Bank ABC**.
 
 ## Salah mengeja kata kunci ( typo )
 
