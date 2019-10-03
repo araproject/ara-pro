@@ -1,6 +1,6 @@
 ---
 date: 2019-10-04
-title: 'Seberapa penting link Internal dan link Eksternal ?'
+title: 'Seberapa penting link Internal dan Eksternal untuk SEO ?'
 template: post
 thumbnail: '../thumbnails/internal-link.png'
 slug: link-internal-dan-eksternal
