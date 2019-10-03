@@ -7,9 +7,8 @@ slug: google-adwords
 categories:
   - Tutorial
 tags:
-  - marketing 
+  - info
   - adwords
-  - tips
 ---
 
 ## Apa itu Google Adwords ?
