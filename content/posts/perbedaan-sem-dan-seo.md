@@ -7,8 +7,7 @@ slug: perbedaan-sem-dan-seo
 categories:
   - SEO
 tags:
-  - sem
-  - search engine marketing
+  - info
 ---
 
 Beberapa orang sering bingung dari kedua istilah Search Engine Optimization (SEO) dan Search Engine Marketing (SEM). Baik SEO dan SEM mereka sama-sama membantu untuk membuat peringkat situs web dalam hasil mesin pencari, tetapi pada kenyataannya SEO lebih dapat didefinisikan sebagai bagian dari SEM yang mencakup berbagai kategori.
