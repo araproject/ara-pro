@@ -7,14 +7,12 @@ slug: mengenal-command-git-dasar
 categories:
   - Code
 tags:
-  - Git
-  - Github
-  - Terminal
+  - info
 ---
 
 ## Apa itu git?
 
-Git adalah version control system dimana bisa mengingat setiap perubahan file. Git sangat efektif dan cepat untuk membantu kita khusunya dalam pembuatan projek yang besar dan dengan harga sangat murah yaitu gratis.
+**Git** adalah **version control system** dimana kita bisa mengingat setiap perubahan file. Git sangat efektif dan cepat untuk membantu developer untuk mengembangkan proyek atau software secara gratis.
 
 Sebelumnya dalam contoh berikut saya akan menggunakan Windows 10 pro dan penginstalannya dengan download file installernya (Installer latest version bisa kamu download di [sini](https://git-scm.com) ).
 
