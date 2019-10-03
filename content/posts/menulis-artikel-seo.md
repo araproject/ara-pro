@@ -6,9 +6,9 @@ thumbnail: '../thumbnails/writing.png'
 slug: menulis-artikel-seo
 categories:
   - SEO
+  - Tutorial
 tags:
-  - web
-  - tips
+  - optimasi
 ---
 
 Sebelum menulis artikel SEO, Anda terlebih dahulu harus memahami apa itu SEO. Saya menyarankan Anda untuk membaca sedikit artikel tentang [Seo Dasar : 17 Tips Optimasi Yang Wajib Diketahui Pemula](https://www.aradechoco.com/seo-dasar-untuk-pemula/). 
