@@ -7,8 +7,9 @@ slug: seo-on-page-dan-seo-off-page
 categories:
   - SEO
 tags:
-  - seo off page
-  - seo on page
+  - info
+  - off page
+  - on page
 ---
 
 Tanggal 27 september 2019 ini kemarin google berulang tahun dan [Google baru saja mengumumkan akan merilis pembaruan inti](https://webmasters.googleblog.com/2019/08/core-updates.html).
