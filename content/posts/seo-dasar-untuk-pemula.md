@@ -8,10 +8,7 @@ categories:
   - SEO
   - Popular
 tags:
-  - panduan
-  - tips
   - optimasi
-  - search engine
 ---
 
 Apakah Anda baru mengenal **SEO Search Engine Optimization** (optimasi mesin pencari) dan tidak benar-benar tau harus mulai dari mana? Jangan khawatir, bahkan dengan tips SEO dasar Anda dapat meningkatkan peringkat web Anda secara signifikan. Dibawah ini saya akan berbagi tips dan dasar dasar SEO untuk pemula.
