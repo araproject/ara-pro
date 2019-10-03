@@ -19,7 +19,7 @@ Forum-forum SEO di seluruh dunia menyarankan untuk melakukan [Optimasi SEO Off-p
 
 Sebelum membahas lebih mendalam, pertama-tama saya ingin Anda memahami apa itu Do Follow dan No Follow dan bagaimana mereka berhubungan dengan SEO Off-page.
 
-![](../images/nofollow-link.png)
+![](../thumbnails/nofollow-link.png)
 
 ## Apa itu Do Follow ?
 
@@ -71,7 +71,7 @@ Ini benar-benar tidak berharga untuk SEO, dan kita seharusnya tidak membuang wak
 
 Tetapi apakah Anda percaya bahwa sebagian besar Backlink paling alami di dunia ini adalah No Follow? Yang Anda lakukan dari Facebook, Twitter juga no follow.
 
-Pertanyaannya adalah, apakah Google tidak peduli sama sekali tentang Backlink tersebut, meskipun banyak backlink yang ditautkan dari situs web berkualitas ke situs web tujuanyang  berkualitas juga.
+Pertanyaannya adalah, apakah Google tidak peduli sama sekali tentang Backlink tersebut, meskipun banyak backlink yang ditautkan dari situs web berkualitas ke situs web tujuan yang  berkualitas juga.
 
 Saya juga belum tahu tentang yang itu.
 
