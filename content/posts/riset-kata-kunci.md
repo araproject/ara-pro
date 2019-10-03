@@ -7,9 +7,7 @@ slug: riset-kata-kunci
 categories:
   - SEO
 tags:
-  - tips
   - riset
-  - keyword
 ---
 
 Riset kata kunci adalah proses yang penting dalam SEO, seperti titik awal sebelum [menulis artikel](https://www.aradechoco.com/menulis-artikel-seo/) untuk situs web. 
