@@ -5,11 +5,9 @@ template: post
 thumbnail: '../thumbnails/redditicon.png'
 slug: cara-mengakses-reddit-yang-di-blokir
 categories:
-  - Code
+  - Tutorial
 tags:
-  - reddit
-  - internet
-  - cara
+  - info
 ---
 
 Mengakses [Reddit](https://www.reddit.com/) dari Indonesia bisa dengan VPN, bypass situs web yang diblokir melalui berkas hosts, atau memakai DNSCrypt.
