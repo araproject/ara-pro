@@ -7,8 +7,7 @@ slug: teknik-black-hat-seo
 categories:
   - SEO
 tags:
-  - black hat
-  - search engine
+  - info
 ---
 
 Mendapatkan peringkat di SERP teratas (Halaman Hasil Mesin Pencari) adalah kompetisi yang panjang. Dan di setiap kompetisi pasti ada yang bermain adil dan yang curang!. Di dunia SEO, saya menyebutnya **white hat** dan **black hat** SEO.
