@@ -8,8 +8,7 @@ categories:
   - SEO
   - Popular
 tags:
-  - google
-  - search engine
+  - optimasi
 ---
 
 Sebenarnya SEO tidak terlalu sulit bagi kebanyakan orang, termasuk pemula. Ada beberapa hal  yang harus diperhatikan agar SEO ini dapat mencapai hasil yang maksimum dan terarah. Terarah yang dimaksud disini adalah dapat tampil di halaman pertama Google dengan kata-kata kunci yang memang dibidik.
