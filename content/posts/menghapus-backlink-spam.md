@@ -8,26 +8,34 @@ categories:
   - SEO
   - Tutorial
 tags:
-  - search engine
-  - web
-  - backlink
+  - optimasi
 ---
 
-Saat melakukan optimasi SEO , banyak yang berlomba untuk mendapatkan lebih banyak backlink. Ini karena banyak backlink yang diharapkan dapat mendongkrak traffic yang banyak. Tetapi apakah dengan banyak backlink membuat web yang di bangun lebih baik? Jawabannya `belum tentu`. Dalam keadaan apa backlink dapat menjadi buruk untuk rank di pencarian Google, dan bagaimana mengatasi backlink yang tidak diinginkan?.
+Saat melakukan **optimasi SEO** , banyak yang berlomba untuk mendapatkan lebih banyak backlink. Ini karena banyak backlink yang diharapkan dapat mendongkrak traffic yang banyak. 
+
+Tetapi apakah dengan banyak backlink membuat web yang di bangun akan lebih baik?
+
+Jawabannya `belum tentu`. 
+
+Dalam keadaan apa backlink dapat menjadi buruk untuk rank di pencarian Google, dan bagaimana mengatasi backlink yang tidak diinginkan?.
 
 ## Peringkat dan backlink Google
 
-Tautan dari situs web tepercaya sangat penting di mata mesin pencari seperti Google. Misalnya, jika situs tepercaya di dunia Teknologi Informasi, seperti **Microsoft**, mengikuti tautan ke situs web "A", maka mesin pencari Google cenderung menganggap situs web itu penting. Akibatnya, ketika Anda mencari kata-kata yang terkait dengan perusahaan "A", Anda meningkatkan kemungkinan situs web perusahaan Anda akan muncul di halaman pertama.
+Tautan dari situs web **tepercaya** sangat penting di mata mesin pencari seperti Google. Misalnya, jika situs tepercaya di dunia Teknologi Informasi, seperti **Microsoft**, mengikuti tautan ke situs web "A", maka mesin pencari Google cenderung menganggap situs web itu penting. 
+
+Akibatnya, ketika Anda mencari kata-kata yang terkait dengan perusahaan "A", Anda meningkatkan kemungkinan situs web perusahaan Anda akan muncul di halaman pertama.
 
 Pada kenyataannya, tautan sering berasal dari situs yang jauh dari situs tepercaya. Misalnya, bagaimana jika situs perjudian menaruh tautan yang mencurigakan ke situs web "A"? Mesin pencari mempertanyakan kredibilitas situs web "A", dan sebagai hasilnya, peringkat halaman "A" cenderung menurun.
 
 ## Menghapus backlink spam yang tidak diinginkan
 
-Jika Anda berharap untuk menerima backlink dari situs web yang tidak diinginkan dan sangat memengaruhi keandalan situs web Anda, seperti dalam contoh di atas, bagaimana cara menyelesaikan masalah ini? Singkatnya, Anda dapat memberikan informasi backlink yang tidak diinginkan ke mesin pencari. Backlink yang tidak diinginkan disebut `Disavow File` dalam bahasa Inggris, atau daftar situs web yang ingin Anda blokir.
+Jika Anda berharap untuk menerima backlink dari situs web yang tidak diinginkan dan sangat memengaruhi keandalan situs web Anda, seperti dalam contoh di atas, bagaimana cara menyelesaikan masalah ini? 
+
+Singkatnya, Anda dapat memberikan informasi backlink yang tidak diinginkan ke mesin pencari. Backlink yang tidak diinginkan disebut `Disavow File` atau daftar situs web yang ingin Anda blokir.
 
 Jika Anda membuat File Penolakan dan mengirimkannya ke Google Search Console, mesin pencari tidak akan lagi mempertimbangkan tautan balik dari situs web itu.
 
-Berikut cara menemukan backlink spam yang dapat memengaruhi situs web target Anda, dan cara membuat File Disavow untuk memberi tahu mesin pencari.
+Berikut cara menemukan backlink spam yang dapat memengaruhi situs web target Anda, dan cara membuat **Disavow File** untuk memberi tahu mesin pencari.
 
 ### 1. Temukan link Spam
 
@@ -72,7 +80,9 @@ Setelah Anda membuat file terakhir, masuklah dengan akun Google dengan akses kon
 
 ### 4. Updating Reject File
 
-Saya membuat File Disavow, tetapi mungkin ada tautan spam baru yang ditambahkan. Atau bagaimana jika Anda secara tidak sengaja mengirimkan tautan ke File Disavow yang akan membantu Anda peringkat lebih tinggi? Caranya adalah dengan mengirimkan File Disavow baru. Ini karena File Penolakan yang baru dikirim menggantikan file yang lama.
+Saya membuat File Disavow, tetapi mungkin ada tautan spam baru yang ditambahkan. Atau bagaimana jika Anda secara tidak sengaja mengirimkan tautan ke File Disavow yang akan membantu Anda peringkat lebih tinggi?
+
+Caranya adalah dengan mengirimkan File Disavow baru. Ini karena File Penolakan yang baru dikirim menggantikan file yang lama.
 
 - Klik link ini https://www.google.com/webmasters/tools/disavow-links-main 
 - Klik Tolak Tautan/Reject Link untuk mengunduh Decline File yang sebelumnya dikirimkan.
@@ -93,9 +103,5 @@ Sayangnya, link spam yang tidak diinginkan adalah masalah konstan. Karena itu, s
 - [Apa itu backlink ?](https://www.aradechoco.com/apa-itu-backlink/) Mengapa penting untuk SEO ?
 - [Membangun Backlink melalui Wikipedia](https://www.aradechoco.com/backlink-melalui-wikipedia/) 
 - [Tanya Jawab tentang Optimasi SEO](https://www.aradechoco.com/seo-link-building/) - Link Building
-
-
-
-
 
 
