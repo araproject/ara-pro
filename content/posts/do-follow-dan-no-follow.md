@@ -7,8 +7,8 @@ slug: do-follow-dan-no-follow
 categories:
   - SEO
 tags:
-  - tips
-  - backlink
+  - optimasi
+  - off page
 ---
 
 Apakah Link No Follow mempengaruhi peringkat situs web dalam peringkat di hasil pencarian dan apakah Do Follow dan No Follow masih diperlukan untuk SEO?
