@@ -5,12 +5,10 @@ template: post
 thumbnail: '../thumbnails/gatsby.png'
 slug: membuat-blog-dengan-gatsby-dan-netlify
 categories:
-  - Code
+  - Tutorial
   - Popular
 tags:
   - gatsby
-  - react
-  - node
 ---
 
 ## Apa itu Gatsby?
