@@ -8,9 +8,9 @@ categories:
   - Tutorial
   - Code
 tags:
+  - info
   - gatsby
   - google adsense
-  - react
  
 ---
 
