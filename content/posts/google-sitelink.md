@@ -8,8 +8,7 @@ categories:
   - SEO
   - Tutorial
 tags:
-  - google
-  - tips
+  - info
 ---
 
 **Google Sitelink** adalah salah satu indikator apakah kualitas web tersebut cukup baik di mata Google. 
@@ -136,7 +135,6 @@ Jika suatu hari dia menyukai situs Anda, **Sitelink** akan ditampilkan sendiri s
 
 ## Terkait
 
-- [SEO Untuk Pemula](https://www.aradechoco.com/SEO-untuk-pemula/) - Langkah Awal Untuk Naik Peringkat Google 
 - [Cara menulis artikel SEO agar tampil di halaman pertama Google](https://www.aradechoco.com/menulis-artikel-seo/)
 - [Cara Menempatkan Keyword yang SEO pada Postingan blog](https://www.aradechoco.com/menempatkan-keyword-seo/)
 - [Optimasi SEO dengan Schema Markup](https://www.aradechoco.com/optimasi-schema-markup/)
