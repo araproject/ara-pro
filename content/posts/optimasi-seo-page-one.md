@@ -8,7 +8,7 @@ categories:
   - SEO
 tags:
   - optimasi
-  - tips
+  - one page
 ---
 
 Sudah banyak orang yang terbiasa melakukan **Optimasi SEO** sesuai dengan semua prinsip dan meniru teknik-teknik para master dengan menggunakan tools yang sama, atau mungkin telah membaca [Daftar Panduan SEO](https://www.aradechoco.com/categories/seo/) dan mencoba untuk mengikuti semuanya, Tapi masih belum dapat membuat website tersebut tampil di halaman pertama Google.
