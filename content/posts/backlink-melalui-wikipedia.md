@@ -7,8 +7,8 @@ slug: backlink-melalui-wikipedia
 categories:
   - SEO
 tags:
-  - link building
-  - backlink
+  - optimasi
+  - off page
 ---
 
 Untuk mendapat [Peringkat tinggi](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/) di Google, Anda perlu memahami algoritma Google. Saat ini, Google memaparkan situs web yang sangat tepercaya di bagian atas hasil pencarian. Kriteria di mana mesin pencari Google menentukan kepercayaan situs web tertentu adalah jumlah tautan yang diterima dari situs web tepercaya lainnya.
