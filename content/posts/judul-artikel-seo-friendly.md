@@ -6,19 +6,19 @@ thumbnail: '../thumbnails/title-tag-icon.png'
 slug: judul-artikel-seo-friendly
 categories:
   - SEO
-  - Tutorail
+  - Tutorial
 tags:
   - tips
-  - title tag
+  - one page
 ---
 
-Title tag atau Tag judul biasanya digunakan untuk menggambarkan judul halaman suatu halaman web. Yang akan ditampilkan di bagian atas Browser Web, yang dikenal sebagai prioritas utama dalam SEO (kedua setelah Nama domain, URL), karena hasil pencarian akan menampilkan konten Di tag judul. 
+**Title tag** atau **Tag judul** biasanya digunakan untuk menggambarkan judul halaman suatu halaman web. Yang akan ditampilkan di bagian atas Browser Web, yang dikenal sebagai prioritas utama dalam SEO (kedua setelah Nama domain, URL), karena hasil pencarian akan menampilkan konten Di tag judul. 
 
 Jika di perhatikan dengan baik, Anda akan menemukan bahwa setiap web yang menduduki peringkat teratas merupakan hasil dari mesin pencari dengan kata kunci di dalam tag judul. 
 
 ![](../thumbnails/tiitle-tag-seo.jpg)
 
-Tentu saja, kata kunci yang ada di konten juga penting. Tetapi akan lebih baik jika kita mementingkan `title tag` Dengan mempertimbangkannya sebagai berikut.
+Tentu saja, [kata kunci](https://www.aradechoco.com/jenis-kata-kunci/) yang ada di konten juga penting. Tetapi akan lebih baik jika kita mementingkan `title tag` Dengan mempertimbangkannya sebagai berikut.
 
 - Kata kunci yang ingin dibidik atau Kata kunci yang mewakili situs web harus dalam tag Judul.
 - Panjangnya tidak boleh lebih dari `60 karakter` atau sekitar `7 - 10 kata`.
@@ -29,29 +29,6 @@ Tentu saja, kata kunci yang ada di konten juga penting. Tetapi akan lebih baik j
 - Urutan kata kunci itu penting, sebagai contoh, `Honda CBR 150` akan memberikan hasil yang lebih baik daripada `CBR 150 Honda` karena dengan keakraban bahwa kita cenderung mencari dengan merek kendaraan terlebih dahulu. 
 
 Mungkin sampai di sini dulu tentang cara menulis title tag / tag judul artikel yang baik untuk SEO, semoga artikel ini memberikan manfaat untuk kita semua.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #Terkait
 
