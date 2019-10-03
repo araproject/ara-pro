@@ -8,8 +8,7 @@ categories:
   - Tools
   - Tutorial
 tags:
-  - google analytics
-  - tips
+  - info
 ---
 
 Apa itu Google Analytics ?
@@ -137,7 +136,7 @@ Anda mungkin ingin memeriksa Halaman Keluar juga **(di sebelah kiri di bawah PER
 
 ## Habiskan Waktu di GA untuk Memaksimalkannya
 
-Google Analytics penuh dengan informasi yang dapat Anda gunakan untuk meningkatkan situs web untuk konsumen Anda. Mulailah secara perlahan dengan itu, sehingga Anda dapat mencerna semua data. Ketika sudah merasa terbiasa, Anda dapat beralih ke laporan yang lebih rinci. Google Analytics akan memperdalam pemahaman tentang apa yang dilakukan orang di situs Anda, dan apa yang dilakukan situs web Anda untuk orang-orang. Sebelum menyadarinya, Anda akan memahami mengapa GA adalah alat yang paling penting bagi siapa saja yang tertarik untuk menjalankan digital marketing campaign yang sukses. 
+Google Analytics penuh dengan informasi yang dapat Anda gunakan untuk meningkatkan situs web untuk konsumen Anda. Mulailah secara perlahan dengan itu, sehingga Anda dapat mencerna semua data. Ketika sudah merasa terbiasa, Anda dapat beralih ke laporan yang lebih rinci. Google Analytics akan memperdalam pemahaman tentang apa yang dilakukan orang di situs Anda, dan apa yang dilakukan situs web Anda untuk orang-orang. Sebelum menyadarinya, Anda akan memahami mengapa GA adalah alat yang paling penting bagi siapa saja yang tertarik untuk menjalankan kampanye digital marketing yang sukses. 
 
 **Panduan SEO dasar**
 
