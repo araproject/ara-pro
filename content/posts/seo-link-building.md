@@ -8,8 +8,7 @@ categories:
   - SEO
 tags:
   - FAQ
-  - link building
-  - backlink
+  - off page
 ---
 
 ## Search Engine Optimization (SEO) 
