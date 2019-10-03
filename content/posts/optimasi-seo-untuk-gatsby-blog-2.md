@@ -9,8 +9,8 @@ categories:
   - Code
 tags:
   - gatsby
-  - google
-  - search engine
+  - optimasi
+
 ---
 
 Pada artikel [sebelumnya](https://www.aradechoco.com/optimasi-seo-untuk-gatsby-blog-part-1/), Anda belajar tentang sitemap dan robots.txt, yang penting untuk SEO. Dalam artikel ini, saya akan menunjukkan kepada Anda bagaimana membantu crawler lebih memahami situs Web kami dan alat untuk mengujinya. Sekali lagi, mesin pencari ditulis dengan asumsi Google. Bahkan, dokumen panduan SEO dari Google sangat bagus sehingga saya hampir memindahkannya.
