@@ -8,7 +8,7 @@ categories:
   - SEO
   - Tutorial
 tags:
-  - tips
+  - optimasi
   - one page
 ---
 
@@ -30,7 +30,7 @@ Tentu saja, [kata kunci](https://www.aradechoco.com/jenis-kata-kunci/) yang ada 
 
 Mungkin sampai di sini dulu tentang cara menulis title tag / tag judul artikel yang baik untuk SEO, semoga artikel ini memberikan manfaat untuk kita semua.
 
-#Terkait
+## Terkait
 
 - [Cara Menempatkan Keyword yang SEO pada Postingan blog](https://www.aradechoco.com/menempatkan-keyword-seo/)
 - [Cara Riset Keyword : Long Tail dan Short Tail untuk Pemula](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/)
