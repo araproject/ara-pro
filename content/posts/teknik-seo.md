@@ -8,10 +8,7 @@ categories:
   - SEO
   - Popular
 tags:
-  - panduan
-  - tips
   - optimasi
-  - search engine
 ---
 
 **Search Engine Optimization** (SEO) bukanlah proyek satu kali di kerjakan.
