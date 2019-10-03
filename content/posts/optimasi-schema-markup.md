@@ -8,7 +8,6 @@ categories:
   - SEO
 tags:
   - optimasi
-  - schema markup
 ---
 
 Mengikuti perubahan dalam algoritma pencarian Google itu tidak mudah. Karena algoritma pencarian Google telah dimodifikasi, diperbarui, dan ditingkatkan selama puluhan kali setiap tahun. 
