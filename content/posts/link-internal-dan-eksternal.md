@@ -38,7 +38,7 @@ Misalnya [Perbedaan antara SEO On-Page dan SEO Off-Page](https://www.aradechoco.
 
 **Link eksternal** adalah tautan yang digunakan untuk menautkan informasi dari luar situs web. Biasanya dipakai di akhir, Untuk menautkan link sumber atau menyediakan referensi kepada pengunjung.. 
 
-Kualitas dan kuantitas link eksternal itu penting. Menambahkan tautan situs web yang dapat dipercaya dan informatif dan berkualitas tinggi ke halaman Anda akan membantu meningkatkan kredibilitas situs web Anda, sedangkan menambahkan tautan berkualitas buruk akan merusak situs Anda.
+Kualitas dan kuantitas link eksternal itu penting. Menambahkan tautan ke situs web yang dapat dipercaya, informatif dan berkualitas tinggi akan membantu meningkatkan kredibilitas situs web Anda, sedangkan menambahkan tautan berkualitas buruk akan merusak situs Anda.
 
 Menautkan ke situs web luar tidak akan merusak peringkat halaman Anda selama konten itu relevan dan berasal dari situs otoritatif.
 
