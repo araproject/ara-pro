@@ -8,7 +8,6 @@ categories:
   - SEO
 tags:
   - optimasi
-  - meta tag
 ---
 
 Saat Anda selesai menulis artikel di blog, pasti Anda akan memeriksa kembali apakah ada kesalahan ketik dan memeriksa apakah gambar atau formatnya sudah benar jika di buka melaluidi PC dan seluler.
