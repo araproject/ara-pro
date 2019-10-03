@@ -8,7 +8,7 @@ categories:
   - SEO
   - Tutorial
 tags:
-  - web
+
   - riset
 ---
 
