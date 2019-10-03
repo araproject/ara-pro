@@ -8,8 +8,7 @@ categories:
   - SEO
   - Tools
 tags:
-  - tools seo
-  - search engine 
+  - info
 ---
 
 Jika ingin memulai belajar tentang SEO atau ingin mencapai hasil yang lebih baik dengan biaya yang tidak banyak untuk memaksimalkan website atau blog anda agar bisa tampil di halam pertama pencarian google, berikut ini adalah 25 tools SEO gratis terbaik untuk digunakan.
