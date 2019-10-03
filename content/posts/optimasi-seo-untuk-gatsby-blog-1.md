@@ -9,8 +9,7 @@ categories:
   - Code
 tags:
   - gatsby
-  - google
-  - search engine
+  - optimasi
 ---
 
 Jika membuat sebuah situs web atau blog, pasti menginginkan blog Anda muncul di halaman pertama untuk hasil pencarian google. Saya sudah menulis blog untuk beberapa waktu, tetapi saya baru tahu dan mulai menerapkannya di blog saya.
