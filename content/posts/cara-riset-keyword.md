@@ -10,7 +10,6 @@ categories:
   - Popular
 tags:
   - riset
-  - search engine
 ---
 
 Tahun demi tahun, algoritma pencarian Google menjadi semakin kompleks. Akibatnya, spesialis [optimisasi SEO](https://www.aradechoco.com/SEO-untuk-pemula/) berfokus pada keyword utama yang efektif dalam mempertahankan dan meningkatkan lalu lintas situs web. Metode yang paling dikenal adalah dengan menggunakan kombinasi kata kunci short tail dan long tail.
