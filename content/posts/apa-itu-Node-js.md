@@ -7,8 +7,7 @@ slug: apa-itu-Node-js
 categories:
   - Code
 tags:
-  - Node.js
-  - Javascript
+  - info
 ---
 ## Apa itu Node.js ?
 
