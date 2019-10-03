@@ -7,9 +7,10 @@ slug: teknik-white-hat-seo
 categories:
   - SEO
 tags:
-  - white hat
-  - search engine
-  - tips
+  - info
+  - riset
+  - one page
+  - off page
 ---
 
 Banyak webmaster mendambakan kesuksesan instan yang mengarahkan mereka untuk mengikuti teknik SEO yang tidak etis yang disebut [Teknik Black Hat SEO](https://www.aradechoco.com/teknik-black-hat-seo/). Meskipun pelaksanaan teknik-teknik tersebut dapat membantu peringkat situs web lebih tinggi dari pesaing mereka di SERP, tapi hanya bertahan sementara.
