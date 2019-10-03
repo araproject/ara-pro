@@ -7,18 +7,17 @@ slug: jenis-kata-kunci
 categories:
   - SEO
 tags:
-  - tips
+  - optimasi
   - riset
-  - keyword
 ---
 
-Dalam Marketing di Search Engine, yang paling penting adalah **Keyword**. Jika kita memilih Keyword dengan baik, maka peluang untuk memotivasi pelanggan membeli suatu produk atau layanan akan semakin meningkat. 
+Dalam **Dunia Marketing** di Search Engine, hal yang paling penting adalah **Keyword**. Jika kita memilih Keyword dengan baik, maka peluang untuk memotivasi pelanggan membeli suatu produk atau layanan akan semakin meningkat. 
 
 Orang-orang di industri cenderung mengklasifikasikan Kata Kunci ke dalam kelompok sehingga mereka dapat bekerja dengan mudah. 
 
 ![](../images/jenis-kata-kunci.png)
 
-Hari ini saya ingin membahas 5 jenis kata kunci utama yang umum digunakan: 
+Pada kesempatan kali ini saya ingin membahas 5 jenis kata kunci utama yang umum digunakan: 
 
 - Kata Kunci Umum
 - Kata Kunci Merek 
@@ -58,7 +57,7 @@ Saat ini, Kata kunci ekor panjang sangat populer karena keyword long tail memili
 
 Mirip dengan Kata Kunci Merek, tetapi kata kunci yang mewakili Merek pesaing, yang sebagian besar digunakan untuk bersaing untuk pelanggan dari pesaing. Misalnya, **XYZ Bank** mungkin mengambil kata kunci **"Kartu Kredit Bank ABC"** untuk mencuri pelanggan dari **Bank ABC**.
 
-## Salah mengeja kata kunci ( typo )
+## Typo Keyword ( Salah mengeja kata kunci )
 
 Berdasarkan nama, ini adalah kata kunci umum. Hanya pencari yang dapat mengetik kata dengan salah. Mungkin karena kesalahan ejaan atau lupa mengubah bahasa. 
 
