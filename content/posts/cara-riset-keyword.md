@@ -10,23 +10,28 @@ categories:
   - Popular
 tags:
   - riset
+  - one page
 ---
 
-Tahun demi tahun, algoritma pencarian Google menjadi semakin kompleks. Akibatnya, spesialis [optimisasi SEO](https://www.aradechoco.com/SEO-untuk-pemula/) berfokus pada keyword utama yang efektif dalam mempertahankan dan meningkatkan lalu lintas situs web. Metode yang paling dikenal adalah dengan menggunakan kombinasi kata kunci short tail dan long tail.
+Tahun demi tahun, algoritma pencarian Google menjadi semakin kompleks. Akibatnya, spesialis [optimisasi SEO](https://www.aradechoco.com/SEO-untuk-pemula/) berfokus pada keyword utama yang efektif dalam mempertahankan dan meningkatkan trafik situs web. Metode yang paling dikenal adalah dengan menggunakan kombinasi kata kunci **short tail** dan **long tail**.
 
-Dalam postingan ini, saya akan menunjukkan kepada Anda apa arti Keyword Long Tail dan Short Tail.
+Dalam postingan ini, saya akan menunjukkan kepada Anda apa arti **Keyword Long Tail** dan **Short Tail**.
 
 ## Apa itu Keyword Long Tail?
 
-**Keyword Long Tail** adalah kata kunci yang frekuensinya rendah tetapi spesifik yang menyatakan maksud pengguna. Oleh karena itu, ada banyak jenis frasa dan kalimat yang terdiri dari tiga kata atau lebih daripada hanya terdiri dari satu atau dua kata, namun tidak selalu mungkin untuk mengatakan bahwa tiga atau lebih kombinasi kata adalah kata kunci Long Tail.
+**Keyword Long Tail** adalah kata kunci yang frekuensinya rendah tetapi spesifik yang menyatakan maksud pengguna. 
+
+Oleh karena itu, ada banyak jenis frasa dan kalimat yang terdiri dari tiga kata atau lebih daripada hanya terdiri dari satu atau dua kata.
+
+Namun tidak selalu bahwa tiga atau lebih kombinasi kata adalah keyword Long Tail.
 
 ### Contoh Keyword Long Tail
 
 ![](../images/long-tail.png)
 
-Keyword di paling kanan grafik adalah kata kunci Long Tail. **Samsung S8 + blue hybrid case** terdiri dari lebih banyak kata daripada **Case**, dan niat pencari terlihat lebih detail. 
+Keyword paling kanan pada grafik di atas adalah kata kunci Long Tail. **Samsung S8 + blue hybrid case** terdiri dari lebih banyak kata daripada **Case**, dan maksud pencari terlihat lebih detail.  
 
-Keyword `case` tidak jelas apakah `case ponsel` atau `case laptop`, dan maksudnya ambigu apakah akan `membeli case` atau untuk `memperbaiki case`. Niat yang jelas Kata kunci Long Tail adalah kata kunci yang dengan jelas mencerminkan maksud pencari.
+Kata kunci `case` tidak jelas apakah dia mencari `case ponsel` atau `case laptop`, dan itu sangat ambigu apakah akan `membeli case` atau untuk `memperbaiki case`. Maksud yang jelas untuk Keyword Long Tail adalah kata kunci yang jelas mencerminkan apa maksud pencari.
 
 ### Mengapa Keyword Long Tail?
 
@@ -56,13 +61,13 @@ Dengan kata lain, orang yang mencari kata kunci `Samsung S8 + blue hybrid case` 
 
 Dalam grafik di atas,  keyword short tail adalah kata kunci utama yang biasanya hanya terdiri dari satu atau dua kata. 
 
-Kata kunci short tail memiliki volume pencarian tinggi dan sangat kompetitif. Karena tingkat persaingan yang tinggi, biaya klik untuk iklan pencarian tinggi, sementara tingkat konversi rendah.
+Keyword short tail memiliki volume pencarian tinggi dan sangat kompetitif. Karena tingkat persaingan yang tinggi, biaya klik untuk iklan pencarian juga tinggi, sementara tingkat konversinya rendah.
 
 ### Mengapa Anda memerlukan keyword short tail ?
 
 Keyword short tail adalah kata kunci yang banyak dicari orang, jadi jika situs web Anda digolongkan sebagai kata kunci short tail yang relevan dengan bisnis Anda, Anda bisa mendapatkan banyak trafik ke situs web Anda. 
 
-Dengan meningkatnya kunjungan ke situs web, itu berarti perusahaan atau merek Anda dilihat dan dikenali oleh lebih banyak orang, sehingga memiliki kata kunci singkat khusus bisnis dapat meningkatkan trafik.
+Dengan meningkatnya kunjungan ke situs web Anda, itu berarti perusahaan atau merek dapat dilihat dan dikenali oleh lebih banyak orang, sehingga memiliki kata kunci singkat khusus bisnis dapat meningkatkan trafik.
 
 ## Pencarian Keyword Short Tail / Long Tail
 
