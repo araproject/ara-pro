@@ -13,9 +13,11 @@ tags:
   - one page
 ---
 
-Tahun demi tahun, algoritma pencarian Google menjadi semakin kompleks. Akibatnya, spesialis [optimisasi SEO](https://www.aradechoco.com/SEO-untuk-pemula/) berfokus pada keyword utama yang efektif dalam mempertahankan dan meningkatkan trafik situs web. Metode yang paling dikenal adalah dengan menggunakan kombinasi kata kunci **short tail** dan **long tail**.
+Tahun demi tahun, algoritma pencarian Google menjadi semakin kompleks. Akibatnya, spesialis [optimisasi SEO](https://www.aradechoco.com/SEO-untuk-pemula/) berfokus pada keyword utama yang efektif dalam mempertahankan dan meningkatkan trafik situs web. 
 
-Dalam postingan kali ini, saya akan menunjukkan apa arti **Keyword Long Tail** dan **Short Tail**. 
+Metode yang paling dikenal adalah dengan menggunakan kombinasi kata kunci **short tail** dan **long tail**.
+
+Dalam postingan kali ini, saya akan menunjukkan cara rist **Keyword Long Tail** dan **Short Tail**. 
 
 Tapi sebelum itu, saya sarankan untuk mengetahui [Jenis - jenis Kata kunci yang baik untuk SEO](https://www.aradechoco.com/jenis-kata-kunci/) terlebih dahulu.
 
@@ -127,6 +129,7 @@ Selamat melakukan riset!
 
 ## Terkait
 
+- [Mengapa Riset Kata kunci itu penting untuk SEO ?](https://www.aradechoco.com/riset-kata-kunci/)
 - [5 Jenis Kata kunci SEO Yang Harus Anda Ketahui](https://www.aradechoco.com/jenis-kata-kunci/)
 - [SEO Untuk Pemula](https://www.aradechoco.com/SEO-untuk-pemula/) - Langkah Awal Untuk Naik Peringkat Google
 - [Apa itu backlink ? Mengapa penting untuk SEO ?](https://www.aradechoco.com/apa-itu-backlink/)
