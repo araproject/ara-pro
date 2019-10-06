@@ -8,28 +8,39 @@ categories:
   - SEO
 tags:
   - info
+  - optimasi
   - riset
   - one page
   - off page
 ---
 
-Banyak webmaster mendambakan kesuksesan instan yang mengarahkan mereka untuk mengikuti teknik SEO yang tidak etis yang disebut [Teknik Black Hat SEO](https://www.aradechoco.com/teknik-black-hat-seo/). Meskipun pelaksanaan teknik-teknik tersebut dapat membantu peringkat situs web lebih tinggi dari pesaing mereka di SERP, tapi hanya bertahan sementara.
+Banyak webmaster mendambakan kesuksesan instan yang mengarahkan mereka untuk mengikuti teknik SEO yang tidak etis yang disebut [Teknik Black Hat SEO](https://www.aradechoco.com/teknik-black-hat-seo/). 
 
-Bot mesin pencari terus merayapi situs web dan sekali situs black hat berada di bawah radar mereka, hasilnya akan menjadi de-rangking dan de-indeks site-wide. Jadi, mengikuti teknik black hat dapat menghapus seluruh situs web Anda dari Google. Untuk menghindari risiko itu, Anda harus mengandalkan teknik SEO etis (juga disebut teknik White Hat SEO) untuk mencapai peringkat SERP yang lebih tinggi dan untuk mengungguli pesaing Anda.
+Meskipun pelaksanaan teknik-teknik tersebut dapat membantu peringkat situs web lebih tinggi dari pesaing mereka di SERP, tapi hanya bertahan sementara.
+
+Bot mesin pencari terus merayapi situs web dan sekali situs black hat berada di bawah radar mereka, hasilnya akan menjadi de-rangking dan de-indeks site-wide. 
+
+Jadi, mengikuti teknik black hat dapat menghapus seluruh situs web Anda dari Google. Untuk menghindari risiko itu, Anda harus mengandalkan teknik SEO etis (juga disebut teknik White Hat SEO) untuk mencapai peringkat SERP yang lebih tinggi dan untuk mengungguli pesaing Anda.
 
 ## Apa itu White Hat SEO?
 
-Mengikuti strategi SEO resmi Google untuk meningkatkan visibilitas dan peringkat online Anda disebut White Hat SEO. Dasar dari setiap pedoman resmi Google adalah sederhana, 'ingat pengguna'. Hampir setiap bulan, Google meluncurkan pembaruan baru yang bertujuan untuk meningkatkan kualitas pencarian untuk memberikan pengguna hasil yang lebih baik dan akurat sesuai dengan permintaan pencarian mereka.
+Mengikuti strategi SEO resmi Google untuk meningkatkan visibilitas dan peringkat online Anda disebut White Hat SEO. Dasar dari setiap pedoman resmi Google adalah sederhana, 'ingat pengguna'. 
 
-Namun, menggunakan teknik SEO white hat dapat menjadi sulit untuk peringkat tinggi karena situs web lain mungkin menargetkan kata kunci yang sama seperti Anda mengoptimalkan konten mereka. Kita semua tahu bahwa Google selalu memberi peringkat konten yang lebih baik pada SERP, jadi, bagaimana Anda dapat memberi tahu Google bahwa konten Anda adalah yang lebih baik?
+Hampir setiap bulan, Google meluncurkan pembaruan baru yang bertujuan untuk meningkatkan kualitas pencarian untuk memberikan pengguna hasil yang lebih baik dan akurat sesuai dengan permintaan pencarian mereka.
 
-Pada artikel ini, saya akan berbagi 4 teknik white hat SEO paling populer untuk mengungguli pesaing Anda di Google.
+Namun, menggunakan teknik SEO white hat dapat menjadi sulit untuk peringkat tinggi karena situs web lain mungkin menargetkan kata kunci yang sama seperti Anda mengoptimalkan konten mereka. 
 
-## Teknik White Hat SEO No. 1: Riset Keyword
+Kita semua tahu bahwa Google selalu memberi peringkat konten yang lebih baik pada SERP, jadi, bagaimana Anda dapat memberi tahu Google bahwa konten Anda adalah yang lebih baik?
+
+Pada artikel ini, saya akan berbagi **beberapa teknik white hat SEO paling populer** untuk mengungguli pesaing Anda di Google.
+
+## Riset Keyword
 
 #### Apa itu riset kata kunci?
 
-Proses pencarian keyword yang relevan dengan volume pencarian tinggi dan persaingan yang lebih rendah, dan menambahkannya ke database kata kunci atau daftar kata kunci target Anda, disebut riset keyword / kata kunci. Ini adalah komponen mendasar untuk membuat mesin pencari situs web jadi ramah, dan menargetkan kata kunci yang tepat dapat meningkatkan peringkat Anda di SERPs.
+Proses pencarian keyword yang relevan dengan volume pencarian tinggi dan persaingan yang lebih rendah, dan menambahkannya ke database kata kunci atau daftar kata kunci target Anda, disebut riset keyword / kata kunci. 
+
+Ini adalah komponen mendasar untuk membuat mesin pencari situs web jadi ramah, dan menargetkan kata kunci yang tepat dapat meningkatkan peringkat Anda di SERPs.
 
 #### Bagaimana cara melakukan riset keyword?
 
@@ -41,7 +52,9 @@ Namun, pesaing Anda pasti memiliki cara dan tools yang berbeda dan mungkin Tools
 
 ## Riset Keyword Berdasarkan Intent Pengguna
 
-Melakukan riset kata kunci berdasarkan niat pengguna dapat meningkatkan peluang peringkat Anda bersama dengan tingkat konversi saat Anda menargetkan pengguna yang tepat. Karena itu, Anda harus mengidentifikasi maksud pengguna di balik permintaan pencarian dan mengoptimalkan konten Anda.
+Melakukan riset kata kunci berdasarkan niat pengguna dapat meningkatkan peluang peringkat Anda bersama dengan tingkat konversi saat Anda menargetkan pengguna yang tepat. 
+
+Karena itu, Anda harus mengidentifikasi maksud pengguna di balik permintaan pencarian dan mengoptimalkan konten Anda.
 
 Salah satu cara untuk mengidentifikasi maksud pencarian pengguna adalah melalui Google. Anda dapat memasukkan kueri apa pun di kolom pencarian dan fitur saran otomatis Google akan memberi Anda pertanyaan terkait. Pertanyaan ini didasarkan pada apa yang dicari orang di Google.
 
@@ -60,27 +73,39 @@ Setelah Anda mengambil daftar kata kunci pesaing Anda, penelitian kata kunci And
 
 Setelah Anda membuat konten yang menargetkan kata kunci pesaing Anda, Anda dapat menggunakan beberapa metode membangun backlink untuk mengungguli pesaing Anda. Dan jangan khawatir, 'mencuri' backlink pesaing Anda bukanlah teknik Black hat SEO; ini hanya teknik smart white hat SEO.
 
-## Teknik White Hat SEO No. 2: Desain & Navigasi Situs Web yang Disempurnakan
+## Desain & Navigasi Situs Web yang Disempurnakan
 
-Situs web Anda harus memiliki desain yang mudah dinavigasi. Tidak hanya meningkatkan UX (Pengalaman Pengguna), tetapi juga meningkatkan peringkat situs web Anda. Google menggunakan beberapa faktor dan juga sinyal pengguna untuk memberi peringkat situs web. Jika situs web Anda memiliki desain dan navigasi yang buruk, pengguna akan dengan cepat meninggalkan situs Anda yang meningkatkan `bounce rate`.
+Situs web Anda harus memiliki desain yang mudah dinavigasi. Tidak hanya meningkatkan UX (Pengalaman Pengguna), tetapi juga meningkatkan peringkat situs web Anda. Google menggunakan beberapa faktor dan juga sinyal pengguna untuk memberi peringkat situs web. 
+
+Jika situs web Anda memiliki desain dan navigasi yang buruk, pengguna akan dengan cepat meninggalkan situs Anda yang meningkatkan `bounce rate`.
 
 Tingkat bounce rate yang sangat tinggi adalah sinyal negatif SEO dan karenanya akan mempengaruhi peringkat Anda secara negatif. Oleh karena itu, pastikan situs web Anda dirancang dengan baik dengan navigasi yang **User Friendly**, untuk memastikan bahwa pengguna akan tinggal lebih lama di situs web Anda.
 
-Kriteria lain dari desain situs web yang baik adalah rasio kontras warnanya. Rasio kontras warna yang baik memastikan bahwa situs Anda mudah dibaca untuk pengguna, meningkatkan UX situs web Anda. Ada beberapa alat di internet yang dapat membantu Anda [mengoptimalkan rasio kontras warna situs web Anda](https://developers.google.com/web/tools/lighthouse/) .
+Kriteria lain dari desain situs web yang baik adalah rasio kontras warnanya. Rasio kontras warna yang baik memastikan bahwa situs Anda mudah dibaca untuk pengguna, meningkatkan UX situs web Anda. 
 
-## Teknik White Hat SEO No. 3: Buat Konten Berkualitas
+Ada beberapa alat di internet yang dapat membantu Anda [mengoptimalkan rasio kontras warna situs web Anda](https://developers.google.com/web/tools/lighthouse/) .
 
-Membuat konten yang berkualitas dan unik adalah strategi yang tidak pernah menua dalam SEO. Baik orang dan mesin pencari lebih suka konten yang memberikan nilai unik. Saat Anda membuat konten, Anda harus menganalisis apakah dan sejauh mana pesaing Anda sudah membahas topik tersebut. Sangat membantu untuk mempelajari pendekatan mereka dan untuk menyusun daftar aspek yang belum mereka bahas dalam posting mereka tentang topik yang sama.
+## Buat Konten Berkualitas
 
-Setelah menganalisis konten pesaing Anda, Anda dapat membuat konten yang mencakup semuanya - area yang dicakup pesaing Anda serta informasi tambahan. Dengan cara ini, Anda dapat membuat nilai lebih bagi pengguna Anda daripada pesaing Anda.
+[Membuat konten yang berkualitas dan unik](https://www.aradechoco.com/menulis-artikel-seo/) adalah strategi yang tidak pernah menua dalam SEO. Baik orang dan mesin pencari lebih suka konten yang memberikan nilai unik. 
 
-## Teknik White Hat SEO No. 4: Link Building 
+[Saat membuat konten](https://www.aradechoco.com/judul-artikel-seo-friendly/), Anda harus menganalisis apakah dan sejauh mana pesaing Anda sudah membahas topik tersebut. Sangat membantu untuk mempelajari pendekatan mereka dan untuk menyusun daftar aspek yang belum mereka bahas dalam posting mereka tentang topik yang sama.
 
-[Link Building](https://www.aradechoco.com/seo-link-building/) adalah salah satu teknik white hat SEO paling kuat dan dapat mengarahkan banyak sekali lalu lintas ke domain Anda sekaligus meningkatkan kredibilitas dan otoritasnya. Hampir setiap situs web yang mendapat peringkat di bagian atas hasil pencarian memiliki jumlah tautan yang layak, dan ini menunjukkan kepada Google bahwa situs web tersebut kredibel dan harus berkualitas tinggi. 
+Setelah menganalisis konten pesaing, Anda dapat membuat konten yang mencakup semuanya - area yang dicakup pesaing Anda serta informasi tambahan. Dengan cara ini, Anda dapat membuat nilai lebih bagi pengguna daripada pesaing Anda.
+
+## Link Building 
+
+[Link Building](https://www.aradechoco.com/seo-link-building/) adalah salah satu teknik white hat SEO paling kuat dan dapat mengarahkan banyak sekali lalu lintas ke domain Anda sekaligus meningkatkan kredibilitas dan otoritasnya. 
+
+Hampir setiap situs web yang mendapat peringkat di bagian atas hasil pencarian memiliki jumlah tautan yang layak, dan ini menunjukkan kepada Google bahwa situs web tersebut kredibel dan harus berkualitas tinggi. 
 
 Meskipun backlink adalah bagian yang sangat penting dari SEO, Anda tidak boleh **membeli backlink** untuk meningkatkan peringkat Google Anda. `Membeli backlink` adalah teknik black hat SEO dan dapat membuat Anda dihukum oleh Google .
 
-Sebaliknya, Anda harus membangun link secara alami. Ada beberapa [metode membangun backlink](https://www.aradechoco.com/apa-itu-backlink/) untuk melakukannya. Misalnya, Anda dapat mendekati situs web untuk peluang membangun tautan melalui posting di buku tamu ( Guest Post ). Namun, pastikan untuk hanya mencari backlink dari situs web berkualitas tinggi. Tautan dari situs web spam benar-benar dapat membahayakan peringkat SEO Anda.
+Sebaliknya, Anda harus membangun link secara alami. Ada beberapa [metode membangun backlink](https://www.aradechoco.com/apa-itu-backlink/) untuk melakukannya. 
+
+Misalnya, Anda dapat mendekati situs web yang mempunyai otoritas domain yang tinggi untuk membangun tautan melalui [Guest Blogging](https://www.aradechoco.com/guest-blog-seo/) atau menjadi penulis tamu. 
+
+Namun, pastikan untuk hanya mencari backlink dari situs web berkualitas tinggi dan relevan dengan situs Anda. Karena, tautan dari situs web spam dapat membahayakan peringkat SEO Anda.
 
 ### Teliti Backlink Pesaing Anda
 
@@ -90,7 +115,7 @@ Sama seperti kata kunci, Anda dapat `meniru` backlink pesaing juga. Anda dapat m
 
 Setelah Anda mengumpulkan lebih banyak informasi tentang domain-domain yang memiliki link ke pesaing Anda, Anda dapat mendekati situs web tersebut untuk guset post / postingan buku tamu dan peluang tautan lainnya.
 
-## Teknik White Hat SEO Luangkan Waktu
+## Luangkan Waktu
 
 Teknik / strategi White Hat SEO tidak akan memberikan kesuksesan instan. Diperlukan waktu (sekitar sebulan) bagi situs web Anda untuk mengalami peningkatan peringkat.
 
@@ -109,4 +134,3 @@ Jadi, terus tingkatkan teknik white hat Anda untuk memberikan nilai lebih kepada
 - [Cara Menghapus Backlink Spam](https://www.aradechoco.com/menghapus-backlink-spam/)
 - [Optimasi SEO dengan Schema Markup](https://www.aradechoco.com/optimasi-schema-markup/)
 - [Teknik SEO](https://www.aradechoco.com/teknik-seo/) - Aspek penting yang tidak boleh di lewatkan
-
