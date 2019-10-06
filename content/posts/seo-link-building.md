@@ -13,17 +13,21 @@ tags:
 
 ## Search Engine Optimization (SEO) 
 
-[Optimisasi SEO](https://www.aradechoco.com/SEO-untuk-pemula/) secara luas dibagi menjadi dua yaitu `SEO on-page` dan `SEO off-page`. SEO on-page mengacu pada proses pengoptimalkan konten teknis dan konten situs web Anda untuk mesin pencari. Sedaangkan SEO Off-page mengacu pada proses menerima backlink (Inbound Links) dari situs web eksternal.
+[Optimisasi SEO](https://www.aradechoco.com/SEO-untuk-pemula/) secara luas dibagi menjadi dua yaitu [SEO on-page dan SEO off-page](https://www.aradechoco.com/seo-on-page-dan-seo-off-page/). 
 
-Proses mempercepat proses penerimaan backlink dari situs eksternal disebut dengan `Link Building`. Artikel ini menjawab pertanyaan yang diajukan banyak orang tentang Pembuatan Link / Link Building.
+**SEO on-page** mengacu pada proses pengoptimalkan konten teknis dan konten situs web Anda untuk mesin pencari. 
+
+Sedangkan **SEO Off-page** mengacu pada proses menerima backlink (Inbound Links) dari situs web eksternal.
+
+Proses mempercepat proses penerimaan backlink dari situs eksternal disebut dengan `Link Building`. Pada artikel kali ini saya akan menjawab pertanyaan yang diajukan banyak orang tentang Pembuatan Link / **Link Building**.
 
 ## Di mana saya bisa mendapatkan informasi backlink?
 
 Anda dapat memeriksa dengan mengelik tautan eksternal di menu Tautan di Google Search Console.
 
-## Berapa banyak backlink yang di perlukan untuk tayang di halaman pertama?
+## Berapa banyak backlink yang di perlukan untuk tampil di halaman pertama ?
 
-Tidak tetap. Tayangan dan rank teratas bersifat relatif, sehingga menguntungkan jika memiliki lebih banyak backlink daripada situs web pesaing Anda. Tetapi dalam kasus ini, jumlah backlink tidak menjamin page one.
+Tidak tetap. Tayangan dan rank teratas bersifat relatif, sehingga menguntungkan jika memiliki lebih banyak backlink daripada situs web pesaing Anda. Tetapi dalam kasus ini, jumlah backlink tidak menjamin menaikkan peringkat situs Anda dan tampil di halaman pertama Google.
 
 ##  Di mana tempat mendapatkan backlink?
 
@@ -35,11 +39,11 @@ Sangatlah penting dari halaman mana Anda menerima backlink. Jika sebuah situs we
 
 Cara termudah adalah dengan mendapatkan backlink dari social bookmarking. Daripada menggunakan metode berlebihan untuk menambahkan backlink dalam komentar atau spam komentar, lebih baik meningkatan backlink secara alami melalui optimasi di sosial  media dan rajin update konten berkualitas.
 
-Dulu, banyak optimasi backlink dengan teknik Blackhat SEO seperti memanipulasi situs dan link factory, tetapi saat ini, backlink dari link building otomatis ini atau situs web yang baru dibuat tidak akan efektif, karerna robot mesin pencari dapat mendeteksinya dengan mudah. Anda bisa mendapatkan hukuman dalam rank hasil pencarian atau Google Pinalty.
+Dulu, banyak optimasi backlink dengan [teknik Blackhat SEO](https://www.aradechoco.com/teknik-black-hat-seo/) seperti memanipulasi situs dan link factory, tetapi saat ini, backlink dari link building otomatis ini atau situs web yang baru dibuat tidak akan efektif, karerna robot mesin pencari dapat mendeteksinya dengan mudah. Anda bisa mendapatkan hukuman dalam rank hasil pencarian atau yang di sebut dengan Google Pinalty.
 
 ## Apakah backlink dari Wikipedia tidak efisien karena memberikan tautan nofollow?
 
-Atribut nofollow pada link memberi tahu mesin pencari untuk "Jangan lacak tautan di halaman ini" atau "Jangan lacak tautan tertentu." Misalnya, kode ini seperti ini:
+Atribut [nofollow pada link](https://www.aradechoco.com/do-follow-dan-no-follow/) memberi tahu mesin pencari untuk "Jangan lacak tautan di halaman ini" atau "Jangan lacak tautan tertentu." Misalnya, kode ini seperti ini:
 
 ```
 <a href="signin.php" rel="nofollow"> Masuk </a>
@@ -83,6 +87,3 @@ Ini tidak berarti bahwa Anda akan menolak semua situs web yang tidak terkait. Ji
 - [Cara Riset Keyword](https://www.aradechoco.com/cara-riset-keyword-untuk-pemula/) : Long Tail dan Short Tail untuk Pemula
 - [SEO Untuk Pemula](https://www.aradechoco.com/SEO-untuk-pemula/) - Langkah Awal Untuk Naik Peringkat Google 
 - [Membangun Backlink melalui Wikipedia](https://www.aradechoco.com/backlink-melalui-wikipedia/)
-
-
-
