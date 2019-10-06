@@ -29,7 +29,9 @@ Di atas merupakan cara-cara memilih Kata Kunci SEO yang baik, tapi ada satu hal 
 
 Frasa ini berarti Setiap pencari memiliki niat untuk menginginkan sesuatu dari Google, dan niat itu ditunjukkan melalui Kata Kunci yang dia gunakan. Tentu saja, Google menggunakan niat pencari untuk menentukan apa hasilnya (SERP) yang seharusnya.
 
-Istilah "Konteks Kata Kunci dalam Pencarian" dan SEO akan jauh lebih mudah. Pertama-tama, coba cari melalui Google bersama dengan contoh di bawah ini. Dan pada akhirnya, saya akan memberi tahu Anda apa yang ditunjukkan contoh di bawah ini kepada Anda.
+Istilah "Konteks Kata Kunci dalam Pencarian" dan SEO akan jauh lebih mudah. Pertama-tama, coba cari melalui Google. 
+
+Sebagai contohnya di bawah ini.
 
 Saat mencari melalui Google dengan kata kunci luas `"Pizza"`, hasil yang dikembalikan Google akan menjadi toko pizza di area itu, ditampilkan sebagai Cuplikan Kaya seperti Peta yang mengidentifikasi toko pizza di area si pencari. 
 
