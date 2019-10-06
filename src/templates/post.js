@@ -8,6 +8,7 @@ import PostTags from '../components/PostTags'
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 import { formatDate, editOnGithub } from '../utils/global'
+import Comments from '../components/Comments'
 import NewsletterForm from '../components/NewsletterForm'
 import Disqus from 'disqus-react'
 import AdSense from 'react-adsense'
@@ -18,13 +19,27 @@ export default class PostTemplate extends Component {
 
     this.state = {
       error: false,
-     
+       comments: [],
+    }
+  }
+
+  async componentDidMount() {
+    const { slug } = this.props.pageContext
+
+    try {
+      const response = await fetch(`${config.commentsApi}${slug}`)
+      const comments = await response.json()
+
+      this.setState({ comments })
+    } catch (error) {
+      this.setState({ error: true })
     }
   }
 
   render() {
     const { comments, error } = this.state
     const { slug } = this.props.pageContext
+    const commentSlug = slug.replace(/\\|\//g, '')
     const postNode = this.props.data.markdownRemark
     const post = postNode.frontmatter
     const popular = postNode.frontmatter.categories.find(category => category === 'Popular')
@@ -47,7 +62,16 @@ export default class PostTemplate extends Component {
       config.siteUrl
     }/${post.slug}/&via=aradechoco`
 
-   
+    const commentTitle = commentLength => {
+      if (commentLength < 1) {
+        return 'Comments'
+      } else if (commentLength === 1) {
+        return '1 comment'
+      } else {
+        return `${commentLength} comments`
+      }
+    }
+    
     const baseUrl = 'https://www.aradechoco.com'
     const disqusShortname = 'aradechoco-com';
         const disqusConfig = {
@@ -109,7 +133,7 @@ export default class PostTemplate extends Component {
         </div>
         <UserInfo config={config} />
         <div className="container">
-       
+       {!error && <Comments commentsList={comments} slug={commentSlug} />}
           <Disqus.DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
         </div>
       </Layout>
