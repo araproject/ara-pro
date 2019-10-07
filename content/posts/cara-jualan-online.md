@@ -14,7 +14,7 @@ Perilaku konsumen yang beralih menggunakan internet lebih banyak menyebabkan ban
 
 Saya memiliki informasi untuk dipertimbagkan sebelum memilih Situs jualan online.
 
-![](../thumbnails/online-shop.png)
+![](../thumbnails/online-shop.jpg)
 
 ## Media Sosial
 
@@ -48,7 +48,7 @@ Platform media sosial populer lainnya adalah Instagram. Penjualan pada platform 
 - Ada banyak pengguna. Dan memiliki kampanye promosi di seluruh Menghasilkan lebih banyak peluang penjualan.
 - Ada berbagai sistem pembayaran, seperti wire transfers, transfer melalui kartu kredit. Dan ada jaminan bahwa pelanggan akan menerima produk.
 
-###n Kerugian dari Marketplace
+### Kerugian dari Marketplace
 
 - Ada banyak pesaing. Karena itu, harus memiliki strategi untuk membuat toko muncul pertama kali di jenis toko yang sama. Atau mungkin harus membayar untuk membeli ruang untuk toko mereka sendiri
 - Pelanggan dapat dengan mudah membandingkan harga dari produk yang sama. Jika kita menetapkan harga lebih tinggi dari toko lain Mungkin sulit untuk menjual produk.
