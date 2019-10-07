@@ -10,9 +10,7 @@ tags:
   - info
 ---
 
-Perilaku konsumen yang beralih menggunakan internet lebih banyak menyebabkan banyak pengusaha beralih untuk menjual produk secara online, yaitu dengan membuat situs web toko online. Ada berbagai bentuk penggunaan, kelebihan, kekurangan, dan biaya. 
-
-Saya memiliki informasi untuk dipertimbagkan sebelum memilih Situs jualan online.
+Perilaku konsumen semakin hari semakin banyak yang beralih menggunakan internet menyebabkan para pelaku bisnis beralih untuk menjual produknya secara online, dengan membuat **situs web toko online**. Ada berbagai bentuk seperti penggunaan, kelebihan, kekurangan, dan biaya untuk dipertimbagkan sebelum memilih Situs jualan online.
 
 ![](../thumbnails/online-shop.jpg)
 
