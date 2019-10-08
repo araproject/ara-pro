@@ -10,28 +10,30 @@ tags:
   - optimasi
   - off page
 ---
+Bebarapa forum SEO di seluruh dunia menyarankan untuk melakukan [Optimasi SEO Off-page](https://www.aradechoco.com/seo-dasar-untuk-pemula/) karena memiliki pengaruh besar terhadap SEO, dan **link No-Follow** sering kali menjadi perdebatan, apakah itu memengaruhi SEO ?.
 
-Apakah Link No Follow mempengaruhi peringkat situs web dalam peringkat di hasil pencarian dan apakah Do Follow dan No Follow masih diperlukan untuk SEO?
+Mengapa masalah ini selalu menjadi kontroversi di industri SEO ? 
 
-Mengapa masalah ini selalu menjadi kontroversi di industri SEO? Menurut pendapat saya, ini terkait dengan SEO Off-Page, yaitu [Backlink](https://www.aradechoco.com/apa-itu-backlink/). 
+Menurut pendapat saya, ini terkait dengan **SEO Off-Page**, yaitu [Backlink](https://www.aradechoco.com/apa-itu-backlink/). 
 
-Forum-forum SEO di seluruh dunia menyarankan untuk melakukan [Optimasi SEO Off-page](https://www.aradechoco.com/seo-dasar-untuk-pemula/) yang memiliki pengaruh besar terhadap SEO, dan berkali-kali link No-Follow sering kali didebatkan apakah itu benar-benar akan memengaruhi SEO ?.
+- Apakah Link No Follow mempengaruhi peringkat situs web  ?
+- Apakah Do Follow dan No Follow masih diperlukan untuk SEO ?
 
-Sebelum membahas lebih mendalam, pertama-tama saya ingin Anda memahami apa itu Do Follow dan No Follow dan bagaimana mereka berhubungan dengan SEO Off-page.
+Sebelum membahas lebih mendalam, pertama-tama saya ingin Anda memahami apa itu Do Follow dan No Follow dan apa hubungannya dengan **SEO Off-page**.
 
 ![](../thumbnails/nofollow-link.png)
 
 ## Apa itu Do Follow ?
 
-Ketika terhubung ke situs web lain maka Situs web itu juga akan menerima skor SEO tersebut (seolah-olah situs web itu dipilih). 
+Ketika kita terhubung ke situs web lain maka Situs web itu juga akan menerima skor SEO tersebut (seolah-olah situs web itu dipilih). 
 
-Itu adalah dasar dari backlink  yang harus dipahami semua orang.  
+Itu adalah dasar dari backlink yang harus dipahami semua orang.  
 
 Semakin banyak situs web yang mendapatkan banyak backlink, semakin banyak trafik yang akan didapat dan itu akan mengarah ke halaman hasil pencarian yang lebih tinggi. 
 
-Dan ini adalah definisi dari Link Do Follow. Ini adalah tautan yang akan mengirim skor SEO ke situs web tujuan.
+Dan ini adalah definisi dari **Link Do Follow**, Tautan yang akan mengirim skor SEO ke situs web tujuan.
 
-Di sudut teknis, menautkan ke situs web lain dan menugaskannya ke Do Follow berarti Googlebots dapat mengikuti tautan itu ke halaman tujuan.
+Dari sudut teknis, jika ada link yang tertaut di dalam postingan ke situs lain secara `do follow`, artinya blog tersebut mengikuti link yang ditautkan. berarti Google Bot saat melakukan crawl (perayapan) kepada situs yang ditautkan tersebut. 
 
 Algoritma Google menggunakan robot untuk mengikuti tautan untuk mencari tautan antara situs web yang saling bertautan. 
 
@@ -43,11 +45,13 @@ Dan kemungkinan besar bahwa halaman web itu akan diindeks ke dalam basis data Go
 
 ## Apa itu No Follow?
 
-Sedangkan untuk No Follow, jika ingin mudah dimengerti Ingat bahwa definisi apa yang bertentangan dengan Do Follow adalah tautan ke situs web lain tanpa meneruskan skor SEO ke situs web tujuan.
+Sedangkan untuk No Follow, jika ingin mudah dimengerti Ingat bahwa definisi apa yang bertentangan dengan Do Follow.
 
-Ketika tautan ditetapkan sebagai tidak ada tindak, itu berarti bahwa situs web tujuan yang menerima backlink tidak akan mendapatkan skor SEO (seolah-olah tidak dipilih) dan yang paling penting, Googlebots tidak akan mengikuti tujuan itu.
+Yaitu link yang meminta Google bot untuk tidak mengikuti website yang ada dalam link tersebut. Dengan demikian, saat Google melakukan crawl robot-robot pencari itu akan mengabaikan dan tidak menganggap link tersebut sehingga tidak akan di index sama sekali.
 
-Ini adalah standar yang digunakan oleh banyak Mesin Pencari.
+Ketika tautan ditetapkan sebagai **no follow**, itu berarti situs web tujuan yang menerima backlink tidak akan mendapatkan skor SEO (seolah-olah tidak dipilih) dan yang paling penting, Googlebots tidak akan mengikuti tujuan itu.
+
+Ini adalah standar yang digunakan oleh banyak Mesin Pencari
 
 Metode No Follow adalah menyisipkan perintah `rel = "nofollow"`  ke dalam `<a href>` selama pembuatan tautan. Sebagian besar digunakan di Forum atau Komentar di bawah artikel untuk mencegah orang memposting apa pun yang merupakan spam.
 
@@ -60,14 +64,14 @@ Itu artinya tidak bisa meningkatkan peluang untuk halaman tujuan untuk diindeks 
 
 ## Apakah Link No Follow Benar-Benar Tidak Berguna untuk SEO?
 
-Pertanyaan ini dibagi menjadi 2 bagian yaitu
+Jawaban dari pertanyaan ini dibagi menjadi 2 bagian yaitu
 
 - Orang yang percaya bahwa No Follow tidak berguna untuk SEO.
 - Orang yang berpikir bahwa No Follow berguna untuk SEO.
 
 Saya pribadi memilih berada di bagian 2. Jika melihat definisi yang tertulis di atas, No Follow tidak berguna.
 
-Ini benar-benar tidak berharga untuk SEO, dan kita seharusnya tidak membuang waktu untuk melakukan Backlink dari situs No Follow Link.
+Ini benar-benar tidak terlalu berguna untuk SEO, dan seharusnya kita tidak membuang waktu untuk melakukan Backlink dari situs No Follow Link.
 
 Tetapi apakah Anda percaya bahwa sebagian besar Backlink paling alami di dunia ini adalah No Follow? Yang Anda lakukan dari Facebook, Twitter juga no follow.
 
@@ -81,7 +85,7 @@ Poin lain adalah bahwa Do Follow memberikan halaman web yang menerima backlink u
 
 Saya percaya bahwa banyak orang saat ini tidak peduli dengan Backlink, apakah itu membantu halaman web diindeks lebih mudah? Karena algoritma Google sangat cerdas, masih ada banyak cara untuk mengindeks halaman web tanpa harus mengandalkan backlink.
 
-## Haruskah Backlink No follow ?
+## Haruskah membangun Backlink No follow ?
 
 Hanya karena No Follow tidak memberikan skor SEO, itu tidak berarti itu tidak berguna.
 
