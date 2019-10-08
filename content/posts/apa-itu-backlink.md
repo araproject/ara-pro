@@ -15,7 +15,9 @@ tags:
 
 ## Apa itu backlink?
 
-Backlink adalah link yang ditautkan dengan situs web dan merujuk ke situs web lain. Namun, tidak semua link dikenali sebagai backlink oleh mesin pencari sperti Google. Backlink yang dapat dikenali oleh mesin pencari haruslah hyperlink yang dapat diklik. Contohnya, `https://www.aradechoco.com` dengan link yang dihapus tidak dianggap sebagai backlink, tapi dengan link https://www.aradechoco.com 
+Backlink adalah link yang ditautkan dengan situs web dan merujuk ke situs web lain. Namun, tidak semua link dikenali sebagai backlink oleh mesin pencari sperti Google. Backlink yang dapat dikenali oleh mesin pencari haruslah hyperlink yang dapat diklik. 
+
+Contohnya, `https://www.aradechoco.com` dengan link yang dihapus tidak dianggap sebagai backlink, tapi dengan link https://www.aradechoco.com 
 ini dianggap sebagai backlink.
 
 ## Apakah dengan banyak backlink itu bagus untuk SEO ? 
@@ -34,6 +36,7 @@ Singkatnya, semakin banyak backlink berkualitas tinggi yang diterima dari berbag
 ## Mengapa backlink itu penting untuk SEO ?
 
 Intinya, backlink ke situs Anda adalah sinyal ke mesin pencari yang lain yang memberikan jaminan bahwa konten Anda bagus, relevan, dan juga dapat membantu mereka. Jika banyak situs yang menautkan link ke halaman yang sama, mesin telusur dapat menyimpulkan bahwa konten tersebut layak ditampilkan pada halaman pertama pada keyword yang berhubungan.
+
 Jadi, mendapatkan backlink dapat memberikan efek positif pada posisi peringkat suatu situs website dalam hal visibilitas pencarian.
 
 ### Meningkatkan Pagerank
@@ -45,15 +48,19 @@ Seperti yang disebutkan sebelumnya, backlink adalah sebuah link yang di tanamkan
 Memiliki banyak backlink secara alami akan meningkatkan jaringan bisnis Anda dan meningkatkan trafik. Jika seseorang membaca posting yang bagus dan melihat backlink menunju ke sumber itu, kemungkinan mereka akan mengklik link tersebut untuk mencari tahu siapa penulisnya dan di mana mereka mempostingnya.
 
 ### Meningkatkan Organic Search atau Pencarian Organik 
-Pencarian organik adalah hasil pencarian mesin pencari, bukan hasil pencarian kata kunci, yang merupakan iklan bayar per klik seperti PPC atau CPC. Membangun backlink memiliki dampak positif untuk rank search engine karena mesin pencari adalah salah satu kriteria di mana situs web adalah situs web tepercaya yang diakui oleh situs web lain. Karena itu, pengelolaan backlink yang baik dapat sangat membantu untuk tampil di page one mesin pencari.
+Pencarian organik adalah hasil pencarian mesin pencari, bukan hasil pencarian kata kunci, yang merupakan iklan bayar per klik seperti PPC atau CPC. 
+
+Membangun backlink memiliki dampak positif untuk rank search engine karena mesin pencari adalah salah satu kriteria di mana situs web adalah situs web tepercaya yang diakui oleh situs web lain. Karena itu, pengelolaan backlink yang baik dapat sangat membantu untuk tampil di page one mesin pencari.
 
 
 ## Istilah-istilah Backlink
 
-`Link Juice` : Istilah ini digunakan untuk merujuk pada nilai hyperlink atau backlink ke situs web atau halaman tertentu. Ketika tautan dari situs web atau post apa pun ke situs kami dipostkan, tautan itu akan menghasilkan 'link juice', yang membantu mendapatkan peringkat yang lebih tinggi pada mesin pencari. Misalnya, jika halaman A memposting link ke kata kunci ganda, link itu akan memberikan link juice, yang akan membantu keyword kembar dan meningkatkan [peringkat](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/) di mesin pencari.
+`Link Juice` : Istilah ini digunakan untuk merujuk pada nilai hyperlink atau backlink ke situs web atau halaman tertentu. Ketika tautan dari situs web atau post apa pun ke situs tersebut di publish, maka tautan itu akan menghasilkan 'link juice', yang membantu mendapatkan peringkat yang lebih tinggi pada mesin pencari. 
+
+Misalnya, jika halaman A memposting link ke kata kunci ganda, link itu akan memberikan link juice, yang akan membantu meningkatkan [peringkat](https://www.aradechoco.com/cara-mengetahui-peringkat-situs-web/) di mesin pencari.
  
 
-`Nofollow` : Tautan ini tidak memberikan link juice di situs web atau halaman, juga tidak berkontribusi pada peringkat mesin pencari. Jika Anda tidak ingin meningkatkan peringkat situs web yang Anda rujuk dengan backlinking, Anda dapat menggunakan tautan nofollow, yaitu 
+`Nofollow` : Tautan ini tidak memberikan link juice di situs web atau halaman, dan juga tidak berkontribusi pada peringkat mesin pencari. Jika tidak ingin meningkatkan peringkat situs web yang Anda rujuk dengan backlink, Anda dapat menggunakan tautan nofollow, yaitu 
 
 ```
 <a href="http://www.website.com" rel="nofollow"> Teks... </a>.
@@ -77,7 +84,9 @@ Pencarian organik adalah hasil pencarian mesin pencari, bukan hasil pencarian ka
 `Follow the link` : Secara default, semua tautan diikuti, jadi link juice akan dikirim kecuali Anda menyetelnya sebagai tidak ada tautan ikuti.
  
 
-`Anchor text atau link text` : Teks ini merujuk pada teks yang dapat diklik, digaris bawahi dalam hyperlink berwarna biru. Optimasi anchor text berfungsi dengan baik ketika Anda ingin mendapatkan keuntungan di posisi pencarian kata kunci tertentu. Misalnya, jika Anda memiliki tautan yang berbunyi "klik di sini," Anda harus menggantinya dengan nama laman yang ditautkannya, atau kata kunci yang diwakilinya (misalnya, "alat manajemen media sosial"). Gunakan beberapa tools gratis untuk mencari sugesti kata kunci seperti (Keyword Research) jika diperlukan.
+`Anchor text atau link text` : Teks ini merujuk pada teks yang dapat diklik, digaris bawahi dalam hyperlink berwarna biru. Optimasi anchor text berfungsi dengan baik ketika Anda ingin mendapatkan keuntungan di posisi pencarian kata kunci tertentu. 
+
+Misalnya, jika Anda memiliki tautan yang berbunyi "klik di sini," Anda harus menggantinya dengan nama laman yang ditautkannya, atau kata kunci yang diwakilinya (misalnya, "alat manajemen media sosial"). Gunakan beberapa tools gratis untuk mencari sugesti kata kunci seperti (Keyword Research) jika diperlukan.
  
 
 `Link the root domain` : Jumlah backlink dari domain Anda ke situs web Anda. Tidak peduli berapa banyak backlink yang Anda miliki, tidak ada efek pada peringkat teratas mesin pencari jika semua domain yang memiliki backlink adalah sama.
