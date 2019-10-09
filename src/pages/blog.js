@@ -5,6 +5,7 @@ import Layout from '../layout'
 import PostListing from '../components/PostListing'
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
+import AdSense from 'react-adsense'
 
 export default class BlogPage extends Component {
   state = {
@@ -95,11 +96,13 @@ export default class BlogPage extends Component {
             <div className="filter-count">{filterCount}</div>
           </div>
           <PostListing postEdges={filteredPosts} />      
+               <div>
                 <AdSense.Google
                   client="ca-pub-5908100338136939"
                   // slot="test"
                   style={{display: "block"}}
-                  layout="in-article" format="auto"/>         
+                  layout="in-article" format="auto"/>
+            </div>        
         </div>
       </Layout>
     )
