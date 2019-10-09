@@ -80,6 +80,16 @@ export default class Index extends Component {
             <PostListing simple postEdges={latestPostEdges} />
           </section>
 
+            <section className="section">
+            <div>
+                <AdSense.Google
+                  client="ca-pub-5908100338136939"
+                  // slot="test"
+                  style={{display: "block"}}
+                  layout="in-article" format="auto"/>
+            </div>
+          </section>
+
           <section className="section">
             <h2>
               Most Popular
