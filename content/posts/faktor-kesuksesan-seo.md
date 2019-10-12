@@ -1,6 +1,6 @@
 ---
 date: 2019-10-12
-title: '7 faktor penting yang menentukan kesuksesan SEO 2020'
+title: '7 faktor penting yang menentukan kesuksesan SEO'
 template: post
 thumbnail: '../thumbnails/faktor-seo.png'
 slug: faktor-kesuksesan-seo
