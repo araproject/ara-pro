@@ -78,3 +78,4 @@ Manfaat paling penting dari SEO adalah jika kita dapat menempatkan situs web kit
 - [Cara Menulis Judul Artikel yang SEO Friendly](https://www.aradechoco.com/judul-artikel-seo-friendly/)
 - [Apa itu Do Follow dan No Follow? Pentingkah untuk SEO?](https://www.aradechoco.com/do-follow-dan-no-follow/)
 - [Seberapa penting link Internal dan Eksternal untuk SEO ?](https://www.aradechoco.com/link-internal-dan-eksternal/)
+- [7 faktor penting yang menentukan kesuksesan SEO](https://www.aradechoco.com/faktor-kesuksesan-seo/)
