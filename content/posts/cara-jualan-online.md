@@ -1,6 +1,6 @@
 ---
 date: 2019-10-07
-title: 'Cara memilih situs web untuk jualan online'
+title: 'Cara memilih platform untuk jualan online'
 template: post
 thumbnail: '../thumbnails/toko-online.png'
 slug: cara-jualan-online
