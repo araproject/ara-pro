@@ -14,23 +14,23 @@ tags:
   - off page
 ---
 
-Banyak webmaster mendambakan kesuksesan instan yang mengarahkan mereka untuk mengikuti teknik SEO yang tidak etis yang disebut [Teknik Black Hat SEO](https://www.aradechoco.com/teknik-black-hat-seo/). 
+Banyak pemula mendambakan kesuksesan instan yang mengarahkan mereka untuk mengikuti teknik SEO yang tidak etis yang disebut [Teknik Black Hat SEO](https://www.aradechoco.com/teknik-black-hat-seo/). 
 
-Meskipun pelaksanaan teknik-teknik tersebut dapat membantu peringkat situs web lebih tinggi dari pesaing mereka di SERP, tapi hanya bertahan sementara.
+Meskipun pelaksanaan teknik-teknik tersebut dapat membantu peringkat situs web menjadi lebih tinggi dari pesaing mereka di SERP, tapi itu hanya bertahan sementara.
 
-Bot mesin pencari terus merayapi situs web dan sekali situs black hat berada di bawah radar mereka, hasilnya akan menjadi de-rangking dan de-indeks site-wide. 
+Bot mesin pencari akan terus merayapi situs web black hat yang berada di bawah radar mereka, hasilnya dapat membuat situs web menjadi de-rangking dan de-indeks. 
 
-Jadi, mengikuti teknik black hat dapat menghapus seluruh situs web Anda dari Google. Untuk menghindari risiko itu, Anda harus mengandalkan teknik SEO etis (juga disebut teknik White Hat SEO) untuk mencapai peringkat SERP yang lebih tinggi dan untuk mengungguli pesaing Anda.
+Jadi, dengan mengikuti teknik black hat dapat menghapus seluruh situs web Anda dari Google. Untuk menghindari risiko itu, Anda harus mengandalkan teknik SEO etis (juga disebut teknik White Hat SEO) untuk mencapai peringkat yang lebih tinggi dan untuk mengungguli pesaing Anda di SERP ( Search Engine Result Page ).
 
 ## Apa itu White Hat SEO?
 
-Mengikuti strategi SEO resmi Google untuk meningkatkan visibilitas dan peringkat online Anda disebut White Hat SEO. Dasar dari setiap pedoman resmi Google adalah sederhana, 'ingat pengguna'. 
+Mengikuti strategi SEO resmi Google untuk meningkatkan visibilitas dan peringkat Anda disebut dengan White Hat SEO. Dasar dari setiap pedoman resmi Google adalah sederhana, 'mengutamakan pengguna'. 
 
-Hampir setiap bulan, Google meluncurkan pembaruan baru yang bertujuan untuk meningkatkan kualitas pencarian untuk memberikan pengguna hasil yang lebih baik dan akurat sesuai dengan permintaan pencarian mereka.
+Hampir setiap bulan, Google melakukan pembaruan baru yang bertujuan untuk meningkatkan kualitas pencarian untuk memberikan hasil yang lebih baik dan akurat untuk pengguna sesuai dengan permintaan pencarian mereka.
 
-Namun, menggunakan teknik SEO white hat dapat menjadi sulit untuk peringkat tinggi karena situs web lain mungkin menargetkan kata kunci yang sama seperti Anda mengoptimalkan konten mereka. 
+Namun, menggunakan teknik SEO white hat dapat menjadi sulit untuk mencapai peringkat tinggi karena situs web lain mungkin sudah menargetkan kata kunci yang sama.
 
-Kita semua tahu bahwa Google selalu memberi peringkat konten yang lebih baik pada SERP, jadi, bagaimana Anda dapat memberi tahu Google bahwa konten Anda adalah yang lebih baik?
+Kita semua tahu bahwa Google selalu memberi peringkat untuk konten yang berkualitas pada SERP, jadi, bagaimana cara memberi tahu Google bahwa konten kita juga lebih baik?
 
 Pada artikel ini, saya akan berbagi **beberapa teknik white hat SEO paling populer** untuk mengungguli pesaing Anda di Google.
 
@@ -38,9 +38,9 @@ Pada artikel ini, saya akan berbagi **beberapa teknik white hat SEO paling popul
 
 #### Apa itu riset kata kunci?
 
-Proses pencarian keyword yang relevan dengan volume pencarian tinggi dan persaingan yang lebih rendah, dan menambahkannya ke database kata kunci atau daftar kata kunci target Anda, disebut riset keyword / kata kunci. 
+Proses pencarian keyword yang relevan dengan volume pencarian tinggi tapi persaingan yang lebih rendah, dan menambahkannya ke database kata kunci atau daftar kata kunci target Anda, disebut [riset keyword / kata kunci](https://www.aradechoco.com/jenis-kata-kunci/). 
 
-Ini adalah komponen mendasar untuk membuat mesin pencari situs web jadi ramah, dan menargetkan kata kunci yang tepat dapat meningkatkan peringkat Anda di SERPs.
+Ini adalah komponen dasar untuk membuat mesin pencari jadi friendly, dengan menargetkan kata kunci yang tepat agar dapat meningkatkan peringkat Anda di SERPs.
 
 #### Bagaimana cara melakukan riset keyword?
 
