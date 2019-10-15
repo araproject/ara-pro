@@ -1,6 +1,6 @@
 ---
 date: 2019-10-15
-title: 'Cara menambahkan viewer dan susbcribe Youtube dengan SEO'
+title: 'Cara menambahkan Viewer dan Subscribe Youtube dengan SEO'
 template: post
 thumbnail: '../thumbnails/youtube.png'
 slug: seo-youtube
@@ -15,7 +15,7 @@ tags:
 
 **SEO YouTube** berkaitan dengan pengoptimalan video, saluran ( chanel ), metadata, playlist ( daftar putar ) dan deskripsi untuk pencarian internal dan eksternal di YouTube.
 
-Selain itu, salah satu cara terbaik untuk melakukan SEO YouTube adalah menyesuaikan informasi dalam video Anda: Subtitle, teks tertutup dan menambahkan transkrip / subtitle.
+Selain itu, salah satu cara terbaik untuk menigkatkan views dan subscribe YouTube adalah dengan menyesuaikan informasi dalam video Anda seperti Subtitle, cover teks dan menambahkan transkrip / subtitle.
 
 ![](../thumbnails/panduan-seo-youtube-untuk-meningkatkan-viewers-dan-subscribe.png)
 
@@ -72,7 +72,7 @@ Ini akan membantu mendorong vierws untuk mengetahui lebih lanjut tentang merek /
 - Gunakan kata kunci dalam deskripsi Anda.
 - Gunakan kata kunci hanya sekali dalam deskripsi.
 
-## Buat Daftar Putar / playlist di Chanel YouTube Anda.
+## Buat Daftar Putar / Playlist di Chanel YouTube Anda.
 
 Playlist adalah langkah terakhir saat setelah mengunggah video di YouTube.
 
