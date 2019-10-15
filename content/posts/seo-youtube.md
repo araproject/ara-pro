@@ -1,5 +1,5 @@
 ---
-date: 2019-10-07
+date: 2019-10-15
 title: 'Cara menambahkan viewer dan susbcribe Youtube dengan SEO'
 template: post
 thumbnail: '../thumbnails/youtube.png'
@@ -8,6 +8,7 @@ categories:
   - SEO
 tags:
   - info
+  - youtube
 ---
 
 ## Apa itu SEO YouTube ?
@@ -159,7 +160,7 @@ Jika Anda melakukannya dengan benar maka Video Anda akan mendapatkan peringkat y
 
 Nama tools ini adalah vidIQ untuk Membantu SEO YouTube.
 
-Apa itu vidIQ ?
+**Apa itu vidIQ ?**
 
 vidIQ adalah tools gratis yang digunakan untuk Menganalisis informasi status terperinci untuk video YouTube. Tools ini dibuat sebagai ekstensi untuk Browser Chrome. 
 
@@ -170,7 +171,7 @@ Filtur dasar
 - Menampilkan skor SEO video.
 - Menampilkan daftar periksa untuk Judul, Deskripsi, Tag, dan lainnya.
 
-Cara instal vidiQ
+**Cara instal vidiQ**
 
 Memasang vidIQ itu mudah. Cukup unduh atau klik untuk menginstal ke Ekstensi Chrome. Klik di [sini](https://vidiq.com/extension/)
 
