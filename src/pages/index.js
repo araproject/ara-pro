@@ -63,7 +63,7 @@ export default class Index extends Component {
            <section className="section">
             <div>
                 <AdSense.Google
-                  client="ca-pub-5908100338136939"
+                  client="ca-pub-xxx"
                   // slot="test"
                   style={{display: "block"}}
                   layout="in-article" format="auto"/>
@@ -83,7 +83,7 @@ export default class Index extends Component {
             <section className="section">
             <div>
                 <AdSense.Google
-                  client="ca-pub-5908100338136939"
+                  client="ca-pub-xxx"
                   // slot="test"
                   style={{display: "block"}}
                   layout="in-article" format="auto"/>
@@ -107,7 +107,7 @@ export default class Index extends Component {
           <section className="section">
             <div>
                 <AdSense.Google
-                    client="ca-pub-5908100338136939"
+                    client="ca-pub-xxx"
                     // slot="test"
                     style={{display: "block"}}
                     layout="in-article" format="auto"/>
